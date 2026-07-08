@@ -1,0 +1,72 @@
+{
+  "week": 4,
+  "theme": "Modale werkwoorden en de stad",
+  "mission": "Maak deze week één echte afspraak in het Nederlands: bij de kapper, de huisarts of de gemeente. Aan de telefoon is goud waard, maar aan de balie telt ook.",
+  "lessons": [
+    {
+      "id": "w4l1",
+      "title": "kunnen, moeten, mogen, willen",
+      "minutes": 8,
+      "body": "Four little verbs run half of daily life. They're irregular in the singular, and they kick the main verb to the end of the sentence.\n\n| | kunnen (can) | moeten (must) | mogen (may) | willen (want) |\n| ik | `kan` | moet | `mag` | wil |\n| jij | kan/kunt | moet | mag | wil(t) |\n| hij/zij | `kan` | moet | `mag` | `wil` |\n| wij | kunnen | moeten | mogen | willen |\n\nNote the missing -t: *hij kan, hij mag, hij wil* — no ~~kant~~ or ~~wilt~~ for hij.\n\n### De constructie: modaal op 2, actie aan het einde\n- *Ik `kan` goed `zwemmen`.* — I can swim well.\n- *Wij `moeten` morgen vroeg `opstaan`.*\n- *Je `mag` hier niet `parkeren`.*\n- *Ik `wil` graag een afspraak `maken`.* — the single most useful sentence in Dutch bureaucracy.\n\nFeel the bracket again: modal verb second, everything else, action verb last. This is the same skeleton as the perfectum, so your week 3 instinct transfers directly.",
+      "drill": [
+        { "q": "Vertaal: I can swim well.", "a": "Ik kan goed zwemmen." },
+        { "q": "Vertaal: We have to get up early tomorrow.", "a": "Wij moeten morgen vroeg opstaan." },
+        { "q": "Vertaal: You may not park here.", "a": "Je mag hier niet parkeren." },
+        { "q": "Vertaal: I would like to make an appointment.", "a": "Ik wil graag een afspraak maken." },
+        { "q": "Wat is er fout: 'Ik kan zwemmen goed'?", "a": "Action verb goes last: 'Ik kan goed zwemmen.'" }
+      ]
+    },
+    {
+      "id": "w4l2",
+      "title": "om ... te: waarom doe je iets?",
+      "minutes": 6,
+      "body": "To say **why** you do something (purpose), Dutch uses `om ... te` + infinitive:\n\n- *Ik leer Nederlands `om` hier `te` werken.* — I'm learning Dutch (in order) to work here.\n- *Wij gaan naar de markt `om` groente `te` kopen.*\n- *Hij belt `om` een afspraak `te` maken.*\n\n### De vorm\n`om` opens the purpose-clause, `te` sits directly before the infinitive at the end. Everything in between is just the normal middle of a sentence.\n\n### Met scheidbare werkwoorden\nte crawls **inside** the separable verb: *Ik bel om je `uit te nodigen`.* (uit-te-nodigen)\n\n### Handig patroon voor jou\n*Ik ben naar Nederland gekomen om ... te ...* — finish it your own way:\n*om te werken, om een bedrijf op te bouwen, om iets nieuws te leren.*\n\nSay your version out loud. It's a sentence people genuinely ask new arrivals for, so having it ready feels great.",
+      "drill": [
+        { "q": "Vertaal: I'm learning Dutch to work here.", "a": "Ik leer Nederlands om hier te werken." },
+        { "q": "Vertaal: We're going to the market to buy vegetables.", "a": "Wij gaan naar de markt om groente te kopen." },
+        { "q": "Combineer met om...te: ik bel / ik nodig je uit", "a": "Ik bel om je uit te nodigen. — te kruipt in het scheidbare werkwoord" },
+        { "q": "Maak af: Ik ben naar Nederland gekomen om ...", "a": "... hier te werken / een bedrijf op te bouwen / iets nieuws te leren" },
+        { "q": "Waar staat 'te'?", "a": "Direct voor de infinitief, aan het einde van de zin." }
+      ]
+    },
+    {
+      "id": "w4l3",
+      "title": "er is, er zijn en de plaats",
+      "minutes": 7,
+      "body": "Saying what exists and where things are: the vocabulary of every 'waar is...?' conversation.\n\n### er is / er zijn\n- *`Er is` een apotheek in de buurt.* — there's a pharmacy nearby.\n- *`Er zijn` veel fietsen in Utrecht.* — there are many bikes in Utrecht.\n\nDutch needs that little `er`, just like English needs 'there'. Without it (*Een apotheek is in de buurt*) you sound like a robot.\n\n### De plaatswoorden\n| woord | betekent | voorbeeld |\n| in | in | in de stad |\n| op | on | op de tafel, op de markt |\n| aan | at/on (edge) | aan de muur, aan zee |\n| bij | at/near | bij het station |\n| naast | next to | naast de bakker |\n| tussen | between | tussen de bank en de apotheek |\n| tegenover | opposite | tegenover het station |\n| achter / voor | behind / in front of | achter het huis |\n\n### De 3 D's van dingen die ergens zijn\nDutch rarely says 'is' for objects; it says how they are there: *staan* (standing), *liggen* (lying), *hangen* (hanging).\n- *De fles `staat` op tafel.* *Het boek `ligt` op de bank.* *De foto `hangt` aan de muur.*\nDon't stress this yet; recognise it when you hear it.",
+      "drill": [
+        { "q": "Vertaal: There is a pharmacy near the station.", "a": "Er is een apotheek bij het station." },
+        { "q": "Vertaal: There are many bikes in the city.", "a": "Er zijn veel fietsen in de stad." },
+        { "q": "Kies: De bakker zit ___ de bank en de apotheek. (naast/tussen)", "a": "tussen — between the two" },
+        { "q": "Vertaal: The café is opposite the station.", "a": "Het café is tegenover het station." },
+        { "q": "staan, liggen of hangen: De foto ___ aan de muur.", "a": "hangt" }
+      ]
+    },
+    {
+      "id": "w4l4",
+      "title": "Bij de gemeente en de huisarts",
+      "minutes": 8,
+      "body": "Two counters where Dutch actually gets tested. Here are the scripts; the /gesprek sessions with Claude will roleplay them until they're automatic.\n\n### Bij de gemeente\n- *Goedemorgen, ik heb om tien uur een afspraak.*\n- *Ik kom mijn paspoort ophalen.* — I'm here to pick up my passport.\n- Baliemedewerker: *Mag ik uw legitimatie zien?* → geef je ID: *Alstublieft.*\n- *U moet dit formulier invullen.* → *Waar moet ik tekenen?* — where do I sign?\n- Snap je iets niet: *Sorry, kunt u dat langzamer zeggen? Ik leer nog Nederlands.*\n\n### Bij de huisarts\nFirst rule of Dutch healthcare: you call the *assistente* first, and she asks what's wrong (triage). Have your symptoms ready:\n- *Ik wil graag een afspraak maken.*\n- *Waar heeft u last van?* — what's bothering you? (LEARN this question; you'll hear it every time)\n- *Ik heb hoofdpijn / keelpijn / koorts.* · *Ik ben verkouden.* · *Het doet hier pijn.*\n- *Sinds wanneer?* → *Sinds twee dagen.*\n\n### Gouden zin voor elk loket\n*Sorry, ik ben mijn Nederlands nog aan het leren. Kunt u het misschien iets langzamer zeggen?* — works everywhere, wins sympathy, and people switch to slow Dutch instead of English. Exactly what you want.",
+      "drill": [
+        { "q": "Vertaal: I'm here to pick up my passport.", "a": "Ik kom mijn paspoort ophalen." },
+        { "q": "De medewerker zegt: 'Mag ik uw legitimatie zien?' Wat doe je?", "a": "Je geeft je ID en zegt: 'Alstublieft.'" },
+        { "q": "Wat betekent: 'Waar heeft u last van?'", "a": "What's bothering you? / What are your symptoms? — standaardvraag bij de huisarts" },
+        { "q": "Vertaal: I've had a headache for two days.", "a": "Ik heb sinds twee dagen hoofdpijn." },
+        { "q": "Zeg de gouden zin voor elk loket, hardop.", "a": "Sorry, ik ben mijn Nederlands nog aan het leren. Kunt u het misschien iets langzamer zeggen?" }
+      ]
+    },
+    {
+      "id": "w4l5",
+      "title": "Op de markt",
+      "minutes": 7,
+      "body": "The market is the best free language school in the Netherlands: short predictable dialogues, friendly sellers, numbers practice, and vegetables at the end. This is your week 2 mission upgraded.\n\n### Het script\n- Verkoper: *`Zegt u het maar!`* — literally 'just say it': what'll it be?\n- Jij: *Een kilo appels, alstublieft.* / *Twee stuks, graag.*\n- Verkoper: *`Anders nog iets?`* — anything else?\n- Jij: *Nee, dat was het.* — no, that's all. / *Ja, ook een pond kaas.*\n- Verkoper: *Dat is dan drie euro vijftig.*\n- Jij: *Alstublieft.* (bij het geven) → Verkoper: *Dank u wel!*\n\n### Hoeveelheden\n- *een kilo / een halve kilo / een pond* (500 g — heel gebruikelijk)\n- *een stuk of vijf* — about five (handy vagueness!)\n- *een bosje* (bloemen), *een zakje*, *een bakje* (aardbeien)\n\n### Marktwijsheid\nAt busy stalls, know your order before it's your turn ('U bent aan de beurt!'). If you get an answer you don't catch, *'Sorry, hoeveel zei u?'* replays the price. And Saturday morning rule: the queue at the best stroopwafel stall is always worth it.",
+      "drill": [
+        { "q": "De verkoper zegt: 'Zegt u het maar!' Wat betekent dat?", "a": "'What'll it be?' — je bent aan de beurt, zeg je bestelling" },
+        { "q": "Bestel: 1 kilo appels + antwoord op 'Anders nog iets?'", "a": "Een kilo appels, alstublieft. ... Nee, dat was het." },
+        { "q": "Wat is 'een pond'?", "a": "500 gram — half a kilo, very common at the market" },
+        { "q": "Je verstaat de prijs niet. Wat zeg je?", "a": "Sorry, hoeveel zei u?" },
+        { "q": "Vertaal: about five (apples)", "a": "een stuk of vijf (appels)" }
+      ]
+    }
+  ]
+}

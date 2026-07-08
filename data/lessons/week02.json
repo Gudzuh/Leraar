@@ -1,0 +1,77 @@
+{
+  "week": 2,
+  "theme": "de/het en het huis",
+  "mission": "Op de markt of in de winkel: vraag deze week één keer 'Wat kost dit?' en versta het antwoord. Getallen zijn lastig; luister twee keer als het moet. Bonus: reken af zonder Engels.",
+  "lessons": [
+    {
+      "id": "w2l1",
+      "title": "de en het: twee families",
+      "minutes": 8,
+      "body": "Every Dutch noun belongs to one of two families: `de`-words and `het`-words. English speakers find this arbitrary and it drives them mad. You have an unfair advantage: **Shona does this too, but bigger**. In Shona every noun lives in a class (mu-, va-, chi-, zvi-...) and the class controls agreement. Dutch is the same game with only two classes. You already know how to play; you just need the class of each word.\n\n### How to learn it\nNever learn a naked noun. Learn *`het huis`*, not *huis*. Your flashcards are built this way on purpose. Say the article every time; your ear will start to 'just know', exactly like it does in Shona.\n\n### The odds are friendly\n- About **75% of nouns are de** — when forced to guess, guess de.\n- **All plurals are de**: het huis → `de huizen`.\n- **All diminutives are het**: de kaart → `het kaartje`. Any word ending in *-je* is het. Always.\n- People are almost always de: de man, de vrouw, de collega. (Except... `het meisje` — because it ends in -je!)\n\n### Why it matters later\nDe/het decides other words: *deze/dit*, *die/dat*, adjective endings. Get the article habits right now and week 15-you will be grateful.",
+      "drill": [
+        { "q": "de of het: ___ huis?", "a": "het huis" },
+        { "q": "de of het: ___ fiets?", "a": "de fiets" },
+        { "q": "de of het: ___ kaartje?", "a": "het kaartje — ends in -je, so always het" },
+        { "q": "de of het: ___ huizen (meervoud)?", "a": "de huizen — ALL plurals are de" },
+        { "q": "Waarom is het 'het meisje' terwijl een meisje een persoon is?", "a": "It ends in -je (diminutive), and -je always wins: het meisje" },
+        { "q": "Je weet het echt niet. Wat gok je: de of het?", "a": "de — 75% of nouns are de-words" }
+      ]
+    },
+    {
+      "id": "w2l2",
+      "title": "Meervoud: -en of -s",
+      "minutes": 7,
+      "body": "Two plural endings cover nearly everything: `-en` (the default) and `-s`.\n\n### Kies -s als het woord eindigt op:\n- unstressed -el, -er, -en, -em: *tafel → `tafels`*, *kamer → `kamers`*\n- -je: *kaartje → `kaartjes`*\n- a foreign/loan word: *computer → `computers`*, *taxi → `taxi's`* (apostrophe after a long vowel)\n\n### Anders: -en\n*boek → `boeken`*, *stoel → `stoelen`*, *vraag → `vragen`*\n\n### The spelling dance (this is the tricky bit)\nDutch spelling protects vowel sounds, so adding -en can change letters:\n\n| regel | voorbeeld |\n| lange klinker: dubbel wordt enkel | boot → `boten`, vraag → `vragen` |\n| korte klinker: medeklinker verdubbelt | bus → `bussen`, kop → `koppen` |\n| s wordt z, f wordt v | huis → `huizen`, brief → `brieven` |\n\n### Vier rebellen die je vaak nodig hebt\n*kind → `kinderen`*, *ei → `eieren`*, *stad → `steden`*, *schip → `schepen`*.",
+      "drill": [
+        { "q": "meervoud: het boek", "a": "de boeken" },
+        { "q": "meervoud: de tafel", "a": "de tafels — ends in unstressed -el" },
+        { "q": "meervoud: de bus", "a": "de bussen — short vowel, double the s" },
+        { "q": "meervoud: het huis", "a": "de huizen — s becomes z" },
+        { "q": "meervoud: het kind", "a": "de kinderen — rebel word" },
+        { "q": "meervoud: de boot", "a": "de boten — long vowel keeps its sound with one o" }
+      ]
+    },
+    {
+      "id": "w2l3",
+      "title": "Adjectieven: de grote vraag van de kleine e",
+      "minutes": 7,
+      "body": "When does an adjective get an `-e`? One rule, one exception.\n\n### De regel: bijna altijd +e\n- de `grote` stad, de `oude` man\n- het `grote` huis (with 'het': +e)\n- `grote` huizen, `oude` mensen (plurals: +e)\n- een `grote` stad (de-word with 'een': still +e!)\n\n### De uitzondering (leer deze!)\n**een + het-woord → geen e**\n- het grote huis, MAAR: *een `groot` huis*\n- het rode boek, MAAR: *een `rood` boek*\n\nThat's the entire system: everything gets -e, except *een + het-word* (also after *geen* and no article: *`koud` water*).\n\nThis is why de/het matters: you can't pick the adjective form without knowing the family. Shona instinct, again: the noun class controls the agreement.\n\n### Zeg hardop\n*een mooi huis · het mooie huis · mooie huizen · een mooie stad*\n\nFeel where the -e lands. Your ear learns this faster than your memory does.",
+      "drill": [
+        { "q": "een ___ auto (snel) — de auto", "a": "een snelle auto — de-word, so +e even after 'een'" },
+        { "q": "een ___ huis (groot) — het huis", "a": "een groot huis — een + het-word: no e" },
+        { "q": "het ___ huis (groot)", "a": "het grote huis" },
+        { "q": "___ huizen (duur)", "a": "dure huizen — plural always +e" },
+        { "q": "een ___ boek (rood) — het boek", "a": "een rood boek" },
+        { "q": "de ___ koffie (warm)", "a": "de warme koffie" }
+      ]
+    },
+    {
+      "id": "w2l4",
+      "title": "Getallen, de klok en de dagen",
+      "minutes": 8,
+      "body": "Numbers and clock times are where real conversations happen (prices, appointments), and Dutch has two traps.\n\n### Trap 1: getallen boven de 20 zijn omgekeerd\n21 = `eenentwintig` — literally 'one-and-twenty'. 47 = `zevenenveertig` (seven-and-forty). You hear the small digit FIRST. At the market, €2,45 is *twee euro vijfenveertig*.\n\n### Trap 2: de halve klok kijkt vooruit\n**`half drie` = 2:30**, not 3:30! Dutch looks *toward* the coming hour: 'halfway to three'. This causes real missed appointments. Burn it in:\n\n| tijd | Nederlands |\n| 2:00 | twee uur |\n| 2:15 | kwart over twee |\n| 2:30 | half drie (!) |\n| 2:45 | kwart voor drie |\n| 2:50 | tien voor drie |\n\n### De dagen\nmaandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag — no capital letters in Dutch. 's Maandags = on Mondays.\n\nWhen someone proposes a meeting *'woensdag om half tien'*, that's Wednesday **9:30**. Double-check yourself for the first month; even advanced learners slip on this.",
+      "drill": [
+        { "q": "Zeg in het Nederlands: 21", "a": "eenentwintig (one-and-twenty)" },
+        { "q": "Zeg in het Nederlands: 54", "a": "vierenvijftig (four-and-fifty)" },
+        { "q": "Hoe laat is 'half drie'?", "a": "2:30 — halfway TO three" },
+        { "q": "Zeg 9:45 in het Nederlands", "a": "kwart voor tien" },
+        { "q": "De afspraak is 'dinsdag om half negen'. Wanneer ben je er?", "a": "Tuesday 8:30 (liefst 8:25)" },
+        { "q": "€3,25 — wat zegt de marktkoopman?", "a": "drie euro vijfentwintig" }
+      ]
+    },
+    {
+      "id": "w2l5",
+      "title": "Vragen stellen",
+      "minutes": 7,
+      "body": "Questions unlock everything: you can't learn from conversations you can't start.\n\n### Ja/nee-vragen: flip verb en subject\n- *Jij werkt hier.* → *`Werk jij` hier?* (remember: jij loses the -t when it follows the verb)\n- *U bent meneer De Vries.* → *`Bent u` meneer De Vries?*\n\n### Vraagwoorden (verb comes right after)\n| woord | betekent | voorbeeld |\n| wat | what | Wat kost dit? |\n| waar | where | Waar woon je? |\n| wanneer | when | Wanneer begint de les? |\n| wie | who | Wie is dat? |\n| hoe | how | Hoe heet je? |\n| waarom | why | Waarom leer je Nederlands? |\n| hoeveel | how much/many | Hoeveel kost een kilo? |\n| welke/welk | which | Welke trein neem ik? |\n\n### Beleefd vragen (goud waard)\n- *`Kunt u` mij helpen?* — can you help me?\n- *`Mag ik` iets vragen?* — may I ask something?\n- *`Zou u` dat kunnen herhalen?* — could you repeat that? (extra polite)\n\nNotice the pattern: polite questions start with the verb, and the real action verb goes to the very end. More on that end-of-sentence business in week 4.",
+      "drill": [
+        { "q": "Maak een vraag: jij drinkt koffie", "a": "Drink jij koffie?" },
+        { "q": "Vertaal: Where do you live? (jij)", "a": "Waar woon je? / Waar woon jij?" },
+        { "q": "Vertaal: How much does this cost?", "a": "Wat kost dit? / Hoeveel kost dit?" },
+        { "q": "Vertaal: May I ask something?", "a": "Mag ik iets vragen?" },
+        { "q": "Vertaal (beleefd): Can you help me?", "a": "Kunt u mij helpen?" },
+        { "q": "Welk vraagwoord: '___ begint de vergadering?' – Om tien uur.", "a": "Wanneer" }
+      ]
+    }
+  ]
+}

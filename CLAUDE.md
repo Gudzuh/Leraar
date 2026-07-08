@@ -2,34 +2,67 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Status
+## What this is
 
-Leraar is a brand-new, empty repository (created 2026-07-08). Its purpose,
-language and tooling have not been decided yet. There is no build, lint or
-test setup. When the project takes shape, replace this section with real
-commands and architecture notes.
+Leraar is a personal Dutch-learning tool (A2 → B2 in ~6 months) for one
+learner: native English/Shona speaker from Zimbabwe, quick learner, short
+attention span (30-45 min), forgets without repetition, learning for
+work/life fluency plus business Dutch (ZiQo Applied, food science). The
+accepted plan is in `PROPOSAL.md`; read it before adding features or
+content. You are not just the developer here — in tutor skills you are the
+learner's Dutch teacher.
 
-## Repository and GitHub
+## Architecture
 
-- Remote: `https://github.com/Gudzuh/Leraar` (private), branch `main`.
-- Push over HTTPS. Credentials are stored in Windows Credential Manager
-  (Git Credential Manager); no SSH keys on this machine.
-- The `gh` CLI is **not** installed. For GitHub API calls, retrieve the
-  stored token with `git credential fill` (pipe
-  `protocol=https\nhost=github.com\n\n` to it from Git Bash; PowerShell
-  line endings break it) and call the REST API with `curl`. Never print
-  the token in output.
-- Commit locally as work lands; do not push unless the user asks.
+Static PWA, vanilla HTML/CSS/JS, **no build step, no frameworks, no
+dependencies**. Keep it that way.
+
+- `js/fsrs.js` — FSRS-4.5 scheduler + learning steps. Pure functions.
+- `js/storage.js` — one localStorage key (`leraar.v1`), export/import sync.
+- `js/app.js` — session composer, review/lesson/shadow UI, tabs.
+- `data/decks/*.json` — `{id, name, mode: vocab|cloze, priority, cards}`
+  with cards as `[nl, en, example?]` tuples. **Card ids are positional
+  (`deckId:index`): only ever APPEND to a deck's cards array. Never
+  reorder, insert, or delete entries** or learner progress corrupts.
+- `data/lessons/week*.json` — micro-lessons; `body` is markdown-lite
+  (### headers, - lists, **bold**, `inline-dutch`, |table|rows|) rendered
+  by `mdLite()` in app.js. Register new files in the matching `index.json`.
+- `sw.js` — offline cache. **Bump `VERSION` in every deploy that changes
+  code or data**, and add new files to `SHELL`.
+
+## Deploy and verify
+
+- Hosting: GitHub Pages serves `main` at https://gudzuh.github.io/Leraar/.
+  Pushing to main IS deploying. Commit freely; push only when the user
+  says so (a push goes live on their phone).
+- Preview: launch config "leraar" (`.claude/serve.ps1`, port 4991).
+- After changes verify: all pages/data HTTP 200 → JSON parses (the app
+  shows a load-error panel if not) → snapshot renders → a card flip and
+  rating works → lesson renders (check a table) → console clean.
+
+## Content rules (teaching quality is a feature)
+
+- Dutch must be correct, including de/het. When unsure of an article or
+  idiom, verify before committing.
+- Nouns on cards always carry their article ("het huis", never "huis").
+- Lesson tone: warm, concrete, second person, short paragraphs, no fluff.
+  Explanations in English, examples in Dutch. Leverage the learner's
+  languages (English cognates, Shona noun-class analogy for de/het).
+- New vocab enters via decks (append-only); learner mistakes go to the
+  `mistakes` deck (priority 0), created by tutor skills.
+
+## Tutor skills
+
+`.claude/skills/toets/` — placement + biweekly test, writes
+`progress/toets-*.md`, feeds errors into the mistakes deck. Milestone 2
+adds `/les`, `/gesprek`, `/schrijf` (see PROPOSAL.md).
 
 ## Machine quirks
 
-- `python` on this machine is a Microsoft Store stub that opens the Store
-  instead of running. Do not use it.
-- Node v24 is a portable install at `~/.local/node` (`node.exe`,
-  `npm.cmd`) and is **not on PATH**. Invoke by full path or prepend
-  `~/.local/node` to PATH in the session.
-- Windows PowerShell is 5.1; prefer the Git Bash tool for anything
-  involving pipes to native commands or embedded quotes.
-- If a local port refuses to bind, check
-  `netsh interface ipv4 show excludedportrange protocol=tcp` before
-  blaming the server.
+- `python` is a Microsoft Store stub; portable Node v24 at `~/.local/node`
+  (not on PATH). Neither is needed for this repo.
+- No `gh` CLI. GitHub API: get the stored token via `git credential fill`
+  (pipe `protocol=https\nhost=github.com\n\n` from Git Bash; PowerShell
+  line endings break it), then `curl`. Never print the token.
+- PowerShell is 5.1; prefer Git Bash for pipes/quoting. PNG icons were
+  generated with System.Drawing (see git history) if you need new ones.

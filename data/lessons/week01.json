@@ -1,0 +1,73 @@
+{
+  "week": 1,
+  "theme": "Fundament: klank en zin",
+  "mission": "Zeg deze week elke dag 'goedemorgen' tegen een collega of buur. En één keer: stel jezelf in het Nederlands voor aan iemand die je nog niet kent.",
+  "lessons": [
+    {
+      "id": "w1l1",
+      "title": "De Nederlandse g (en ch)",
+      "minutes": 6,
+      "body": "The Dutch `g` is the sound that exists in neither English nor Shona, so your mouth has never made it. Good news: it is one sound, and it is learnable in a week of small doses.\n\n### How to make it\nSay English *k*, but instead of stopping the air, let it **scrape** through. It is the sound of gently fogging up a mirror, or the *ch* in Scottish *loch*. It comes from the back of your throat, not your lips.\n\n- `g` and `ch` are the **same sound**: *goed* and *nacht* use the same scrape.\n- Don't say English *g* as in *go*. A Dutch person hears *goed* with an English g as *koed*... strange.\n- In the south of the Netherlands the g is softer. Both are fine. Pick soft if it is easier.\n\n### Words to say out loud, right now\n*goed, graag, gaan, geel, morgen, gezellig, nacht, acht, lachen, Scheveningen*\n\nThat last one is the word the Dutch used to spot German spies in the war. When you can say it, you have arrived.",
+      "drill": [
+        { "q": "Zeg hardop: goedemorgen (say it with the scrape, not an English g)", "a": "goe-de-MOR-gen — two scrapes: the g in 'goe' and in 'gen'" },
+        { "q": "Zeg hardop: graag (this word starts AND ends with the sound)", "a": "graag — 'I'd love to'. Starts and ends with the scrape. You'll say this word every day." },
+        { "q": "Zelfde klank of niet: 'goed' en 'nacht'?", "a": "Zelfde klank — g and ch are the same scrape sound" },
+        { "q": "Zeg hardop: gezellig", "a": "ge-ZEL-lig — the most Dutch word there is; scrape at the start and the end" },
+        { "q": "Eindbaas. Zeg hardop: Scheveningen", "a": "s-GHAY-ve-ning-en — sch = s + scrape. Take it slow." }
+      ]
+    },
+    {
+      "id": "w1l2",
+      "title": "De klinkers: oe, eu, ui en ij",
+      "minutes": 7,
+      "body": "Dutch has vowel sounds English doesn't. Four matter most; two are easy, one is medium, one is famous.\n\n### oe — easy\nLike *oo* in English *book*, but shorter. *`boek`* (book), *`goed`* (good), *`moe`* (tired).\n\n### ij / ei — easy\nThese two spellings are the **same sound**, roughly between English *ay* and *eye*. *`ijs`* (ice), *`trein`* (train), *`wijn`* (wine).\n\n### eu — medium\nNo English equivalent. Say *ay* as in *day*, but **round your lips hard** like whistling, and hold it. *`leuk`* (nice), *`deur`* (door), *`neus`* (nose).\n\n### ui — the famous one\nThe hardest Dutch sound. Say *ow* as in *house*, but with **rounded, pushed-forward lips**. It comes out as a strange 'euy'. *`huis`* (house), *`tuin`* (garden), *`ui`* (onion — yes, the whole word is just this sound).\n\nDon't chase perfection. Dutch people will understand *huis* with a wrong ui. But practise 30 seconds a day; in a month it clicks.",
+      "drill": [
+        { "q": "Zeg hardop: boek, goed, moe", "a": "oe like in 'book': boek, goed, moe" },
+        { "q": "Zeg hardop: ijs, trein, wijn (één klank, twee spellingen)", "a": "ij/ei — same sound in all three, between 'ay' and 'eye'" },
+        { "q": "Zeg hardop: leuk, deur (ay + rounded lips)", "a": "eu — say 'ay' while whistling-lips: luhk → leuk" },
+        { "q": "Zeg hardop: huis, tuin, ui", "a": "ui — 'ow' with pushed-forward lips. Weird feeling = correct." },
+        { "q": "Wat betekent: 'Het huis is leuk'?", "a": "The house is nice — and you just said ui and eu in one sentence" }
+      ]
+    },
+    {
+      "id": "w1l3",
+      "title": "Tegenwoordige tijd: ik werk, jij werkt",
+      "minutes": 7,
+      "body": "Dutch present tense has one core rule: find the **stem** (infinitive minus *-en*), then:\n\n| wie | vorm | voorbeeld (werken) |\n| ik | stem | ik `werk` |\n| jij / je | stem + t | jij `werkt` |\n| u | stem + t | u `werkt` |\n| hij / zij / het | stem + t | hij `werkt` |\n| wij / jullie / zij | hele werkwoord | wij `werken` |\n\nTwo footnotes:\n- **Question flip:** after the verb, *jij* loses its *t*: *Werk jij?* (not ~~werkt jij~~). Only for jij!\n- **Spelling guard:** Dutch protects vowel length. *wonen* (to live) → stem is `woon`, not ~~won~~: *ik woon, hij woont, wij wonen*. You'll absorb this by seeing words, not by memorising rules.\n\nCompare English: you already do this (*I work, he works*). Dutch just does it for *jij* too, and English does not. That's the whole difference.",
+      "drill": [
+        { "q": "wonen → ik ...", "a": "ik woon" },
+        { "q": "drinken → hij ...", "a": "hij drinkt" },
+        { "q": "werken → jullie ...", "a": "jullie werken" },
+        { "q": "leren → jij ... / ... jij?", "a": "jij leert / leer jij? (the t drops in the question)" },
+        { "q": "Vertaal: She lives in Utrecht.", "a": "Zij woont in Utrecht." },
+        { "q": "Vertaal: Do you drink coffee? (jij)", "a": "Drink jij koffie?" }
+      ]
+    },
+    {
+      "id": "w1l4",
+      "title": "De gouden regel: werkwoord op plek 2",
+      "minutes": 8,
+      "body": "This is the single most important grammar rule in Dutch. Learn it now, and half of Dutch word order is solved.\n\n### The rule\nIn a normal sentence, the conjugated verb is **always the second element**. Not the second word — the second *element* (a chunk like 'elke dag' counts as one).\n\n- *Ik `werk` vandaag.* — subject first, verb second. Feels like English.\n- *Vandaag `werk` ik.* — time first? The verb **stays** in spot 2, so the subject moves behind it.\n\nEnglish says 'Today I work' — verb third. Dutch **never** does this. ~~Vandaag ik werk~~ is the classic learner error, and now it's the one you won't make.\n\n### The pattern to burn in\n*[Eerst iets anders] + werkwoord + ik/jij/hij...*\n\n- *Morgen `ga` ik naar Amsterdam.*\n- *In Nederland `fietst` iedereen.*\n- *Elke dag `leer` ik tien woorden.*\n\nSay these three out loud twice. Feel the flip. Every time you start a sentence with *morgen, vandaag, daarna, in Nederland* — flip it.",
+      "drill": [
+        { "q": "Goede volgorde: [vandaag / ik / werk / thuis]", "a": "Vandaag werk ik thuis." },
+        { "q": "Goede volgorde: [morgen / wij / gaan / naar de markt]", "a": "Morgen gaan wij naar de markt." },
+        { "q": "Wat is er fout: 'Vandaag ik ben moe'?", "a": "Verb must be 2nd: 'Vandaag ben ik moe.'" },
+        { "q": "Vertaal: Tomorrow I'm going to Rotterdam.", "a": "Morgen ga ik naar Rotterdam." },
+        { "q": "Begin met 'elke dag': ik drink koffie", "a": "Elke dag drink ik koffie." }
+      ]
+    },
+    {
+      "id": "w1l5",
+      "title": "Jezelf voorstellen",
+      "minutes": 7,
+      "body": "Time to assemble week 1 into your introduction. This is the paragraph you'll actually say to real people this week.\n\n### Jouw verhaal\n*Hallo! Ik ben ... . Ik kom uit Zimbabwe. Ik woon nu in Nederland en ik leer Nederlands. Ik spreek Engels, Shona en een beetje Nederlands. Ik werk bij ZiQo Applied. Aangenaam!*\n\nRead it out loud three times. Replace the dots. This is yours now.\n\n### je of u?\n- `je/jij` — friends, colleagues, anyone your age in casual settings. The Netherlands is informal; when in doubt at work, *je* is usually fine.\n- `u` — officials (gemeente, huisarts), clearly older strangers, formal letters. If someone says *'zeg maar je, hoor'*, they're inviting you to drop the u. Say *'graag!'* and switch.\n\n### Handige reacties\n- *Aangenaam!* — nice to meet you\n- *Leuk je te ontmoeten!* — nice to meet you (informal)\n- *Ik ben nog aan het leren, dus zeg het gerust als ik een fout maak.* — I'm still learning, feel free to correct me. Dutch people LOVE this sentence and will help you.",
+      "drill": [
+        { "q": "Zeg je eigen voorstel-verhaal hardop, zonder te lezen.", "a": "Hallo! Ik ben ... Ik kom uit Zimbabwe. Ik woon nu in Nederland en ik leer Nederlands." },
+        { "q": "Wie krijgt 'u': je collega of de arts bij de huisartsenpraktijk?", "a": "De arts krijgt 'u' (tot die anders zegt); je collega krijgt 'je'." },
+        { "q": "Vertaal: I speak English, Shona and a little Dutch.", "a": "Ik spreek Engels, Shona en een beetje Nederlands." },
+        { "q": "Iemand zegt: 'Zeg maar je, hoor.' Wat doe je?", "a": "Je schakelt over naar 'je' — en zegt bijvoorbeeld 'graag!'" },
+        { "q": "Vertaal: I'm still learning, so please say it if I make a mistake.", "a": "Ik ben nog aan het leren, dus zeg het gerust als ik een fout maak." }
+      ]
+    }
+  ]
+}

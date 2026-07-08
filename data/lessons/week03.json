@@ -1,0 +1,72 @@
+{
+  "week": 3,
+  "theme": "Verleden tijd en dagelijks leven",
+  "mission": "Vertel deze week een collega of vriend in drie zinnen wat je gisteren hebt gedaan. In het Nederlands, met perfectum. Struikelen mag; opgeven niet.",
+  "lessons": [
+    {
+      "id": "w3l1",
+      "title": "Perfectum I: ik heb gewerkt",
+      "minutes": 8,
+      "body": "To talk about the past in conversation, Dutch uses the **perfectum**: a form of `hebben` + a participle at the **end** of the sentence.\n\n*Ik `heb` gisteren `gewerkt`.* — I worked yesterday.\n\n### Het voltooid deelwoord bouwen (regelmatig)\n1. Take the stem: *werken* → werk\n2. Put `ge-` in front: gewerk\n3. End with **-t of -d**: gewerkt\n\n### -t of -d? Het 't kofschip-trucje\nLook at the **last letter of the stem**. If it's one of the consonants in *'t kofschip'* (t, k, f, s, ch, p) → `-t`. Anything else → `-d`.\n\n| werkwoord | stam | eindigt op | participium |\n| werken | werk | k → t | `gewerkt` |\n| koken | kook | k → t | `gekookt` |\n| wonen | woon | n → d | `gewoond` |\n| spelen | speel | l → d | `gespeeld` |\n\n### De woordvolgorde\nThe participle goes to the very end, and the sentence brackets around everything else:\n*Ik `heb` vandaag bij ZiQo met mijn collega `gewerkt`.*\n\nThis 'verb bracket' is deeply Dutch. Get used to holding the action until the end.",
+      "drill": [
+        { "q": "perfectum: ik ... gisteren ... (werken)", "a": "Ik heb gisteren gewerkt." },
+        { "q": "perfectum: wij ... pasta ... (koken)", "a": "Wij hebben pasta gekookt." },
+        { "q": "'t kofschip: gewerkt of gewerkd?", "a": "gewerkt — stem ends in k, which is in 't kofschip, so -t" },
+        { "q": "perfectum: zij ... in Harare ... (wonen)", "a": "Zij heeft in Harare gewoond. — n is not in 't kofschip, so -d" },
+        { "q": "Waar staat het participium in de zin?", "a": "Aan het einde: Ik heb gisteren hard gewerkt." }
+      ]
+    },
+    {
+      "id": "w3l2",
+      "title": "Perfectum II: ik ben gegaan",
+      "minutes": 8,
+      "body": "Two complications finish the perfectum: some verbs take `zijn` instead of hebben, and some participles are irregular ('strong').\n\n### zijn in plaats van hebben\nVerbs of **movement or change of state** take zijn:\n- *Ik `ben` naar huis `gegaan`.* — I went home.\n- *Hij `is` om acht uur `gekomen`.* — he came at eight.\n- Also: *blijven* (!) and *zijn* itself: *Ik ben thuis `gebleven`.*\n\nThink: did the subject move or change? Then zijn.\n\n### Sterke werkwoorden: ge...en\nThe most common verbs are irregular: participle ends in `-en`, often with a vowel change. There is no rule; you learn them per verb (your flashcards feed these to you):\n\n| infinitief | participium | met |\n| gaan | `gegaan` | zijn |\n| komen | `gekomen` | zijn |\n| blijven | `gebleven` | zijn |\n| lezen | `gelezen` | hebben |\n| drinken | `gedronken` | hebben |\n| schrijven | `geschreven` | hebben |\n| zien | `gezien` | hebben |\n| eten | `gegeten` | hebben |\n| kopen | `gekocht` (!) | hebben |\n\nGood news: it's a short list of frequent verbs, and frequency means you'll hear them constantly. Repetition is your friend, and these words will repeat themselves for free.",
+      "drill": [
+        { "q": "perfectum: ik ... naar de markt ... (gaan)", "a": "Ik ben naar de markt gegaan." },
+        { "q": "perfectum: wij ... een film ... (zien)", "a": "Wij hebben een film gezien." },
+        { "q": "hebben of zijn: 'Hij ... thuis gebleven.'", "a": "is — blijven takes zijn (surprising but true)" },
+        { "q": "perfectum: zij ... koffie ... (drinken)", "a": "Zij heeft koffie gedronken." },
+        { "q": "perfectum: ik ... een fiets ... (kopen)", "a": "Ik heb een fiets gekocht." }
+      ]
+    },
+    {
+      "id": "w3l3",
+      "title": "Scheidbare werkwoorden: ik sta op",
+      "minutes": 7,
+      "body": "Dutch loves verbs with a prefix glued on: `opstaan` (get up), `aankomen` (arrive), `uitnodigen` (invite), `meenemen` (bring along). In a normal sentence, the prefix **breaks off and flies to the end**:\n\n- *opstaan* → *Ik `sta` om zeven uur `op`.*\n- *aankomen* → *De trein `komt` om tien uur `aan`.*\n- *uitnodigen* → *Ik `nodig` je `uit` voor het feest.*\n\nAgain that Dutch bracket: verb part 2, rest of the sentence, then the tail. Hold the tail!\n\n### In het perfectum: ge- kruipt in het midden\n- opstaan → *Ik ben om zeven uur `opgestaan`.* (op-ge-staan)\n- uitnodigen → *Zij heeft mij `uitgenodigd`.*\n\n### De frequente vijf\n*opstaan* (get up), *aankomen* (arrive), *meenemen* (take along), *terugkomen* (come back), *opbellen* (call up). Learn these five patterns and you'll recognise the mechanism everywhere.\n\nEnglish does this too, just less tidily: 'wake up', 'call back', 'take along'. Dutch simply has rules about where the particle lands.",
+      "drill": [
+        { "q": "Maak een zin: opstaan / ik / om 7 uur", "a": "Ik sta om zeven uur op." },
+        { "q": "Maak een zin: aankomen / de trein / om 10 uur", "a": "De trein komt om tien uur aan." },
+        { "q": "perfectum: ik ... om 7 uur ... (opstaan)", "a": "Ik ben om zeven uur opgestaan." },
+        { "q": "Vertaal: I'll invite you for the party.", "a": "Ik nodig je uit voor het feest." },
+        { "q": "perfectum: zij ... mij gisteren ... (opbellen)", "a": "Zij heeft mij gisteren opgebeld." }
+      ]
+    },
+    {
+      "id": "w3l4",
+      "title": "niet of geen?",
+      "minutes": 6,
+      "body": "Dutch has two words for 'not', and the choice is mechanical once you see it.\n\n### geen — voor onbepaalde zelfstandige naamwoorden\nUse `geen` to negate a noun that would have *een* (or no article) in the positive sentence:\n- *Ik heb een auto.* → *Ik heb `geen` auto.*\n- *Wij hebben tijd.* → *Wij hebben `geen` tijd.*\n\nThink of geen as 'not a / no'.\n\n### niet — voor al de rest\nVerbs, adjectives, definite nouns, places, times:\n- *Hij werkt vandaag `niet`.*\n- *Het is `niet` ver.*\n- *Dat is `niet` mijn fiets.* (definite: mijn)\n\n### Waar staat niet?\nUsually **at the end** of the middle part, before any verb-tail: *Ik heb je gisteren `niet` gezien.* Before adjectives and place phrases it sits just in front: *Het is `niet` duur. Ik woon `niet` in Amsterdam.*\n\nQuick test: could you say 'no + noun' in English? ('I have no car') → geen. Otherwise → niet.",
+      "drill": [
+        { "q": "negatief: Ik heb een fiets.", "a": "Ik heb geen fiets." },
+        { "q": "negatief: Hij werkt vandaag.", "a": "Hij werkt vandaag niet." },
+        { "q": "niet of geen: Wij hebben ___ kinderen.", "a": "geen — 'no children'" },
+        { "q": "niet of geen: Het is ___ moeilijk.", "a": "niet — adjective" },
+        { "q": "negatief: Ik heb je gisteren gezien.", "a": "Ik heb je gisteren niet gezien." }
+      ]
+    },
+    {
+      "id": "w3l5",
+      "title": "Je dag vertellen",
+      "minutes": 7,
+      "body": "Assembly time: week 3's grammar becomes a story — the story of your day, which is the most useful small talk you own.\n\n### De bouwstenen\n- *'s ochtends / 's middags / 's avonds* — in the morning/afternoon/evening\n- *eerst... daarna... dan... ten slotte...* — first... after that... then... finally\n- Perfectum for what happened, present for what always happens.\n\n### Voorbeeldverhaal (gisteren)\n*Gisteren ben ik om zeven uur `opgestaan`. Eerst heb ik `gedoucht` en `ontbeten`. Daarna ben ik naar het werk `gegaan`. Ik heb met mijn collega's `vergaderd` en veel koffie `gedronken`. 's Avonds heb ik `gekookt` en een beetje Nederlands `geleerd`. Om elf uur ben ik naar bed `gegaan`.*\n\nNotice: every sentence starts differently (gisteren, eerst, daarna, 's avonds) and the verb is always second. Week 1's golden rule doing its work.\n\n### Nu jij\nBuild your own six-sentence yesterday. Say it out loud. Then trim it to three sentences — that's your mission this week: tell someone.",
+      "drill": [
+        { "q": "Vertaal: Yesterday I got up at seven.", "a": "Gisteren ben ik om zeven uur opgestaan." },
+        { "q": "Vertaal: First I showered, then I had breakfast.", "a": "Eerst heb ik gedoucht, daarna heb ik ontbeten." },
+        { "q": "Vertaal: In the evening I cooked.", "a": "'s Avonds heb ik gekookt." },
+        { "q": "Vertel je eigen gisteren in drie zinnen, hardop.", "a": "Bijvoorbeeld: Gisteren ben ik vroeg opgestaan. Ik heb de hele dag gewerkt. 's Avonds heb ik Nederlands geleerd." },
+        { "q": "Wat valt op aan de woordvolgorde in: ''s Avonds heb ik gekookt'?", "a": "Tijd eerst, dus werkwoord tweede en 'ik' erna — de gouden regel van week 1." }
+      ]
+    }
+  ]
+}
