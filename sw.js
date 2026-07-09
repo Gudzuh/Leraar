@@ -1,6 +1,6 @@
 /* Leraar service worker: stale-while-revalidate for everything same-origin.
  * Bump VERSION whenever content or code changes, so old caches get cleaned up. */
-const VERSION = 'leraar-v1';
+const VERSION = 'leraar-v2';
 
 const SHELL = [
   './',
@@ -16,6 +16,7 @@ const SHELL = [
   'data/decks/a2-core.json',
   'data/decks/phrases.json',
   'data/decks/grammar-w1-4.json',
+  'data/decks/mistakes.json',
   'data/lessons/index.json',
   'data/lessons/week01.json',
   'data/lessons/week02.json',
