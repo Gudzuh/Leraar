@@ -1,0 +1,26 @@
+{
+  "id": "mistakes",
+  "name": "Jouw fouten",
+  "mode": "vocab",
+  "priority": 0,
+  "cards": [
+    ["the child", "het kind — You wrote 'de kind'. Kind is a het-word.", "Het kind speelt buiten."],
+    ["the appointment", "de afspraak — You wrote 'het afspraak'. Afspraak is a de-word.", "De afspraak is om tien uur."],
+    ["de aanbieding", "the offer / special deal — You guessed 'contract'. Think supermarket: 'in de aanbieding' = on sale.", "De kaas is deze week in de aanbieding."],
+    ["ingewikkeld", "complicated — New word from the test.", "Dit formulier is echt ingewikkeld."],
+    ["to improve", "verbeteren — You wrote 'verberteren'. ver-BE-te-ren.", "Ik wil mijn Nederlands verbeteren."],
+    ["holiday", "de vakantie — You wrote 'vantie'. va-KAN-tie.", "In augustus heb ik twee weken vakantie."],
+    ["Kind regards (letter closing)", "Met vriendelijke groet — You wrote 'vriendalijke'. vriend-E-lijk."],
+    ["Dear Sir/Madam (formal letter opening)", "Geachte heer/mevrouw — No 'de': not 'Geachte de heer'."],
+    ["more interesting", "interessanter — Dutch uses -er even on long adjectives, not 'meer interessant'.", "Dit boek is interessanter dan de film."],
+    ["She said she would come", "Ze zei dat ze zou komen — After past-tense 'zei', use zou + infinitive, not 'komt'.", "Ze zei dat ze morgen zou komen."],
+    ["kosteloos", "free of charge — From the gemeente letter. Synonym: gratis.", "Het eerste gesprek is kosteloos."],
+    ["my appointment / my holiday", "mijn afspraak / mijn vakantie — You wrote 'mij afspraak'. mij = me (object), mijn = my (possessive).", "Mijn vakantie begint volgende week."],
+    ["on 20 July (which preposition?)", "op 20 juli — op + dates and days, om + clock times: op dinsdag, om 10:30. You wrote 'om 20 juli'.", "De afspraak is op dinsdag 20 juli om 10:30."],
+    ["changed from 28 June to 15 July", "veranderd van 28 juni naar 15 juli — van ... naar, not 'te'. Also one d: veranderd.", "De datum is veranderd van 28 juni naar 15 juli."],
+    ["back from holiday", "terug van vakantie — You wrote 'terug naar mij vakantie' = back TO my holiday, the opposite.", "Ik ben op 1 augustus terug van vakantie."],
+    ["between 10:00 and 15:00", "tussen 10:00 en 15:00 — tussen ... en, never 'tussen ... tot'.", "Bel me tussen 10:00 en 15:00."],
+    ["Unfortunately, 15 July doesn't work for me", "Helaas komt 15 juli mij niet uit — V2 rule: after a fronted word like 'helaas', the verb comes immediately: Helaas KOMT ... Also learn 'uitkomen' = to suit.", "Helaas komt 15 juli mij niet uit."],
+    ["How long does the appointment take?", "Hoe lang duurt de afspraak? — You mixed 'hoe land kost'. Duration = hoe lang duurt; price = hoeveel kost.", "Hoe lang duurt de afspraak?"]
+  ]
+}

@@ -39,7 +39,7 @@
   async function loadData() {
     const deckFiles = await fetch('data/decks/index.json').then(r => r.json());
     App.decks = await Promise.all(deckFiles.map(f => fetch('data/decks/' + f).then(r => r.json())));
-    App.decks.sort((a, b) => (a.priority || 9) - (b.priority || 9));
+    App.decks.sort((a, b) => (a.priority ?? 9) - (b.priority ?? 9));
     for (const deck of App.decks) {
       deck.cards.forEach((c, i) => {
         const id = `${deck.id}:${i}`;
