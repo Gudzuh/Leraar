@@ -1,0 +1,177 @@
+{
+  "week": 7,
+  "theme": "De bijzin: het werkwoord verhuist",
+  "mission": "Geef deze week in één echt werkgesprek een reden met omdat en zet het werkwoord helemaal aan het einde. Bijvoorbeeld: Ik plan de analyse op donderdag omdat de machine dan vrij is. Gelukt? Doe het meteen nog een keer met een nieuwe zin.",
+  "listening": [
+    {
+      "title": "Luister één aflevering van de podcast met het transcript erbij en markeer elke zin met omdat, als of dat.",
+      "url": "https://www.eenbeetjenederlands.nl"
+    },
+    {
+      "title": "Lees de pagina's over de woordvolgorde in de bijzin en schrijf vijf voorbeeldzinnen over.",
+      "url": "https://www.dutchgrammar.com"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "w7l1",
+      "title": "omdat: het werkwoord gaat naar het einde",
+      "minutes": 7,
+      "body": "### The verb packs its bags\nIn a main clause the verb loves position two: `Ik werk vandaag in het lab.` But inside a clause that starts with `omdat`, the verb moves all the way to the end.\n\n- `Ik blijf thuis omdat ik moe ben.`\n- `Wij herhalen de analyse omdat de klant snel een antwoord wil.`\n- `Hij is blij omdat het rapport eindelijk is aangekomen.` (in the perfectum, both verbs go to the end together)\n\n### want is the lazy twin\n`want` also means because, but nothing moves:\n\n|voegwoord|volgorde|voorbeeld|\n|`want`|normaal (V2)|`Ik blijf thuis, want ik ben moe.`|\n|`omdat`|werkwoord aan het einde|`Ik blijf thuis omdat ik moe ben.`|\n\nYour last toets showed you sometimes give `omdat` the `want` treatment: `omdat ik ben moe`. That hurts Dutch ears. Say the right version five times: `omdat ik moe ben`.\n\n### Why does Dutch do this?\nDutch treats the `omdat`-clause as one sealed box, and the verb is the lid. When the listener hears the verb, the reason is complete. Annoying for a week, then strangely satisfying, like clicking a sample tube shut.",
+      "drill": [
+        {
+          "q": "Combine with omdat: `Ik leer Nederlands. Ik woon in Nederland.`",
+          "a": "`Ik leer Nederlands omdat ik in Nederland woon.` The verb `woon` goes to the end of the bijzin."
+        },
+        {
+          "q": "Rewrite with omdat: `Ik bel de klant, want de resultaten zijn klaar.`",
+          "a": "`Ik bel de klant omdat de resultaten klaar zijn.` With `want` nothing moves; with `omdat` the verb moves."
+        },
+        {
+          "q": "Translate: We cannot start because the sample has not arrived yet.",
+          "a": "`Wij kunnen niet beginnen omdat het monster nog niet is aangekomen.` Also correct: `aangekomen is`; both end-orders are fine."
+        },
+        {
+          "q": "Fix the error: `Ik kom later omdat ik moet werken vandaag.`",
+          "a": "`Ik kom later omdat ik vandaag moet werken.` Time word first, then the whole verb group closes the clause."
+        },
+        {
+          "q": "Complete with your own true reason: `Ik drink veel koffie omdat ...`",
+          "a": "Example: `Ik drink veel koffie omdat ik elke ochtend vroeg begin.` Check: is a verb the last word?"
+        },
+        {
+          "q": "Translate: She is happy because the price has not changed.",
+          "a": "`Zij is blij omdat de prijs niet is veranderd.` Watch the spelling: `veranderd` ends in d."
+        }
+      ]
+    },
+    {
+      "id": "w7l2",
+      "title": "als: voorwaarde, tijd en de komma-dans",
+      "minutes": 7,
+      "body": "### als: if and whenever\n`als` covers English if and also whenever:\n\n- `Als het regent, blijf ik thuis.` (condition)\n- `Als ik in Harare ben, eet ik elke dag sadza.` (time: every time this happens)\n\nInside the `als`-clause the rule is the same as with `omdat`: verb to the end.\n\n### The comma dance\nWhen the `als`-clause comes first, the whole clause occupies position one of the main sentence. You know the V2 law from week 1: the verb must be the second element. So straight after the comma comes the verb, then the subject:\n\n- `Als het regent, blijf ik thuis.` (never `ik blijf`)\n- `Als de klant om vier uur belt, neem ik meteen op.`\n\nThis is exactly what `morgen` and `helaas` already do to your sentences: `Morgen werk ik thuis.` An `als`-clause is simply a very long `morgen`.\n\n### Bonus: polite als + zou\nGold for work email: `Als het kan, zou ik graag op dinsdag afspreken.` Condition first, soft wish second. Instant professional.",
+      "drill": [
+        {
+          "q": "Combine, als-clause first: `Het regent. Ik neem de bus.`",
+          "a": "`Als het regent, neem ik de bus.` After the comma: verb first, then subject."
+        },
+        {
+          "q": "Complete: `Als ik tijd heb, ___` (ik / je / bellen / morgen)",
+          "a": "`Als ik tijd heb, bel ik je morgen.`"
+        },
+        {
+          "q": "Fix the error: `Als het lab open is, ik begin om negen uur.`",
+          "a": "`Als het lab open is, begin ik om negen uur.` The als-clause fills position one, so `begin` must come next."
+        },
+        {
+          "q": "Translate: Whenever I am in Harare, I eat sadza with my family.",
+          "a": "`Als ik in Harare ben, eet ik sadza met mijn familie.`"
+        },
+        {
+          "q": "Translate politely with zou: If it is possible, I would like to meet on Tuesday.",
+          "a": "`Als het kan, zou ik graag op dinsdag afspreken.` The `zou` softens it; perfect for email."
+        },
+        {
+          "q": "Make one true sentence about your week, starting with `Als`.",
+          "a": "Example: `Als de vergadering om tien uur begint, sta ik om zeven uur op.` Check: comma, verb, subject."
+        }
+      ]
+    },
+    {
+      "id": "w7l3",
+      "title": "dat en of: ik denk dat, ik vraag me af of",
+      "minutes": 7,
+      "body": "### dat: gluing on what you think\nVerbs like `denken`, `weten`, `zeggen` and `hopen` can carry a whole sentence behind them. The glue is `dat`, and yes, the verb goes to the end:\n\n- `Ik denk dat het monster klaar is.`\n- `Ik weet dat de nieuwe klant heel vriendelijk is.`\n- `Zij zegt dat ze morgen geen tijd heeft.`\n\nPerfectum and modals form a cluster at the end:\n\n- `Ik hoop dat de prijs niet is veranderd.`\n- `Ik denk dat ik om drie uur kan komen.`\n\nEnglish drops *that* all the time (I think the sample is ready). Dutch never drops `dat`.\n\n### of: the hidden question\nWhen the glued-on part is secretly a yes/no question, the glue is `of` (whether):\n\n- `Ik vraag me af of de vergadering op dinsdag is.`\n- `Weet jij of het lab vandaag open is?`\n\nQuick test: can you answer it with ja or nee? Use `of`. Is it a statement you believe? Use `dat`. And do not confuse this `of` with `of` meaning or, as in `koffie of thee`; the context does the work for you.",
+      "drill": [
+        {
+          "q": "Translate: I think the report is ready.",
+          "a": "`Ik denk dat het rapport klaar is.`"
+        },
+        {
+          "q": "Combine: `Ik weet het. De klant komt morgen.`",
+          "a": "`Ik weet dat de klant morgen komt.`"
+        },
+        {
+          "q": "dat or of? `Ik vraag me af ___ de vergadering op dinsdag is.`",
+          "a": "`of`. You could answer with ja or nee, so it is a hidden question."
+        },
+        {
+          "q": "Fix the error: `Ik denk dat ik kan komen om drie uur.`",
+          "a": "`Ik denk dat ik om drie uur kan komen.` The verbs cluster at the very end of the bijzin."
+        },
+        {
+          "q": "Translate: She says that she has already sent the invoice.",
+          "a": "`Zij zegt dat ze de factuur al heeft gestuurd.` Also fine: `gestuurd heeft`."
+        },
+        {
+          "q": "Translate: Do you know whether the museum is open on Sunday?",
+          "a": "`Weet jij of het museum op zondag open is?` Yes/no question inside, so `of`."
+        }
+      ]
+    },
+    {
+      "id": "w7l4",
+      "title": "Bijzin eerst: de volledige V2-dans",
+      "minutes": 8,
+      "body": "### The full V2 dance\nTime for the showpiece of Dutch word order. Put the whole bijzin first and watch the main clause react:\n\n- `Omdat ik moe ben, blijf ik thuis.`\n- `Als het regent, komt de koerier later.`\n- `Omdat het lab dicht is, werken wij morgen thuis.`\n\nThree steps, every single time:\n\n- **Step 1:** bijzin with its verb at the end: `omdat ik moe ben`\n- **Step 2:** a comma\n- **Step 3:** main verb immediately, then the subject: `blijf ik`\n\nThe whole bijzin counts as position one. V2 demands the verb in position two, so the subject has to wait its turn. Notice the two verbs staring at each other across the comma: `... ben, blijf ...` That verb-comma-verb pattern is your visual check.\n\n### Old friends\nThis is the same inversion as `Helaas heb ik geen tijd` and `Morgen begint de cursus om negen uur`. One rule, many costumes: if you can front `morgen`, you can front an entire `omdat`-clause. Read today's examples out loud twice. Your mouth learns this dance faster than your eyes do.",
+      "drill": [
+        {
+          "q": "Flip the order: `Ik blijf thuis omdat ik moe ben.`",
+          "a": "`Omdat ik moe ben, blijf ik thuis.` Note `ben, blijf`: two verbs meet at the comma."
+        },
+        {
+          "q": "Complete: `Omdat de klant om vier uur belt, ___` (ik / op kantoor / blijven)",
+          "a": "`Omdat de klant om vier uur belt, blijf ik op kantoor.`"
+        },
+        {
+          "q": "Translate: Because the machine is broken, we cannot test today.",
+          "a": "`Omdat de machine kapot is, kunnen wij vandaag niet testen.`"
+        },
+        {
+          "q": "Fix the error: `Als het regent, ik neem een paraplu mee.`",
+          "a": "`Als het regent, neem ik een paraplu mee.` Verb straight after the comma, subject after the verb."
+        },
+        {
+          "q": "Translate: If Friday does not work, Monday would also be possible.",
+          "a": "`Als vrijdag niet lukt, zou maandag ook kunnen.` A handy `zou` for planning emails."
+        },
+        {
+          "q": "Start with `Omdat ik uit Zimbabwe kom, ...` and finish it truthfully.",
+          "a": "Example: `Omdat ik uit Zimbabwe kom, mis ik soms de zon van Harare.` Check the inversion after the comma."
+        }
+      ]
+    },
+    {
+      "id": "w7l5",
+      "title": "Combineren: van korte zinnen naar rijke zinnen",
+      "minutes": 8,
+      "body": "### From bricks to buildings\nYou now own a toolbox: `want`, `omdat`, `als`, `dat`, `of`, plus `maar` and `en` from earlier weeks. Short sentences are correct, but they sound like a robot reading labels:\n\n- Robot: `Ik werk bij ZiQo. Wij testen voedsel. De klanten willen snelle resultaten.`\n- You, from now on: `Bij ZiQo testen wij voedsel omdat onze klanten snelle resultaten willen.`\n\nThe recipe:\n\n- Take two short sentences.\n- Name the relationship: reason (`omdat`), condition or time (`als`), opinion or report (`dat`), contrast (`maar`).\n- Send the verb of the bijzin to the end.\n- Bijzin first? Comma, verb, subject. You know the dance.\n\n### Mini-schrijfopdracht\nWrite five combined sentences about your work. Each sentence needs at least one bijzin, and across the five you must use `omdat`, `als` and `dat` at least once each. Read them aloud and listen for the verb landing at the end. Keep them: they become your answer when a Dutch client asks `Wat doet ZiQo eigenlijk?`",
+      "drill": [
+        {
+          "q": "Combine: `Ik ben laat. De trein rijdt niet.`",
+          "a": "`Ik ben laat omdat de trein niet rijdt.`"
+        },
+        {
+          "q": "Combine, bijzin first: `Het regent morgen. De markt gaat niet door.`",
+          "a": "`Als het morgen regent, gaat de markt niet door.` Comma, then verb, then subject."
+        },
+        {
+          "q": "Combine with of: `Ik weet het niet. Komt de klant vandaag?`",
+          "a": "`Ik weet niet of de klant vandaag komt.` The hidden yes/no question takes `of`."
+        },
+        {
+          "q": "Combine with dat: `Ik hoop het. De resultaten zijn morgen klaar.`",
+          "a": "`Ik hoop dat de resultaten morgen klaar zijn.`"
+        },
+        {
+          "q": "One sentence, two bijzinnen: say that you think the client is happy because the report was ready on time.",
+          "a": "`Ik denk dat de klant blij is omdat het rapport op tijd klaar was.` Each bijzin ends in its own verb."
+        },
+        {
+          "q": "Now the mini-schrijfopdracht: write your five sentences about your work, on paper and out loud.",
+          "a": "Model: `Als een klant om een analyse vraagt, plannen wij de test meteen omdat snelheid belangrijk is.` Yours count when every bijzin ends in its verb."
+        }
+      ]
+    }
+  ]
+}

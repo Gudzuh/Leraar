@@ -1,0 +1,80 @@
+{
+  "week": 5,
+  "theme": "Vroeger: imperfectum I",
+  "mission": "Vertel deze week één collega een kort verhaal over vroeger in Zimbabwe: drie of vier zinnen in het imperfectum. Begin met 'Toen ik jong was ...' en eindig met één zin over nu.",
+  "listening": [
+    { "title": "Een Beetje Nederlands: kies een aflevering over het dagelijks leven en luister twee keer, de tweede keer met het transcript", "url": "https://www.eenbeetjenederlands.nl" },
+    { "title": "Jeugdjournaal: kijk elke dag vijf minuten en noteer twee zinnen in de verleden tijd", "url": "https://jeugdjournaal.nl" }
+  ],
+  "lessons": [
+    {
+      "id": "w5l1",
+      "title": "Imperfectum regelmatig (-te/-de)",
+      "minutes": 8,
+      "body": "Time to talk about the past properly. The imperfectum is one word, *ik werkte*, no auxiliary, and for regular verbs it is beautifully mechanical.\n\n### De regel\nTake de stam (de ik-vorm), then:\n- de stam ends in a 't kofschip sound (t, k, f, s, ch, p): add `-te`, plural `-ten`\n- anything else: add `-de`, plural `-den`\n\nYes, 't kofschip again: the same test that gave you *gewerkt* versus *gewoond* in week 3. One trap: check the consonant in the **infinitive**. `verhuizen` has a z (voiced), so `verhuisde`, even though de stam ends in s.\n\n| de infinitief | ik/jij/hij | wij |\n| werken | `werkte` | werkten |\n| wonen | `woonde` | woonden |\n| praten | `praatte` | praatten |\n| verhuizen | `verhuisde` | verhuisden |\n\nSpelling alarm: *praatte* really has a double t. De stam is praat, plus te. Looks strange, is correct.\n\n### Wanneer gebruik je het?\nIn conversation Dutch mostly uses the perfectum from week 3. The imperfectum shows up for habits and descriptions: *Vroeger `werkte` ik in Harare.* And note the word order: vroeger is fronted, so the verb comes straight after it. Lesson 3 sorts out the full rules; today you only build the forms.",
+      "drill": [
+        { "q": "Vertaal: I worked in Harare.", "a": "Ik werkte in Harare." },
+        { "q": "Vul in: Vroeger ___ (wonen) wij in Zimbabwe.", "a": "woonden: Vroeger woonden wij in Zimbabwe. Vroeger staat vooraan, dus het werkwoord komt direct daarna." },
+        { "q": "-te of -de: verhuizen?", "a": "verhuisde. Kijk naar de infinitief: de z is stemhebbend en zit niet in 't kofschip." },
+        { "q": "Spel het imperfectum van 'praten' (ik-vorm).", "a": "praatte, met dubbel t: de stam praat plus te." },
+        { "q": "Vertaal: Unfortunately he talked a lot.", "a": "Helaas praatte hij veel. Na helaas komt het werkwoord meteen (V2)." },
+        { "q": "Zet in het imperfectum: Wij fietsen naar het lab.", "a": "Wij fietsten naar het lab. De s zit in 't kofschip, dus -ten." }
+      ]
+    },
+    {
+      "id": "w5l2",
+      "title": "toen + woordvolgorde",
+      "minutes": 7,
+      "body": "`Toen` is your gateway to storytelling. It means 'when' for the past, and it rearranges the sentence.\n\n### De bijzin: het werkwoord naar het einde\nInside the toen-clause, the verb moves to the very end:\n- *Toen ik jong `was`, speelde ik elke dag buiten.*\n- *Toen wij in Harare `woonden`, kookte mijn oma vaak sadza.*\n\nSo not *Toen ik was jong*: the verb waits at the end of the clause. Patient, like a proper queue.\n\n### De hoofdzin: inversie\nThe whole toen-clause counts as position one. After the comma the verb comes immediately, then the subject: *Toen ik jong was, `speelde` ik ...* Same V2 rule as after morgen or helaas, just with a bigger block up front.\n\n### toen of als?\n| | de tijd | het voorbeeld |\n| toen | verleden | Toen ik klein was, woonde ik in Harare. |\n| als | nu, toekomst, 'whenever' | Als ik moe ben, drink ik thee. |\n\nOne moment or one period in the past: toen. Everything else: als. English says 'when' for both, so your instinct will push als everywhere. Resist it.\n\nYou also need `was` and `waren` (zijn) constantly. They are irregular; accept them like the Dutch weather.",
+      "drill": [
+        { "q": "Zet in de goede volgorde: toen / ik / jong / was + ik / buiten / speelde", "a": "Toen ik jong was, speelde ik buiten." },
+        { "q": "Vertaal: When we lived in Harare, my grandmother often cooked sadza.", "a": "Toen wij in Harare woonden, kookte mijn oma vaak sadza." },
+        { "q": "toen of als: ___ ik moe ben, drink ik thee.", "a": "Als: dit is nu, geen verleden." },
+        { "q": "toen of als: ___ ik in Harare woonde, werkte ik in een laboratorium.", "a": "Toen: één periode in het verleden." },
+        { "q": "Wat is er fout: 'Toen ik woonde in Harare, ik kookte vaak.'?", "a": "Twee dingen: het werkwoord gaat naar het einde van de bijzin, en na de komma komt inversie: 'Toen ik in Harare woonde, kookte ik vaak.'" }
+      ]
+    },
+    {
+      "id": "w5l3",
+      "title": "Perfectum of imperfectum?",
+      "minutes": 8,
+      "body": "You now own two past tenses. Which one when? Dutch is more relaxed here than the grammar books admit, and two rules cover almost everything.\n\n### Regel 1: gebeurtenissen in een gesprek? Perfectum.\nAnswering 'wat heb je gedaan?' and reporting completed events: the perfectum is the default in speech.\n- *Ik `heb` gisteren met een klant `gebeld`.*\n- *We `hebben` gisteren het monster naar het lab `gestuurd`.*\n\n### Regel 2: achtergrond, beschrijving, gewoonte? Imperfectum.\nThe weather, feelings, situations, and anything with vroeger or altijd:\n- *Het `regende` en ik `was` moe.*\n- *Vroeger `werkte` ik elke dag tot zes uur.*\n\n### Paren om het te voelen\n| perfectum (de gebeurtenis) | imperfectum (de achtergrond) |\n| Ik heb gisteren gefietst. | Ik fietste vroeger elke dag. |\n| We hebben in Utrecht gewoond. | Toen we daar woonden, regende het altijd. |\n| Ik heb het rapport gemaild. | De printer werkte die dag niet. |\n\nA real story mixes them: perfectum for what happened, imperfectum for the scene around it. *Ik heb de klant gebeld. Hij praatte veel, dus het duurde lang.*\n\nIn doubt mid-conversation? Pick the perfectum. Nobody will blink.",
+      "drill": [
+        { "q": "Perfectum of imperfectum: Gisteren ___ ik met een klant ___ (bellen).", "a": "Gisteren heb ik met een klant gebeld. Gebeurtenis in een gesprek: perfectum. En na gisteren: inversie." },
+        { "q": "Perfectum of imperfectum: Vroeger ___ (werken) ik elke dag tot zes uur.", "a": "werkte. Gewoonte met vroeger: imperfectum." },
+        { "q": "Kies: Het ___ (regende / heeft geregend) toen ik naar huis fietste.", "a": "regende. Achtergrond bij een verhaal: imperfectum." },
+        { "q": "Vertaal: We sent the sample to the lab yesterday.", "a": "We hebben gisteren het monster naar het lab gestuurd." },
+        { "q": "Vertaal: The printer didn't work that day.", "a": "De printer werkte die dag niet. Beschrijving: imperfectum, en niet staat aan het einde." },
+        { "q": "Je twijfelt midden in een gesprek. Welke tijd kies je?", "a": "Het perfectum: dat is de standaard in spreektaal." }
+      ]
+    },
+    {
+      "id": "w5l4",
+      "title": "Vroeger en nu",
+      "minutes": 7,
+      "body": "This week's party trick: the vroeger ... nu contrast. One sentence about then, one about now, and suddenly you are telling your story.\n\n### Het patroon\n- *`Vroeger` woonde ik in Harare, `nu` woon ik in Nederland.*\n- *Vroeger kookte mijn moeder sadza, nu kook ik stamppot.* (Progress? Discuss.)\n- *Vroeger fietste ik nooit, nu fiets ik elke dag.*\n\nWatch the word order twice: vroeger fronted, verb straight after it (imperfectum); nu fronted, verb straight after it (presens). The week 1 V2 rule, now doing double duty.\n\n### Verhuizen: van ... naar\n- *Ik verhuisde in 2024 `van` Harare `naar` Nederland.*\n- *Ik reisde van Harare via Dubai naar Amsterdam.*\n\n### De volgorde van een verhaal\n`eerst`, `daarna`, `toen` (here as an adverb: then): all fronted, all followed directly by the verb.\n- *Eerst studeerde ik. Daarna werkte ik in een laboratorium. Toen startte het avontuur.*\n\n### Eén spellingsdetail\n'My life has changed' is *Mijn leven is `veranderd`.* The trap is 'verandert': that is the hij-vorm of the present tense, not the participle. Same family as gewoond and verhuisd: soft consonant, so the participle ends in a d.",
+      "drill": [
+        { "q": "Vertaal: In the past I lived in Harare, now I live in the Netherlands.", "a": "Vroeger woonde ik in Harare, nu woon ik in Nederland." },
+        { "q": "Maak af met de goede woordvolgorde: Vroeger fietste ik nooit, nu ...", "a": "... fiets ik elke dag. Na nu komt het werkwoord meteen (V2)." },
+        { "q": "Vertaal: I moved from Harare to the Netherlands in 2024.", "a": "Ik verhuisde in 2024 van Harare naar Nederland." },
+        { "q": "Zet in de goede volgorde: daarna / ik / in een laboratorium / werkte", "a": "Daarna werkte ik in een laboratorium." },
+        { "q": "Vul in en spel goed: Mijn leven is ___ (veranderen).", "a": "veranderd, met een d aan het einde: het is een participium, geen hij-vorm." },
+        { "q": "Vertaal: I traveled from Harare via Dubai to Amsterdam.", "a": "Ik reisde van Harare via Dubai naar Amsterdam. reizen heeft een z, stemhebbend, dus -de." }
+      ]
+    },
+    {
+      "id": "w5l5",
+      "title": "Jouw levensverhaal",
+      "minutes": 8,
+      "body": "Everything from this week clicks together into one deliverable: your six-sentence life story. This is the story for *de borrel*, *de kennismaking* and every client lunch. Build it once, polish it forever.\n\n### Het skelet\n- *Ik ben in Harare geboren.* (perfectum: het feit)\n- *Toen ik jong was, kookte mijn oma vaak sadza.* (de toen-bijzin plus imperfectum)\n- *Ik studeerde voedseltechnologie en ik werkte in een laboratorium.* (imperfectum: de achtergrond)\n- *In 2024 ben ik naar Nederland verhuisd.* (perfectum: de grote stap, let op de d)\n- *Nu heb ik mijn eigen bedrijf: ZiQo Applied.* (presens, nu vooraan, dus inversie)\n- *Ooit `zou` ik graag een laboratorium in Harare willen openen.* (de droom, met zou)\n\n### Waarom deze mix?\nFacts and big events take the perfectum. Background and habits take the imperfectum. Now takes the presens, and the dream takes zou plus infinitives at the end. Six sentences, four tenses, one life.\n\n### De opdracht\nReplace every detail with your own, say the whole story out loud three times, then once without reading. Under thirty seconds and you are ready for the mission. Bonus points: end with a question back, *En jij? Waar kom jij vandaan?* Dutch people love getting that question.",
+      "drill": [
+        { "q": "Zin 1 van je verhaal: Waar ben je geboren? Antwoord in een volledige zin.", "a": "Ik ben in Harare geboren." },
+        { "q": "Vertaal: When I was young, my grandmother often cooked sadza.", "a": "Toen ik jong was, kookte mijn oma vaak sadza." },
+        { "q": "Vertaal: I studied food technology and I worked in a laboratory.", "a": "Ik studeerde voedseltechnologie en ik werkte in een laboratorium." },
+        { "q": "Perfectum of imperfectum voor de grote stap? In 2024 ___ ik naar Nederland ___ (verhuizen).", "a": "In 2024 ben ik naar Nederland verhuisd. Eén grote gebeurtenis: perfectum, en verhuisd eindigt op een d." },
+        { "q": "Vertaal met zou: One day I would like to open a laboratory in Harare.", "a": "Ooit zou ik graag een laboratorium in Harare willen openen." },
+        { "q": "Zeg je hele verhaal van zes zinnen hardop, zonder te lezen.", "a": "Onder de dertig seconden? Dan ben je klaar voor de missie van deze week." }
+      ]
+    }
+  ]
+}

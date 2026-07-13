@@ -1,0 +1,81 @@
+{
+  "week": 19,
+  "theme": "ZiQo II: kwaliteit en regels",
+  "mission": "Pak deze week een echte alinea uit een Nederlandse norm, richtlijn of voorschrift van je werk, bijvoorbeeld uit een ISO-document of een brief van een instantie. Lees hem hardop en vat hem daarna samen in twee eigen Nederlandse zinnen: wat is de eis, en voldoet ZiQo eraan? Struikelen over de vaktaal mag, stoppen niet.",
+  "listening": [
+    { "title": "NOS.nl: zoek een kort economie- of voedselbericht en vat de kern in twee zinnen samen", "url": "https://nos.nl" },
+    { "title": "nt2taalmenu.nl: doe een B2-leesoefening en let op de formele signaalwoorden", "url": "https://nt2taalmenu.nl" }
+  ],
+  "lessons": [
+    {
+      "id": "w19l1",
+      "title": "Kwaliteitstaal: norm, eis, richtlijn en afwijking",
+      "minutes": 7,
+      "body": "### Vier woorden die je lab regeren\nThe gap between these four is the gap between *must* and *should*.\n- `de norm`: a fixed standard, often from ISO. Not up for debate.\n- `de eis`: a requirement someone sets. *De klant stelt strenge eisen.*\n- `de richtlijn`: a guideline, advisory, softer than a norm.\n- `de afwijking`: the deviation, when reality and norm disagree.\n\n### Twee vaste combinaties\n`voldoen aan` = to meet, to comply with. `afwijken van` = to deviate from. The preposition is glued on, so learn each verb as one chunk.\n- *Het monster `voldoet aan` de norm.*\n- *De uitslag `wijkt` sterk `af van` de eis.* (afwijken is scheidbaar: wijkt ... af)\n- *De waarde valt nog `binnen de marge`.*\n\n### In de passief en de bijzin\nQuality language loves the passive (week 13) and the subordinate clause (week 7):\n- *De norm `wordt` elk jaar `vastgesteld`.*\n- *Ik zie `dat het monster aan alle eisen voldoet`.* (werkwoord helemaal achteraan)\n\nSay one sentence out loud about your last real analysis at ZiQo.",
+      "drill": [
+        { "q": "Vertaal: The sample meets the standard.", "a": "Het monster voldoet aan de norm. Vaste combinatie: voldoen aan." },
+        { "q": "Vul de ontbrekende woorden in: De uitslag wijkt sterk ___ ___ de eis.", "a": "af van. Afwijken is scheidbaar en heeft een vast voorzetsel: afwijken van." },
+        { "q": "de of het: ___ norm, ___ eis, ___ richtlijn, ___ afwijking?", "a": "de, de, de, de. Alle vier zijn de-woorden." },
+        { "q": "Maak passief: Men stelt de norm elk jaar vast.", "a": "De norm wordt elk jaar vastgesteld. Passief: worden plus voltooid deelwoord achteraan." },
+        { "q": "Maak een bijzin: Ik zie ... (het monster voldoet aan de eis).", "a": "Ik zie dat het monster aan de eis voldoet. In de bijzin gaat het werkwoord naar het einde." },
+        { "q": "Vertaal: The value is still within the margin.", "a": "De waarde valt nog binnen de marge." }
+      ]
+    },
+    {
+      "id": "w19l2",
+      "title": "Accreditatie en audit: aantonen en borgen",
+      "minutes": 7,
+      "body": "### Het audit-vocabulaire\nAn audit is theatre with a script, so know your lines.\n- `de accreditatie`: the official stamp that your lab is competent.\n- `de audit`: the inspection itself.\n- `de bevinding`: what the auditor writes down. Not always bad news.\n- `de corrigerende maatregel`: the fix you promise afterwards.\n\n### Twee sleutelwerkwoorden\n`aantonen` (scheidbaar: toont aan) = to demonstrate, to prove. `borgen` = to safeguard, to lock quality in.\n- *U moet `aantonen` dat het proces klopt.*\n- *Wij `tonen` met data `aan` dat de methode betrouwbaar is.*\n- *We `borgen` de kwaliteit met een vast protocol.*\n\n### In de praktijk\nRecycle the passive (week 13) and the modals (week 4):\n- *Elke bevinding `moet worden` opgelost.*\n- *De corrigerende maatregel `wordt` binnen dertig dagen `doorgevoerd`.*\n\nAnd the polite `zou` from week 17 for the auditor's questions:\n- *`Wat zou u doen` als een monster afwijkt?*\n- *Ik `zou` eerst de meting herhalen en daarna de klant informeren.*\n\nAnswer that last question out loud, in twee volledige zinnen.",
+      "drill": [
+        { "q": "Vertaal: You have to prove that the process is correct.", "a": "U moet aantonen dat het proces klopt." },
+        { "q": "Vul aan (aantonen, scheidbaar): Wij ___ met data ___ dat de methode klopt.", "a": "tonen ... aan. Wij tonen met data aan dat de methode klopt." },
+        { "q": "de of het: ___ accreditatie, ___ audit, ___ bevinding, ___ maatregel?", "a": "de, de, de, de. Alle vier de-woorden." },
+        { "q": "Maak passief: We voeren de maatregel binnen dertig dagen door.", "a": "De maatregel wordt binnen dertig dagen doorgevoerd. Scheidbaar deelwoord: doorgevoerd." },
+        { "q": "Beantwoord met zou: Wat zou u doen als een monster afwijkt?", "a": "Ik zou eerst de meting herhalen en daarna de klant informeren." },
+        { "q": "Vertaal: We safeguard the quality with a fixed protocol.", "a": "We borgen de kwaliteit met een vast protocol. Let op: het protocol, dus een vast protocol zonder -e." }
+      ]
+    },
+    {
+      "id": "w19l3",
+      "title": "De formele brief aan een instantie",
+      "minutes": 8,
+      "body": "### De opbouw van een formele brief\nA Dutch official letter has fixed furniture. Learn the slots, then just fill them.\n- **Aanhef**: *Geachte heer De Vries,* of *Geachte mevrouw,*\n- **Aanleiding**: *`Naar aanleiding van` uw brief van 3 juli ...*\n- **Kern**: *`Hierbij verzoek ik u` om de uitslag opnieuw te beoordelen.*\n- **Afsluiting**: *`In afwachting van uw reactie`,*\n- **Groet**: *Met `vriendelijke` groet,* (let op de spelling: vriendelijke)\n\n### Let op de inversie\nWhen the letter opens with the reason, the fronted phrase pushes the verb to slot two, exactly week 1's rule:\n- *Naar aanleiding van uw brief `verzoek` ik u ...* (dus niet: ik verzoek)\n\n### Beleefd met zou (week 17)\n- *`Zou u` mij kunnen laten weten wanneer de audit plaatsvindt?*\n- *Ik `zou` graag een schriftelijke bevestiging ontvangen.*\n\nFormal Dutch stays warm but keeps its distance: *u*, hele werkwoorden, geen straattaal. Draft one request of three lines to a real instantie vanavond, hardop.",
+      "drill": [
+        { "q": "Schrijf de openingszin (naar aanleiding van uw brief van 3 juli).", "a": "Naar aanleiding van uw brief van 3 juli ..." },
+        { "q": "Zet in de goede volgorde: Naar aanleiding van uw brief / u / verzoek / ik ...", "a": "Naar aanleiding van uw brief verzoek ik u ... Na het vooropgeplaatste zinsdeel staat het werkwoord op plaats twee." },
+        { "q": "Vertaal beleefd met zou: Could you let me know when the audit takes place?", "a": "Zou u mij kunnen laten weten wanneer de audit plaatsvindt?" },
+        { "q": "Schrijf de afsluitgroet foutloos.", "a": "Met vriendelijke groet, (let op de spelling: vriendelijke)." },
+        { "q": "Vertaal: Herewith I request you to reassess the result.", "a": "Hierbij verzoek ik u om de uitslag opnieuw te beoordelen. Vaste constructie: verzoeken om ... te." },
+        { "q": "Maak af: In afwachting van uw reactie ...", "a": "In afwachting van uw reactie, gevolgd door Met vriendelijke groet. Vaste slotformule." }
+      ]
+    },
+    {
+      "id": "w19l4",
+      "title": "Percentages en precisie",
+      "minutes": 7,
+      "body": "### procent versus procentpunt\nThis one fools native speakers too, so nail it and feel smug.\n\n| | procentpunt | procent |\n| betekenis | het absolute gat | de relatieve verandering |\n| van 4% naar 6% | 2 procentpunt | 50 procent stijging |\n\nSame two numbers, two different words. `Het procentpunt` is the absolute gap, `procent` is the relative change.\n\n### Grenzen benoemen\n- `ten minste` = at least. `ten hoogste` = at most.\n- `maximaal` en `minimaal` als bijwoord: *`maximaal` 5 procent, `minimaal` 2 procent.*\n- *De waarde ligt `tussen` 2 `en` 4 procent.* (let op: tussen ... en)\n\n### Nauwkeurig zijn in taal\nPrecision is a word choice:\n- *precies* (exactly), *ongeveer* of *circa* (about), *ruim* (comfortably over), *bijna* of *net geen* (just under), *afgerond* (rounded).\n- *De meetwaarde is `afgerond` 3 procent.*\n\nSay your last result three ways: precies, ongeveer, afgerond. Then give a range met `tussen ... en`.",
+      "drill": [
+        { "q": "Van 4% naar 6%: hoeveel procentpunt en hoeveel procent stijging?", "a": "2 procentpunt en 50 procent stijging. Procentpunt is absoluut, procent is relatief." },
+        { "q": "Vertaal: at least 2 percent, at most 5 percent.", "a": "ten minste 2 procent, ten hoogste 5 procent." },
+        { "q": "Vul in (tussen ... en): De waarde ligt ___ 2 ___ 4 procent.", "a": "tussen 2 en 4 procent." },
+        { "q": "Vertaal: The value may be maximum 5 percent.", "a": "De waarde mag maximaal 5 procent zijn." },
+        { "q": "Zeg preciezer dan 'ongeveer 3': geef twee opties.", "a": "afgerond 3 of precies 3,2. Kies het woord dat bij de werkelijke meting past." },
+        { "q": "Vertaal met perfectum en van...naar: The level rose from 3 to 5 percent.", "a": "Het gehalte is van 3 naar 5 procent gestegen. Stijgen neemt zijn bij verandering, en van ... naar." }
+      ]
+    },
+    {
+      "id": "w19l5",
+      "title": "Het kwaliteitsgesprek: de klacht de-escaleren",
+      "minutes": 8,
+      "body": "### Het script van het klachtgesprek\nA client is furious about a result. Your job is not to win, it is to de-escalate, investigate, report back. Vier stappen.\n\n### 1. Erkennen en de-escaleren\n- *Ik begrijp dat dit vervelend voor u is.*\n- *Ik snap uw zorg, laten we het samen bekijken.*\nNever argue in the first sentence. Lower the temperature first.\n\n### 2. Uitzoeken beloven\n- *Ik ga dit voor u `uitzoeken`.*\n- *`Zou` u mij het ordernummer kunnen geven?* (beleefd, week 17)\n- *Kunt u zeggen `wat er precies mis is`?* (bijzin, week 7)\n\n### 3. Verwachting stellen\n- *`Helaas` kan ik nu nog geen conclusie geven.* (na helaas het werkwoord op plaats twee)\n- *`Morgen` bel ik u terug, `om` tien uur.* (tijd vooraan, dus werkwoord tweede)\n\n### 4. Terugkoppelen\n- *Ik heb het `uitgezocht`. De meting klopt, maar ik snap de verwarring.*\n- *Zullen we een nieuw monster analyseren?*\n\nOefen dit met Claude in een /gesprek: jij runt het lab, Claude speelt de boze klant.",
+      "drill": [
+        { "q": "De klant is boos. Geef je eerste zin (erkennen).", "a": "Ik begrijp dat dit vervelend voor u is. Eerst de-escaleren, niet verdedigen." },
+        { "q": "Vertaal beleefd met zou: Could you give me the order number?", "a": "Zou u mij het ordernummer kunnen geven?" },
+        { "q": "Zet 'helaas' vooraan (let op V2): ik kan nu nog geen conclusie geven.", "a": "Helaas kan ik nu nog geen conclusie geven. Na helaas komt het werkwoord op plaats twee." },
+        { "q": "Vertaal (op/om): I will call you back on Friday at ten.", "a": "Ik bel u op vrijdag om tien uur terug. Op de dag, om de tijd, terug achteraan." },
+        { "q": "Perfectum van uitzoeken: ik ... het al ... .", "a": "Ik heb het al uitgezocht. Scheidbaar, ge in het midden: uit-ge-zocht." },
+        { "q": "Vertaal: Shall we analyse a new sample?", "a": "Zullen we een nieuw monster analyseren? Het monster, dus na een blijft nieuw onverbogen." }
+      ]
+    }
+  ]
+}

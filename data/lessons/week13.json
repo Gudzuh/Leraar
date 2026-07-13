@@ -1,0 +1,177 @@
+{
+  "week": 13,
+  "theme": "Het passief: processen beschrijven",
+  "mission": "Leg deze week aan een Nederlandse collega of klant één werkproces uit, bijvoorbeeld hoe een monster bij ZiQo wordt getest. Gebruik minstens twee passieve zinnen, zoals 'eerst wordt het monster gewogen' en 'daarna worden de resultaten gecontroleerd'.",
+  "listening": [
+    {
+      "title": "Zoek op nos.nl één artikel over voedsel of wetenschap en schrijf drie passieve zinnen over (wordt, worden, werd).",
+      "url": "https://nos.nl"
+    },
+    {
+      "title": "Luister één aflevering van Een Beetje Nederlands en tel hoe vaak je 'wordt' of 'worden' hoort; noteer twee voorbeelden.",
+      "url": "https://www.eenbeetjenederlands.nl"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "w13l1",
+      "title": "Worden + voltooid deelwoord: de monsters worden geanalyseerd",
+      "minutes": 7,
+      "body": "### Why processes love the passive\nIn a lab report nobody cares *who* weighed the sample. The process is the star. Dutch handles this with `worden` plus the voltooid deelwoord you already know from the perfectum in week 3.\n\n|actief|passief|\n|`Wij analyseren het monster.`|`Het monster wordt geanalyseerd.`|\n|`Het lab test de melk.`|`De melk wordt getest.`|\n|`Ik verstuur de rapporten.`|`De rapporten worden verstuurd.`|\n\n### The recipe\n- Conjugate `worden` to match the new subject: `het monster wordt`, `de monsters worden`.\n- Park the participle at the end of the sentence, exactly like in the perfectum.\n- The old object becomes the subject, so check de/het again: `het rapport wordt geschreven`.\n\n### V2 still rules\nFront an adverb and the verb stays second: `Eerst wordt het monster gewogen.` `Morgen worden de resultaten verstuurd.` Not *morgen de resultaten worden*. You know this one; the passive does not get an exemption.\n\nSay three passive sentences about your own lab out loud. Yes, out loud. The centrifuge will not judge you.",
+      "drill": [
+        {
+          "q": "Translate: The samples are analyzed on Monday.",
+          "a": "De monsters worden op maandag geanalyseerd. (op for days; participle at the end)"
+        },
+        {
+          "q": "Complete: Het rapport ____ (worden) morgen geschreven.",
+          "a": "wordt (het rapport is singular, so wordt)"
+        },
+        {
+          "q": "Reorder: gewogen / wordt / eerst / het monster",
+          "a": "Eerst wordt het monster gewogen. (fronted adverb, verb stays second)"
+        },
+        {
+          "q": "Make passive: Wij testen de melk.",
+          "a": "De melk wordt getest."
+        },
+        {
+          "q": "Translate: The results are sent between nine and ten o'clock.",
+          "a": "De resultaten worden tussen negen en tien uur verstuurd. (tussen...en for time spans)"
+        },
+        {
+          "q": "Fill in de or het, then finish: ____ monster ____ vandaag geanalyseerd.",
+          "a": "Het monster wordt vandaag geanalyseerd."
+        }
+      ]
+    },
+    {
+      "id": "w13l2",
+      "title": "Passief verleden: werd geanalyseerd, is geanalyseerd",
+      "minutes": 8,
+      "body": "### Two pasts, two jobs\nThe passive has a story form and a result form.\n\n|tijd|voorbeeld|gebruik|\n|nu|`De melk wordt getest.`|happening now or routinely|\n|verhaal|`De melk werd getest.`|telling what happened step by step|\n|resultaat|`De melk is getest.`|done, the state now|\n\n`Werd` and `werden` narrate: `Gisteren werden de monsters ontvangen en geregistreerd.` The result form answers the client on the phone: `Is het monster al getest?` `Ja, het is getest, het rapport komt vrijdag.`\n\n### The famous disappearing trick\nEnglish logic wants *het is getest geworden*. Dutch deletes `geworden` here. Always. `Het rapport is geschreven.` If you say `geworden`, a Dutch person will understand you and quietly wince.\n\n### Recycle corner\nFronted adverbs still push the verb to spot two: `Helaas werd de vergadering verplaatst.` And bijzinnen from week 7 kick everything to the end: `De klant vraagt of het monster al getest is.`\n\nQuick self-check: one thing in your kitchen that has been changed, cleaned or repaired. `De koelkast is schoongemaakt.` Probably a lie, but grammatically perfect.",
+      "drill": [
+        {
+          "q": "Complete: Gisteren ____ de monsters geanalyseerd.",
+          "a": "werden (plural subject, past narration)"
+        },
+        {
+          "q": "Translate: The report was written last week.",
+          "a": "Het rapport werd vorige week geschreven. (also fine: is vorige week geschreven)"
+        },
+        {
+          "q": "A client asks if the milk is already tested (result). Answer in one Dutch sentence.",
+          "a": "Ja, de melk is getest. (is + participle = result state, no geworden)"
+        },
+        {
+          "q": "Reorder: werd / helaas / ontvangen / het monster / te laat",
+          "a": "Helaas werd het monster te laat ontvangen. (helaas fronted, verb second)"
+        },
+        {
+          "q": "Correct or wrong: Het rapport is geschreven geworden.",
+          "a": "Wrong. Dutch drops geworden: Het rapport is geschreven."
+        },
+        {
+          "q": "Translate: The recipe was never changed.",
+          "a": "Het recept werd nooit veranderd. (watch the spelling: veranderd with one d at the end)"
+        }
+      ]
+    },
+    {
+      "id": "w13l3",
+      "title": "Door + agent: wie doet het eigenlijk?",
+      "minutes": 6,
+      "body": "### Naming the doer\nThe passive hides the doer. When the doer matters, bring them back with `door`: `Het rapport wordt door het lab opgesteld.` `De factuur werd door de boekhouder verstuurd.`\n\n### When to bother\n- New or important info: `Elke analyse wordt door twee analisten gecontroleerd.` That sentence sells trust to a client.\n- Contrast: `Het monster wordt niet door de klant, maar door de koerier gebracht.`\n- Otherwise, skip it. `De monsters worden om 9.00 uur opgehaald.` Nobody needs the courier's biography.\n\n### Word order\nThe `door` phrase sits before the participle: `Het rapport wordt door het lab opgesteld.` With a modal or `zou`, the pattern from week 4 returns: `Het rapport zou door twee collega's gecontroleerd worden.`\n\n### Door is not met\n`Door` marks who acts, `met` marks the tool: `Het monster wordt door de analist met een pipet verdund.` One person, one instrument, zero confusion.\n\nTry it on ZiQo: who receives, who tests, who signs? Three sentences, three `door` phrases. Then delete the two that a client would not care about.",
+      "drill": [
+        {
+          "q": "Translate: The invoice is sent by the accountant.",
+          "a": "De factuur wordt door de boekhouder verstuurd."
+        },
+        {
+          "q": "Make passive with door: De klant betaalt de factuur.",
+          "a": "De factuur wordt door de klant betaald."
+        },
+        {
+          "q": "Translate: Every analysis is checked by two colleagues.",
+          "a": "Elke analyse wordt door twee collega's gecontroleerd."
+        },
+        {
+          "q": "Translate with zou: The report would be checked by the client.",
+          "a": "Het rapport zou door de klant gecontroleerd worden. (zou + infinitive cluster at the end)"
+        },
+        {
+          "q": "Door or met: Het monster wordt ____ een pipet verdund.",
+          "a": "met (a pipette is a tool, not a doer)"
+        },
+        {
+          "q": "Is door needed here, talking to a client: De monsters worden (door onze analisten?) binnen 24 uur getest.",
+          "a": "Yes, keep it: De monsters worden door onze analisten binnen 24 uur getest. It signals who does the skilled work."
+        }
+      ]
+    },
+    {
+      "id": "w13l4",
+      "title": "Men, je, ze: als het Nederlands het passief vermijdt",
+      "minutes": 7,
+      "body": "### The passive has rivals\nSpoken Dutch often dodges the passive with three little words.\n\n|woord|toon|voorbeeld|\n|`men`|formal, written|`Men zegt dat de huur hier hoog is.`|\n|`je`|spoken, general you|`Zo doe je dat.`|\n|`ze`|they, some unknown people|`Ze hebben de weg veranderd.`|\n\n`Men` lives in reports and signs: `Men wordt verzocht te wachten.` Say that at the borrel and people will check if you are a lawyer. In conversation, `je` wins: `Hoe maak je sadza? Eerst kook je het water.` In Harare everyone knows this; in Dutch you now do too.\n\n### Ze without a face\n`Ze` works when *somebody out there* did it: `Ze hebben mijn e-mail nog niet beantwoord.` You are not accusing anyone specific, just the universe.\n\n### Recycle corner\nAfter `men zegt dat...` the bijzin sends the verb to the end (week 7): `Men zegt dat de zomer warm wordt.` And with `je`, V2 still applies after a fronted adverb: `Meestal koop je maïsmeel op de markt.`\n\nRule of thumb: writing a report, passive or `men`. Talking to a human, `je`.",
+      "drill": [
+        {
+          "q": "Rewrite with je: Hoe wordt sadza gemaakt?",
+          "a": "Hoe maak je sadza?"
+        },
+        {
+          "q": "Translate with men: They say the summer will be warm.",
+          "a": "Men zegt dat de zomer warm wordt. (bijzin: verb to the end)"
+        },
+        {
+          "q": "Translate with ze: They still have not answered my email.",
+          "a": "Ze hebben mijn e-mail nog niet beantwoord. (niet before the participle)"
+        },
+        {
+          "q": "Translate: In Zimbabwe people eat sadza with their hands.",
+          "a": "In Zimbabwe eet men sadza met de handen. (fronted place, verb second)"
+        },
+        {
+          "q": "Rewrite as spoken Dutch with je: Eerst wordt het water gekookt.",
+          "a": "Eerst kook je het water. (V2 survives the rewrite)"
+        },
+        {
+          "q": "Formal sign or friendly explanation? Choose men or je: ____ wordt verzocht hier niet te roken.",
+          "a": "Men wordt verzocht hier niet te roken. (signs and rules take men)"
+        }
+      ]
+    },
+    {
+      "id": "w13l5",
+      "title": "Een proces uitleggen: eerst, daarna, ten slotte",
+      "minutes": 8,
+      "body": "### Signal words + passive = a professional explanation\nThis is the week's payoff: describing a whole process, step by step.\n\n|signaalwoord|betekenis|\n|`eerst`|first|\n|`daarna` / `vervolgens`|then, next|\n|`dan`|then|\n|`ten slotte`|finally|\n\nEvery signal word takes the front seat, so the verb sits second. Every single time.\n\n### The lab version\n`Eerst wordt het monster ontvangen en geregistreerd. Daarna wordt het gewogen. Vervolgens worden de bacteriën geteld. Ten slotte wordt het rapport opgesteld en naar de klant verstuurd.` Four sentences and you sound like the quality manual. Clients love the quality manual.\n\n### The sadza version\n`Eerst wordt het water gekookt. Daarna wordt het maïsmeel langzaam toegevoegd. Vervolgens wordt de pap tien minuten geroerd. Ten slotte wordt de sadza met groenten geserveerd.` Same grammar, better smell.\n\n### Watch two things\n- Singular or plural: `wordt het monster`, but `worden de bacteriën`.\n- Keep steps short. One step, one sentence. Chained mega-sentences are where word order goes to die.\n\nNow pick your own process, lab or kitchen, and say it in four steps. That is the mission this week.",
+      "drill": [
+        {
+          "q": "Translate: First the water is boiled, then the maize meal is added.",
+          "a": "Eerst wordt het water gekookt, daarna wordt het maïsmeel toegevoegd."
+        },
+        {
+          "q": "Complete with wordt or worden: Vervolgens ____ de bacteriën geteld.",
+          "a": "worden (de bacteriën is plural)"
+        },
+        {
+          "q": "Reorder: het rapport / ten slotte / opgesteld / wordt",
+          "a": "Ten slotte wordt het rapport opgesteld."
+        },
+        {
+          "q": "Translate: Finally the results are checked and sent.",
+          "a": "Ten slotte worden de resultaten gecontroleerd en verstuurd."
+        },
+        {
+          "q": "Give step two of your sadza recipe in Dutch, starting with daarna.",
+          "a": "Daarna wordt het maïsmeel langzaam toegevoegd. (any correct daarna + wordt/worden + participle counts)"
+        },
+        {
+          "q": "Translate: The recipe has never been changed, my mother in Harare checks that.",
+          "a": "Het recept is nooit veranderd, mijn moeder in Harare controleert dat. (spelling: veranderd)"
+        }
+      ]
+    }
+  ]
+}

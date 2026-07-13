@@ -2,6 +2,10 @@
   "week": 1,
   "theme": "Fundament: klank en zin",
   "mission": "Zeg deze week elke dag 'goedemorgen' tegen een collega of buur. En één keer: stel jezelf in het Nederlands voor aan iemand die je nog niet kent.",
+  "listening": [
+    { "title": "learndutch.org: 1000 most common words (video 1-2)", "url": "https://www.learndutch.org" },
+    { "title": "Jeugdjournaal (kijk 5 min, versta je 3 woorden? prima)", "url": "https://jeugdjournaal.nl" }
+  ],
   "lessons": [
     {
       "id": "w1l1",

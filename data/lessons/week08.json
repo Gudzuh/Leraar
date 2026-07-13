@@ -1,0 +1,177 @@
+{
+  "week": 8,
+  "theme": "Sterke verhalen: imperfectum II",
+  "mission": "Vertel deze week één korte anekdote in het Nederlands bij de koffie of op de borrel: iets grappigs of geks uit je week. Begin met 'Laatst...' en gebruik minstens één keer was, ging en zei. Kijk of je collega lacht: dan was de clou goed.",
+  "listening": [
+    {
+      "title": "Luister één aflevering van Een Beetje Nederlands en schrijf vijf sterke verledentijdsvormen op die je hoort",
+      "url": "https://www.eenbeetjenederlands.nl"
+    },
+    {
+      "title": "Kijk het Jeugdjournaal en let op de verleden tijd in de nieuwsverhalen: was, ging, kwam, zei",
+      "url": "https://jeugdjournaal.nl"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "w8l1",
+      "title": "De sterke kern: acht vormen die elk verhaal dragen",
+      "minutes": 8,
+      "body": "### De acht die elk verhaal dragen\nEvery Dutch story leans on these eight irregular past forms. Learn them as one block, singular plus plural, and half of the imperfectum is yours.\n\n|infinitief|enkelvoud|meervoud|voorbeeld|\n|zijn|was|waren|`Het lab was stil.`|\n|hebben|had|hadden|`Wij hadden een deadline.`|\n|gaan|ging|gingen|`Ik ging om 8.00 uur naar het lab.`|\n|komen|kwam|kwamen|`De klant kwam te laat.`|\n|zeggen|zei|zeiden|`Hij zei niets.`|\n|doen|deed|deden|`Zij deed de test opnieuw.`|\n|zien|zag|zagen|`Ik zag het resultaat meteen.`|\n|staan|stond|stonden|`De monsters stonden al klaar.`|\n\n### Twee valkuilen\n- The vowel changes length: `kwam` and `zag` have a short a, `kwamen` and `zagen` a long one. Say both out loud.\n- V2 still rules. Front a time word and the verb stays second: `Gisteren was het kantoor dicht.` Not *gisteren het kantoor was*.\n\n### Mini-verhaal\nRead it aloud twice: `Maandag ging ik naar Utrecht. De trein kwam niet. Ik stond een uur op het perron en zei niets. Nederlands weer, Nederlandse trein.`",
+      "drill": [
+        {
+          "q": "Translate: Yesterday I went to the lab at eight o'clock.",
+          "a": "Gisteren ging ik om acht uur naar het lab. (Fronted 'gisteren' pushes the verb to second place: ging ik.)"
+        },
+        {
+          "q": "Complete: Wij ___ (hebben) vorige week drie deadlines.",
+          "a": "hadden (plural subject, so hadden, not had)"
+        },
+        {
+          "q": "Translate: She said nothing and stood by the door.",
+          "a": "Zij zei niets en stond bij de deur."
+        },
+        {
+          "q": "Reorder: het resultaat / was / helaas / niet goed",
+          "a": "Helaas was het resultaat niet goed. (After 'helaas' the verb comes immediately: V2.)"
+        },
+        {
+          "q": "Complete: De monsters ___ (staan) om 9.00 uur al klaar.",
+          "a": "stonden (het monster, de monsters: plural subject)"
+        },
+        {
+          "q": "Translate: We came from Harare to the Netherlands in 2023.",
+          "a": "Wij kwamen in 2023 van Harare naar Nederland. (kwamen with a long a; van ... naar for the route)"
+        }
+      ]
+    },
+    {
+      "id": "w8l2",
+      "title": "Meer sterke vormen: vond, kreeg, nam, dacht, wist en de modalen",
+      "minutes": 8,
+      "body": "### Nog acht vormen\nWith these you can complain about the past, and complaining is half of Dutch small talk.\n\n|infinitief|imperfectum|voorbeeld|\n|vinden|vond, vonden|`Ik vond de vergadering te lang.`|\n|krijgen|kreeg, kregen|`Wij kregen een nieuwe klant.`|\n|nemen|nam, namen|`Hij nam de trein van Ede naar Utrecht.`|\n|denken|dacht, dachten|`Ik dacht dat het vrijdag was.`|\n|weten|wist, wisten|`Zij wist het antwoord niet.`|\n|moeten|moest, moesten|`Ik moest tussen 9.00 en 10.00 uur bellen.`|\n|kunnen|kon, konden|`Wij konden gisteren niet komen.`|\n|willen|wilde, wilden|`De klant wilde een offerte.`|\n\n### Modalen in het verleden\n- Same rule as week 4: the second verb goes to the end. `Ik moest gisteren lang op de uitslag wachten.`\n- You already use `zou` for polite requests. Small secret: `zou` is simply the imperfectum of `zullen`. You have been speaking past tense for weeks.\n- `dacht` and `wist` love a bijzin (week 7): `Ik wist niet dat het kantoor dicht was.` Verb to the end.\n- In speech you will hear `wou` for `wilde`. Understand it, write `wilde`.",
+      "drill": [
+        {
+          "q": "Translate: I had to work on Saturday.",
+          "a": "Ik moest op zaterdag werken. (Modal past plus infinitive at the end, and op before the day.)"
+        },
+        {
+          "q": "Complete: Wij ___ (kunnen) het monster gisteren niet analyseren.",
+          "a": "konden"
+        },
+        {
+          "q": "Translate: She thought that the invoice was wrong.",
+          "a": "Zij dacht dat de factuur fout was. (dat-bijzin: verb to the end; 'dat de factuur niet klopte' is even more natural)"
+        },
+        {
+          "q": "Complete: Ik ___ (weten) niet dat het kantoor op vrijdag dicht was.",
+          "a": "wist"
+        },
+        {
+          "q": "Translate: He wanted to take the train, but he took the bus.",
+          "a": "Hij wilde de trein nemen, maar hij nam de bus."
+        },
+        {
+          "q": "Complete: Vorige maand ___ (krijgen) wij twee nieuwe klanten.",
+          "a": "kregen (fronted time, so verb second: kregen wij)"
+        }
+      ]
+    },
+    {
+      "id": "w8l3",
+      "title": "Een anekdote vertellen: opening, setting, actie, clou",
+      "minutes": 7,
+      "body": "### Het recept van een anekdote\nDutch anecdotes follow a fixed recipe. Steal it.\n\n- **De opening**: one time word, then the verb. `Laatst...`, `Gisteren...`, `Vorige week...` Fronted time means verb second: `Laatst stond ik op de markt.`\n- **De setting**: paint the background with imperfectum. `Het was zaterdag. Het regende. Ik had geen paraplu.`\n- **De actie**: the events, in perfectum. `Toen heb ik de verkeerde bus genomen.`\n- **De clou**: end with a reaction or a quote. `zei` is your best friend here.\n\n### Voorbeeld\n`Laatst was ik op een borrel. Iedereen sprak snel Nederlands en ik was moe. Toen heb ik per ongeluk \"jij\" tegen de directeur gezegd. Hij lachte en zei: \"Eindelijk iemand die normaal doet.\"`\n\n### Waarom kort wint\nThree or four sentences of setting and action, one punchline, stop. Dutch people tell anecdotes at every borrel and every koffieautomaat. From this week on, you tell one back.",
+      "drill": [
+        {
+          "q": "Start an anecdote. Translate: Last week I was at a borrel in Wageningen.",
+          "a": "Vorige week was ik op een borrel in Wageningen. (Fronted time, verb second.)"
+        },
+        {
+          "q": "Setting or action? Pick the tense: Het ___ (regenen) de hele dag.",
+          "a": "regende (background, so imperfectum)"
+        },
+        {
+          "q": "Complete with perfectum: Toen ___ ik de verkeerde bus ___ (nemen).",
+          "a": "heb ... genomen (Toen heb ik de verkeerde bus genomen.)"
+        },
+        {
+          "q": "Translate the punchline: And my colleague said: 'That can happen to anyone.'",
+          "a": "En mijn collega zei: \"Dat kan iedereen gebeuren.\""
+        },
+        {
+          "q": "Reorder into one setting line: was / ik / moe / en / regende / het",
+          "a": "Ik was moe en het regende."
+        },
+        {
+          "q": "Your turn: one setting line with 'was' plus one action line in perfectum, about your own week.",
+          "a": "Model: Het was druk op het werk. Dinsdag heb ik drie rapporten geschreven. (Any setting in imperfectum plus event in perfectum is correct.)"
+        }
+      ]
+    },
+    {
+      "id": "w8l4",
+      "title": "Vragen over vroeger: hoe was...? wat deed je...?",
+      "minutes": 6,
+      "body": "### De maandagvraag\nEvery Dutch office opens Monday with the same ritual: `Hoe was je weekend?` The answer stays short: `Goed! Rustig. En dat van jou?` First learn the ritual, then go deeper.\n\n### Vragen in de verleden tijd\n- `Hoe was...?` for states: `Hoe was de vergadering?`, `Hoe was je vakantie?`\n- `Wat deed je...?` for activities: `Wat deed je gisteren?`, `Wat deed je in het weekend?`\n- `Waar was je...?` and `Hoe laat kwam je...?`: `Hoe laat kwam je thuis?`\n- Question word first, verb second, subject third. The same inversion you know since week 1.\n\n### Doorvragen\nAn interview dies after one answer. Push on: `En toen?`, `Echt waar?`, `Waarom?`, `Wie zei dat?`\n\n### Interview over vroeger\nAsk a colleague about their past, then let them interview you. `Hoe was je school?` `Wat aten jullie thuis?` (`eten` becomes `at/aten`.) Your answer is ready: `Wij aten vaak sadza. Mijn oma in Harare kookte het beste.`",
+      "drill": [
+        {
+          "q": "It is Monday, 9.00 uur, the koffieautomaat. Ask your colleague the question.",
+          "a": "Hoe was je weekend?"
+        },
+        {
+          "q": "Translate: What did you do on Sunday?",
+          "a": "Wat deed je op zondag? (op before the day)"
+        },
+        {
+          "q": "Translate: Where were you between one and two o'clock?",
+          "a": "Waar was je tussen één en twee uur?"
+        },
+        {
+          "q": "Answer in Dutch: Hoe was de vergadering? Say it was long but useful.",
+          "a": "De vergadering was lang maar nuttig."
+        },
+        {
+          "q": "Complete: Hoe laat ___ (komen) je gisteren thuis?",
+          "a": "kwam"
+        },
+        {
+          "q": "Translate: As a child I often ate sadza with my grandmother.",
+          "a": "Als kind at ik vaak sadza met mijn oma. (Fronted 'als kind', so verb second: at ik.)"
+        }
+      ]
+    },
+    {
+      "id": "w8l5",
+      "title": "Het weekend navertellen: twee tijden, één verhaal",
+      "minutes": 8,
+      "body": "### Twee tijden, één verhaal\nThe rule of thumb for telling your weekend:\n\n- Imperfectum paints the background: weather, mood, where you were. `Het was koud. Ik had geen plannen.`\n- Perfectum reports the events: `Ik heb kaas gekocht. We zijn naar de stad gefietst.`\n- The core verbs from lesson 1 usually stay imperfectum, even in speech: `het was`, `ik ging`, `hij zei`.\n\n### Modelverhaal\n`Zaterdag was het eindelijk mooi weer. Ik ging om tien uur naar de markt en heb tomaten en kaas gekocht. Daarna kwamen er vrienden langs. We hadden geen plannen, dus we zijn langs de rivier gefietst. Zondag heb ik met mijn familie in Harare gebeld. Mijn moeder zei dat het daar nu winter is.`\n\n### Jouw beurt\nBuild five sentences about your own weekend: two background lines with `was` or `had`, two events in perfectum, one quote with `zei`. Say them out loud twice. Monday someone will ask `Hoe was je weekend?`, and this time you will be ready.",
+      "drill": [
+        {
+          "q": "Complete: Zondag ___ (zijn) het koud, dus ik ben thuis gebleven.",
+          "a": "was (background is imperfectum; the event 'ben gebleven' is perfectum)"
+        },
+        {
+          "q": "Translate: It was busy at the market, but I found nice tomatoes.",
+          "a": "Het was druk op de markt, maar ik vond lekkere tomaten."
+        },
+        {
+          "q": "Background or event? Pick the tense: Wij ___ (hebben) zondag geen plannen.",
+          "a": "hadden (background; and geen because 'plannen' has no article)"
+        },
+        {
+          "q": "Translate: Friends came by and we cooked together.",
+          "a": "Er kwamen vrienden langs en we hebben samen gekookt. (kwamen stays imperfectum, the action gets perfectum)"
+        },
+        {
+          "q": "Reorder: moest / op / ik / helaas / zaterdag / werken",
+          "a": "Helaas moest ik op zaterdag werken. (helaas fronted, verb second, infinitive at the end)"
+        },
+        {
+          "q": "Three sentences about last weekend: one with was, one perfectum event, one quote with zei.",
+          "a": "Model: Mijn weekend was rustig. Zaterdag heb ik met mijn familie in Harare gebeld. Mijn zus zei dat ze me mist."
+        }
+      ]
+    }
+  ]
+}

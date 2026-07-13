@@ -2,6 +2,10 @@
   "week": 4,
   "theme": "Modale werkwoorden en de stad",
   "mission": "Maak deze week één echte afspraak in het Nederlands: bij de kapper, de huisarts of de gemeente. Aan de telefoon is goud waard, maar aan de balie telt ook.",
+  "listening": [
+    { "title": "Een Beetje Nederlands: één aflevering, nu met transcript erbij", "url": "https://www.eenbeetjenederlands.nl" },
+    { "title": "nt2taalmenu.nl: luisteroefeningen A2", "url": "https://nt2taalmenu.nl" }
+  ],
   "lessons": [
     {
       "id": "w4l1",

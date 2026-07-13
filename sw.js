@@ -1,6 +1,6 @@
 /* Leraar service worker: stale-while-revalidate for everything same-origin.
  * Bump VERSION whenever content or code changes, so old caches get cleaned up. */
-const VERSION = 'leraar-v2';
+const VERSION = 'leraar-v3';
 
 const SHELL = [
   './',
@@ -8,6 +8,7 @@ const SHELL = [
   'css/styles.css',
   'js/fsrs.js',
   'js/storage.js',
+  'js/sync.js',
   'js/app.js',
   'manifest.webmanifest',
   'icons/icon.svg',
@@ -21,7 +22,20 @@ const SHELL = [
   'data/lessons/week01.json',
   'data/lessons/week02.json',
   'data/lessons/week03.json',
-  'data/lessons/week04.json'
+  'data/lessons/week04.json',
+  'data/lessons/week05.json',
+  'data/lessons/week07.json',
+  'data/lessons/week08.json',
+  'data/lessons/week10.json',
+  'data/lessons/week11.json',
+  'data/lessons/week12.json',
+  'data/lessons/week13.json',
+  'data/lessons/week14.json',
+  'data/lessons/week15.json',
+  'data/lessons/week16.json',
+  'data/lessons/week17.json',
+  'data/lessons/week19.json',
+  'data/lessons/week20.json'
 ];
 
 self.addEventListener('install', e => {

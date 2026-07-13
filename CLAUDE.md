@@ -53,9 +53,29 @@ dependencies**. Keep it that way.
 
 ## Tutor skills
 
-`.claude/skills/toets/` — placement + biweekly test, writes
-`progress/toets-*.md`, feeds errors into the mistakes deck. Milestone 2
-adds `/les`, `/gesprek`, `/schrijf` (see PROPOSAL.md).
+`.claude/skills/`: `toets` (placement + biweekly test, writes
+`progress/toets-*.md`), `les` (live lesson), `gesprek` (conversation
+roleplay), `schrijf` (writing correction). All feed real errors into the
+`mistakes` deck (append-only) and bump the sw.js VERSION on commit.
+
+## Sync
+
+`js/sync.js` syncs progress phone<->laptop through a private GitHub Gist.
+The user pastes a fine-grained token (gist scope only) in Meer on each
+device; sync runs on app load and after each session. The token lives in
+localStorage and is sent only to api.github.com. Settings do not sync
+(voice names differ per device).
+
+## Known gaps (Milestone 3 unfinished)
+
+The 2026-07-11 content workflow hit the account's monthly spend limit.
+Still missing: lesson weeks 06, 09, 18, 21-26 and the decks b1-core.json,
+ziqo-pro.json, b2-bridge.json. When capacity is available, resume with
+the script at the path recorded in the session (or re-run the generation
+per file following the style of weeks 5-20), then: add files to
+data/lessons/index.json or data/decks/index.json, add to sw.js SHELL,
+bump VERSION, verify, commit. Week 6 (time prepositions) matters most:
+it targets the learner's top toets weakness.
 
 ## Machine quirks
 

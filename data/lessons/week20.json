@@ -1,0 +1,81 @@
+{
+  "week": 20,
+  "theme": "Nuance: de B2-connectoren",
+  "mission": "Geef deze week in één echt gesprek, bij de koffieautomaat, aan de telefoon of op de borrel, je gesprekspartner eerst gelijk met 'hoewel...' of 'dat klopt, maar...' en geef daarna pas je eigen mening. Eén bewuste keer is genoeg.",
+  "listening": [
+    { "title": "Zoek op npo.nl een talkshowfragment van vijf minuten en tel hoe vaak je 'echter', 'hoewel' of 'daarentegen' hoort", "url": "https://www.npo.nl" },
+    { "title": "Een Beetje Nederlands: kies een aflevering over werk en luister hoe Robin twee kanten van een onderwerp afweegt", "url": "https://www.eenbeetjenederlands.nl" }
+  ],
+  "lessons": [
+    {
+      "id": "w20l1",
+      "title": "hoewel en terwijl: toegeven en contrasteren",
+      "minutes": 7,
+      "body": "Welcome to B2: the connectors that turn correct Dutch into persuasive Dutch. First pair: `hoewel` (although) and `terwijl` (while, whereas).\n\n### Allebei sturen het werkwoord naar achteren\nBoth are subordinating conjunctions, so your week 7 rule applies: the verb goes to the end of the bijzin.\n- *Hoewel de analyse duur is, kiezen veel klanten voor kwaliteit.*\n- *Wij leveren op vrijdag, hoewel het lab deze week vol zit.*\n\n### hoewel: eerst toegeven, dan winnen\n`hoewel` concedes a point before you push your own. Perfect for meetings with een klant.\n- *Hoewel ik moe was, heb ik het rapport gisteren afgemaakt.* (perfectum in de bijzin, no problem)\n\n### terwijl: contrast of tijd\nTwo jobs. Contrast: *Terwijl de concurrent traag reageert, sturen wij het rapport binnen een week.* Time: *Terwijl ik in Harare woonde, at ik elke week sadza.*\n\n### De valkuil\nA fronted bijzin counts as position 1, so the main clause starts with its verb: *Hoewel het duur is, `betaalt` de klant.* If you catch yourself saying *Hoewel het duur is, de klant betaalt*, let the V2 alarm scream.",
+      "drill": [
+        { "q": "Vertaal: Although the analysis is expensive, many clients choose quality.", "a": "Hoewel de analyse duur is, kiezen veel klanten voor kwaliteit." },
+        { "q": "Combineer met hoewel: het regent / wij fietsen naar het lab", "a": "Hoewel het regent, fietsen wij naar het lab. De bijzin is positie 1, dus daarna inversie." },
+        { "q": "Vertaal: While I lived in Harare, I ate sadza every week.", "a": "Terwijl ik in Harare woonde, at ik elke week sadza." },
+        { "q": "Wat is er fout: 'Hoewel het duur is, de klant betaalt.'", "a": "Hoewel het duur is, betaalt de klant. De hele bijzin telt als positie 1, dus het werkwoord komt direct daarna." },
+        { "q": "Vertaal: We deliver on Friday, although the lab is full this week.", "a": "Wij leveren op vrijdag, hoewel het lab deze week vol zit." },
+        { "q": "Maak af met contrast: Onze offerte is klaar in twee dagen, terwijl ...", "a": "bijvoorbeeld: terwijl de concurrent er twee weken over doet. Werkwoord achteraan in de terwijl-zin." }
+      ]
+    },
+    {
+      "id": "w20l2",
+      "title": "ondanks en dankzij: het naamwoord, niet de zin",
+      "minutes": 7,
+      "body": "`ondanks` (despite) and `dankzij` (thanks to) deliver the same nuance as hoewel, with a different engine: they are prepositions, so they take a noun with its article, never a whole clause.\n\n| het woord | wat volgt | het voorbeeld |\n| hoewel | een hele zin, het werkwoord achteraan | hoewel het regent |\n| ondanks | een zelfstandig naamwoord | ondanks de regen |\n| dankzij | een zelfstandig naamwoord | dankzij het team |\n\n### Vooraan? Dan inversie\nA fronted ondanks-group fills position 1, so the verb comes straight after. Old friend V2:\n- *Ondanks de regen fietsen wij naar het lab.*\n- *Dankzij het team is de deadline gehaald.* (passief, week 13)\n- *Ondanks zijn vriendelijke toon was de klant niet tevreden.*\n\n### De klassieke fout\n*Ondanks dat het regent...* You will hear this on the street; in a client email it costs you credibility. Choose: `hoewel het regent` (clause) or `ondanks de regen` (noun). The formal escape hatch: `ondanks het feit dat`.\n\n### Sneltest\nCan the part after the connector stand alone as a sentence? Take `hoewel`. Is it just a thing with an article? Take `ondanks` or `dankzij`.",
+      "drill": [
+        { "q": "Kies hoewel of ondanks: ___ de vakantie van onze analist is het rapport op vrijdag verstuurd.", "a": "ondanks: er volgt een zelfstandig naamwoord (de vakantie), geen hele zin." },
+        { "q": "Vertaal: Thanks to the team, the samples were analysed on time.", "a": "Dankzij het team zijn de monsters op tijd geanalyseerd. Passief plus inversie na positie 1." },
+        { "q": "Herschrijf met ondanks: Hoewel het regent, komen de klanten naar de open dag.", "a": "Ondanks de regen komen de klanten naar de open dag." },
+        { "q": "Herschrijf met hoewel: Ondanks de hoge kosten gaat het project door.", "a": "Hoewel de kosten hoog zijn, gaat het project door." },
+        { "q": "Wat is er fout: 'Ondanks dat het duur is, bestellen wij de machine.'", "a": "'Ondanks dat' is spreektaal. Zeg 'hoewel het duur is' of 'ondanks de hoge prijs'." },
+        { "q": "Vertaal: Despite his friendly tone, the client was not satisfied.", "a": "Ondanks zijn vriendelijke toon was de klant niet tevreden. Let op de spelling: vriendelijke." }
+      ]
+    },
+    {
+      "id": "w20l3",
+      "title": "enerzijds, anderzijds, daarentegen, echter",
+      "minutes": 7,
+      "body": "Time to chair the meeting. These three let you weigh both sides without starting a fight.\n\n### enerzijds ... anderzijds\nOn the one hand, on the other. Both are adverbs on position 1, so inversion strikes twice:\n- *Enerzijds bespaart thuiswerken reistijd, anderzijds mis je de collega's.*\n- *Enerzijds is het lab duur, anderzijds levert het nieuwe klanten op.*\n\n### daarentegen: het spiegelbeeld\nBy contrast. Front it with inversion, or tuck it safely in the middle:\n- *Het kantoor is duur. Thuiswerken kost daarentegen bijna niets.*\n\n### echter: de formele maar\nThe safest place is mid-sentence, right after the verb:\n- *Het plan klinkt goed. De kosten zijn echter hoog.*\nAt the very start it takes a comma and no inversion: *Echter, de kosten zijn hoog.* When in doubt, keep it in the middle.\n\n### Register en een oude bekende\n`maar` is fine in speech; in een offerte of een rapport, `echter` and `daarentegen` make you sound like the chairperson instead of the intern. And remember `helaas`: same family, fronted adverb plus verb: *Helaas is de subsidie afgewezen.*",
+      "drill": [
+        { "q": "Vertaal: On the one hand working from home saves travel time, on the other hand you miss the colleagues.", "a": "Enerzijds bespaart thuiswerken reistijd, anderzijds mis je de collega's. Dubbele inversie: elk bijwoord staat op positie 1." },
+        { "q": "Zet 'echter' op de veilige plek: Het plan klinkt goed. De kosten zijn hoog.", "a": "De kosten zijn echter hoog." },
+        { "q": "Wat is er fout: 'Enerzijds thuiswerken bespaart reistijd.'", "a": "Enerzijds bespaart thuiswerken reistijd. Na een voorop geplaatst bijwoord komt het werkwoord direct: V2." },
+        { "q": "Herschrijf met daarentegen: Het kantoor is duur. Thuiswerken kost bijna niets.", "a": "Het kantoor is duur. Thuiswerken kost daarentegen bijna niets." },
+        { "q": "Vertaal: Unfortunately the subsidy was rejected. However, we are continuing.", "a": "Helaas is de subsidie afgewezen. Wij gaan echter door." },
+        { "q": "Wat kies je in een formele offerte: maar of echter?", "a": "echter: 'maar' is prima in spreektaal, 'echter' hoort bij formele teksten." }
+      ]
+    },
+    {
+      "id": "w20l4",
+      "title": "Mening B2: van overtuigd tot ik vraag me af",
+      "minutes": 8,
+      "body": "At A2 you had *ik denk dat*. B2 gives you a volume knob: how sure do you want to sound?\n\n| de sterkte | de zin |\n| 100% | ik ben ervan overtuigd dat ... |\n| 80% | ik denk dat ... / volgens mij ... |\n| 60% | het lijkt mij dat ... |\n| 40% | ik vraag me af of ... |\n| twijfel | dat zou kunnen kloppen |\n\n### Het werkwoord achteraan, alweer\n`dat` and `of` open a bijzin, verb at the end:\n- *Ik ben ervan overtuigd dat de uitslag klopt.*\n- *Ik vraag me af of de deadline haalbaar is.*\nWatch out: `volgens mij` is not a conjunction. It fills position 1, so inversion follows: *Volgens mij is de offerte veranderd.* No *dat*.\n\n### Hedgen met zou (week 17)\n`zou` softens a claim like milk softens coffee:\n- *Ik zou zeggen dat wij eerst de microbiologie moeten testen.*\n- *Het zou kunnen dat het monster te oud is.*\n\n### Waarom dit werkt\nDutch meetings reward calibrated confidence. Say *ik ben ervan overtuigd* only when you would bet de bedrijfsauto on it; reach for *het lijkt mij* when the data is thin. People hear the difference and trust you more.",
+      "drill": [
+        { "q": "Vertaal: I am convinced that the result is correct.", "a": "Ik ben ervan overtuigd dat de uitslag klopt." },
+        { "q": "Vertaal: I wonder whether the deadline is feasible.", "a": "Ik vraag me af of de deadline haalbaar is." },
+        { "q": "Wat is er fout: 'Volgens mij dat de prijs te hoog is.'", "a": "Volgens mij is de prijs te hoog. 'Volgens mij' is geen voegwoord, dus geen 'dat': gewoon inversie." },
+        { "q": "Verzacht met zou: Het monster is te oud.", "a": "Het zou kunnen dat het monster te oud is. Of: Het monster zou te oud kunnen zijn." },
+        { "q": "Zeg het op 60% zekerheid: De offerte is veranderd.", "a": "Het lijkt mij dat de offerte veranderd is. Let op de spelling: veranderd met een d." },
+        { "q": "Rangschik van sterk naar zwak: het lijkt mij dat / ik ben ervan overtuigd dat / ik vraag me af of", "a": "ik ben ervan overtuigd dat, dan het lijkt mij dat, dan ik vraag me af of." }
+      ]
+    },
+    {
+      "id": "w20l5",
+      "title": "De minidiscussie: thuiswerken of kantoor?",
+      "minutes": 8,
+      "body": "This is where the whole week clicks together into a two-minute discussion you can actually hold. Topic: thuiswerken of het kantoor?\n\n### Het skelet van de voorzitter\n- **De opening:** *De vraag is of thuiswerken beter is dan werken op kantoor.* (of-bijzin, het werkwoord achteraan)\n- **Kant A:** *Enerzijds bespaart thuiswerken reistijd en geld.*\n- **De concessie:** *Hoewel dat klopt, zie ik ook nadelen.*\n- **Kant B:** *Anderzijds mis je op afstand het snelle overleg. Ondanks alle videocalls gaat brainstormen op kantoor sneller.*\n- **De afweging:** *Dat klopt, maar voor een klein bedrijf telt elke euro.*\n- **De conclusie:** *Alles afwegend ben ik ervan overtuigd dat een mix het beste werkt: op maandag en op donderdag naar het kantoor, de rest van de week thuis.*\n\n### De spelregels\n- One connector per sentence. Five in one sentence is soup, not argument.\n- Concede first, argue second. *Dat klopt, maar...* buys goodwill.\n- Land the conclusion. A discussion without one is just noise with connectors.\n\nRead the skeleton aloud twice. Then swap the topic: sadza of stamppot? Same skeleton, much better dinner conversation.",
+      "drill": [
+        { "q": "Open de discussie: is de trein beter dan de auto?", "a": "De vraag is of de trein beter is dan de auto. Of-bijzin, werkwoord achteraan." },
+        { "q": "Geef kant A met enerzijds: thuiswerken bespaart reistijd.", "a": "Enerzijds bespaart thuiswerken reistijd. Inversie na het bijwoord." },
+        { "q": "Een collega zegt: 'Thuiswerken is goedkoper.' Concedeer en ga verder.", "a": "Dat klopt, maar op kantoor gaat het overleg sneller. Of: Hoewel dat klopt, zie ik ook nadelen." },
+        { "q": "Vertaal: Despite all the video calls, brainstorming at the office is faster.", "a": "Ondanks alle videocalls gaat brainstormen op kantoor sneller." },
+        { "q": "Sluit af met een conclusie met 'ervan overtuigd'.", "a": "Alles afwegend ben ik ervan overtuigd dat een mix het beste werkt." },
+        { "q": "Doe het hele skelet hardop met een nieuw onderwerp: sadza of stamppot?", "a": "De vraag is of ... Enerzijds ... Anderzijds ... Dat klopt, maar ... Alles afwegend ben ik ervan overtuigd dat ..." }
+      ]
+    }
+  ]
+}

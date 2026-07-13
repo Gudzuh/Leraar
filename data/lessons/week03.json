@@ -2,6 +2,10 @@
   "week": 3,
   "theme": "Verleden tijd en dagelijks leven",
   "mission": "Vertel deze week een collega of vriend in drie zinnen wat je gisteren hebt gedaan. In het Nederlands, met perfectum. Struikelen mag; opgeven niet.",
+  "listening": [
+    { "title": "Jeugdjournaal: nu elke dag 5 minuten met koffie", "url": "https://jeugdjournaal.nl" },
+    { "title": "Een Beetje Nederlands: kies één aflevering, luister voor de hoofdlijn", "url": "https://www.eenbeetjenederlands.nl" }
+  ],
   "lessons": [
     {
       "id": "w3l1",

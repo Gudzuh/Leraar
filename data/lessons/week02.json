@@ -2,6 +2,10 @@
   "week": 2,
   "theme": "de/het en het huis",
   "mission": "Op de markt of in de winkel: vraag deze week één keer 'Wat kost dit?' en versta het antwoord. Getallen zijn lastig; luister twee keer als het moet. Bonus: reken af zonder Engels.",
+  "listening": [
+    { "title": "learndutch.org: 1000 most common words (video 3-4)", "url": "https://www.learndutch.org" },
+    { "title": "oefenen.nl: luisteroefeningen A2", "url": "https://www.oefenen.nl" }
+  ],
   "lessons": [
     {
       "id": "w2l1",

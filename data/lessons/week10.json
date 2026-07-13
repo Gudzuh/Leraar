@@ -1,0 +1,177 @@
+{
+  "week": 10,
+  "theme": "Er, altijd er",
+  "mission": "Gebruik deze week 'ik heb er ...' in een echt gesprek. Iemand vraagt hoeveel monsters, fietsen of kinderen je hebt, en jij antwoordt: 'Ik heb er drie.' Tel iets, wat dan ook, maar tel het met er.",
+  "listening": [
+    {
+      "title": "Lees op dutchgrammar.com het hoofdstuk over 'er' en schrijf vijf voorbeeldzinnen over.",
+      "url": "https://www.dutchgrammar.com"
+    },
+    {
+      "title": "Luister een aflevering van Een Beetje Nederlands en tel hoe vaak je 'er' hoort in de eerste vijf minuten.",
+      "url": "https://www.eenbeetjenederlands.nl"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "w10l1",
+      "title": "Er = plaats: ik woon er al een jaar",
+      "minutes": 7,
+      "body": "Dutch hates repeating place words. Once a place is known, it shrinks to `er`.\n\n### The swap\n- A: `Woon je in Wageningen?` B: `Ja, ik woon er al een jaar.`\n- A: `Was je gisteren op het lab?` B: `Ja, ik was er tot zes uur.`\n- A: `Ben je ooit in Harare geweest?` B: `Natuurlijk, ik ben er geboren!`\n\nSaying `Ja, ik woon in Wageningen` back to someone sounds like a robot reading a form. `Er` is the natural move.\n\n### Where does er go?\nRight after the verb (and after the subject in a question):\n\n|Vol|Met er|\n|`Ik werk elke dag in het lab.`|`Ik werk er elke dag.`|\n|`Zij wacht bij de ingang.`|`Zij wacht er al tien minuten.`|\n|`Was jij op de borrel?`|`Was jij er ook?`|\n\nNote the time words (`elke dag`, `al tien minuten`) come after `er`, never before it.\n\n### V2 still rules\nFront an adverb and the verb stays second: `Helaas was ik er niet.` Not *helaas ik was*. You know this from week 1; `er` does not change it.",
+      "drill": [
+        {
+          "q": "Answer with er: 'Woon je nog in Ede?' (yes, already two years)",
+          "a": "Ja, ik woon er al twee jaar. (er replaces in Ede; al twee jaar comes after er)"
+        },
+        {
+          "q": "Answer with er: 'Was je vrijdag op kantoor?' (no)",
+          "a": "Nee, ik was er vrijdag niet. (niet goes at the end)"
+        },
+        {
+          "q": "Shrink the place: 'Ik heb drie jaar in Harare gewoond.'",
+          "a": "Ik heb er drie jaar gewoond. (er sits right after heb, before the time phrase)"
+        },
+        {
+          "q": "Translate: 'Unfortunately I wasn't there yesterday.'",
+          "a": "Helaas was ik er gisteren niet. (fronted helaas, so verb second: was ik)"
+        },
+        {
+          "q": "Answer with er: 'Ben je weleens in dat nieuwe restaurant geweest?' (yes, last week)",
+          "a": "Ja, ik ben er vorige week geweest."
+        },
+        {
+          "q": "Translate: 'She works there every Tuesday.'",
+          "a": "Zij werkt er elke dinsdag. (er directly after werkt)"
+        }
+      ]
+    },
+    {
+      "id": "w10l2",
+      "title": "Er is, er zijn: iets bestaat",
+      "minutes": 7,
+      "body": "Week 4 gave you `er is` and `er zijn` for existence. Now we make it automatic and stretch it.\n\n### The core\n- `Er is een probleem met het monster.`\n- `Er zijn twee klanten in de wachtruimte.`\n- `Is er nog koffie?` (the most important sentence in any Dutch office)\n\nSingular takes `is`, plural takes `zijn`. English does the same with there is / there are, so this part is a gift.\n\n### Atmosphere and weather\nDutch uses `er` + a sense verb to describe what fills a room:\n- `Er hangt een lekkere geur in de keuken.` (someone is cooking sadza, clearly)\n- `Er staat veel wind vandaag.`\n- `Er heerst een goede sfeer op het lab.`\n\n### Perfectum works too\n- `Er is iets veranderd in de planning.`\n- `Er zijn gisteren drie offertes verstuurd.`\n\n### Negative: geen\nExistence is negated with `geen`, never `niet`:\n- `Er is geen tijd meer.`\n- `Er zijn geen resultaten binnengekomen.`\n\nSay `is er nog koffie?` out loud three times. You will use it tomorrow.",
+      "drill": [
+        {
+          "q": "Translate: 'There is a problem with the invoice.'",
+          "a": "Er is een probleem met de factuur."
+        },
+        {
+          "q": "Translate: 'Are there any questions about the report?'",
+          "a": "Zijn er nog vragen over het rapport? (plural vragen, so zijn)"
+        },
+        {
+          "q": "Translate: 'There is a lovely smell in the kitchen.'",
+          "a": "Er hangt een lekkere geur in de keuken. (hangen for smells, not zijn)"
+        },
+        {
+          "q": "Make it negative: 'Er is nog melk.'",
+          "a": "Er is geen melk meer. (existence is negated with geen, and nog flips to meer)"
+        },
+        {
+          "q": "Translate with perfectum: 'Something has changed in the planning.'",
+          "a": "Er is iets veranderd in de planning. (veranderd with only one d at the end, check your spelling)"
+        },
+        {
+          "q": "Translate: 'There is a good atmosphere at the borrel.'",
+          "a": "Er hangt een goede sfeer op de borrel. (er heerst een goede sfeer is also correct)"
+        }
+      ]
+    },
+    {
+      "id": "w10l3",
+      "title": "Er + getal: ik heb er drie",
+      "minutes": 8,
+      "body": "This is the `er` English speakers always drop, and Dutch ears always notice.\n\n### The rule\nWhen you count something already mentioned, the noun disappears and `er` MUST appear:\n- A: `Hoeveel monsters heb je ontvangen?` B: `Ik heb er twaalf ontvangen.`\n- A: `Hoeveel kinderen heeft je zus in Harare?` B: `Ze heeft er twee.`\n- A: `Hoeveel fietsen heb jij?` B: `Ik heb er maar één.`\n\nSaying *ik heb drie* is the classic English-speaker error. It sounds amputated, like \"I have three of\". The `er` means \"of them\", and it is not optional.\n\n### Works with more than numbers\n- `Ik heb er genoeg.` (enough of them)\n- `Wil je er nog een?` (another one, say yes to this at the borrel)\n- `We hebben er te weinig.`\n\n### Position\n`Er` comes right after the verb, the number goes later:\n\n|Vraag|Antwoord|\n|`Hoeveel offertes moet je schrijven?`|`Ik moet er vier schrijven.`|\n|`Hoeveel heb je er gekocht?`|`Ik heb er zes gekocht.`|\n\nWith a modal or perfectum, `er` still hugs the first verb and the number waits.",
+      "drill": [
+        {
+          "q": "Answer: 'Hoeveel monsters heb je vandaag geanalyseerd?' (eight)",
+          "a": "Ik heb er acht geanalyseerd. (never ik heb acht: the er is mandatory)"
+        },
+        {
+          "q": "Answer: 'Hoeveel broers en zussen heb je?' (two)",
+          "a": "Ik heb er twee."
+        },
+        {
+          "q": "Translate: 'Do you want another one?' (at the borrel, about a drink)",
+          "a": "Wil je er nog een?"
+        },
+        {
+          "q": "Answer: 'Hoeveel klanten verwacht je morgen?' (only one)",
+          "a": "Ik verwacht er morgen maar één. (er right after the verb, morgen and maar één follow)"
+        },
+        {
+          "q": "Translate: 'We have too few of them. We must order twenty.'",
+          "a": "We hebben er te weinig. We moeten er twintig bestellen. (er twice: once per counted thing)"
+        },
+        {
+          "q": "Answer: 'Hoeveel heb je er nodig voor de test?' (five)",
+          "a": "Ik heb er vijf nodig."
+        }
+      ]
+    },
+    {
+      "id": "w10l4",
+      "title": "Er + voorzetsel: erover, ervan, ermee",
+      "minutes": 8,
+      "body": "Dutch does not say *over het* for things. `Over` + `het` fuses into `erover`. Same trick for every preposition.\n\n### The fusion\n|Los|Samen|Voorbeeld|\n|over + het|erover|`Ik denk erover na.`|\n|van + het|ervan|`Wat vind je ervan?`|\n|met + het|ermee|`Ik ben ermee bezig.`|\n|naar + het|ernaar|`Ik kijk ernaar uit.`|\n\nA: `Heb je het rapport gelezen?` B: `Ja, wat vind je ervan?` Not *van het*. For things it is always the er-form; `van hem` and `van haar` stay for people.\n\n### Splitting\nHere is the fun part: Dutch loves to split them. The `er` moves forward, the preposition stays near the end:\n- `Ik denk er nog even over na.`\n- `Ik ben er de hele week mee bezig geweest.`\n- `Kijk je er ook naar uit?`\n\nWords like `nog`, `niet` and time phrases slide into the gap. `Ik denk er niet over na` is perfect Dutch.\n\n### Survival four\nLearn these as whole chunks: `wat vind je ervan?`, `ik denk erover na`, `ik ben ermee bezig`, `ik kijk ernaar uit`. They cover half your work emails.",
+      "drill": [
+        {
+          "q": "Replace van + het rapport: 'Wat vind je van het rapport?' (it is already known)",
+          "a": "Wat vind je ervan?"
+        },
+        {
+          "q": "Translate: 'I am still working on it.' (bezig zijn met)",
+          "a": "Ik ben er nog mee bezig. (split: er after the verb, mee near the end)"
+        },
+        {
+          "q": "Translate: 'I will think about it.' (nadenken over)",
+          "a": "Ik denk erover na. (or split: ik denk er nog over na)"
+        },
+        {
+          "q": "Translate: 'Are you looking forward to it? Yes, I am really looking forward to it.'",
+          "a": "Kijk je ernaar uit? Ja, ik kijk er echt naar uit. (echt slides into the split)"
+        },
+        {
+          "q": "Translate: 'I don't want to talk about it now.' (praten over)",
+          "a": "Ik wil er nu niet over praten. (er after wil, nu niet in the gap, over before praten)"
+        },
+        {
+          "q": "Answer with an er-form: 'Ben je het eens met het voorstel?'",
+          "a": "Ja, ik ben het ermee eens. (met + het voorstel becomes ermee; the fixed chunk is het ermee eens zijn)"
+        }
+      ]
+    },
+    {
+      "id": "w10l5",
+      "title": "Er in het echt: spot it, then say it",
+      "minutes": 8,
+      "body": "Time to hear all four `er` jobs in one conversation. Read this dialogue aloud, twice.\n\n### Op het lab\n- Klant: `Goedemorgen! Is er iemand van de administratie aanwezig?`\n- Jij: `Ja, ik ben er zelf. Waar kan ik u mee helpen?`\n- Klant: `Ik heb tien monsters gestuurd. Zijn ze er al?`\n- Jij: `Er zijn er gisteren acht aangekomen. Twee zijn er nog onderweg.`\n- Klant: `Hm. Ik moet erover nadenken of dat een probleem is.`\n- Jij: `Ik begrijp het. Zullen we er morgen om tien uur over bellen?`\n- Klant: `Prima. Ik kijk ernaar uit.`\n\n### Spot the jobs\nGo back and label each `er`: place (`ik ben er zelf`), existence (`er zijn ... aangekomen`), counting (`acht`, `twee`), preposition (`erover`, `ernaar`). One sentence has two at once: `Er zijn er gisteren acht aangekomen.` Existence plus counting, stacked. Dutch does this without blinking.\n\n### Your turn\nWrite your own six-line dialogue about your week and force in all four types. Read it aloud. If a sentence feels crowded, good: that is what real Dutch sounds like. Because you practise it now, you will hear `er` everywhere this week, at the market, op het journaal, at the borrel.",
+      "drill": [
+        {
+          "q": "Which two jobs does er do in: 'Er zijn er gisteren acht aangekomen'?",
+          "a": "The first er is existence (er zijn), the second is counting (er ... acht, eight of them)."
+        },
+        {
+          "q": "Translate: 'Is anyone there? Yes, I am here.'",
+          "a": "Is er iemand? Ja, ik ben er."
+        },
+        {
+          "q": "Combine counting and place: answer 'Hoeveel collega's waren er op de borrel?' (six)",
+          "a": "Er waren er zes. (first er: existence at the borrel; second er: six of them)"
+        },
+        {
+          "q": "Translate: 'Shall we call about it tomorrow at ten o'clock?'",
+          "a": "Zullen we er morgen om tien uur over bellen? (om for clock times, split erover)"
+        },
+        {
+          "q": "Translate: 'I know that there is no time for it.' (bijzin!)",
+          "a": "Ik weet dat er geen tijd voor is. (dat pushes the verb to the end, er stays right after dat)"
+        },
+        {
+          "q": "Say in Dutch: 'I look forward to it, because I have never been there.'",
+          "a": "Ik kijk ernaar uit, want ik ben er nooit geweest. (want keeps normal word order)"
+        }
+      ]
+    }
+  ]
+}

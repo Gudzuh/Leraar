@@ -1,0 +1,81 @@
+{
+  "week": 16,
+  "theme": "ZiQo I: het lab en voedselveiligheid",
+  "mission": "Leg deze week aan een collega of vriend uit wat ZiQo doet. Vertel in het Nederlands welke monsters jullie testen, bijvoorbeeld op bacteriën, schimmel of aflatoxine, en waarom dat belangrijk is voor de voedselveiligheid. Gebruik minstens drie zinnen en probeer één keer het passief: 'De monsters worden getest op besmetting.'",
+  "listening": [
+    { "title": "nos.nl: zoek één nieuwsbericht over voedsel of voedselveiligheid en vat de kern in drie zinnen samen.", "url": "https://nos.nl" },
+    { "title": "npo.nl: vind een fragment van een voedseldocumentaire (bijvoorbeeld Keuringsdienst van Waarde) en luister vijf minuten op de hoofdlijn.", "url": "https://www.npo.nl" }
+  ],
+  "lessons": [
+    {
+      "id": "w16l1",
+      "title": "Het lab in het Nederlands",
+      "minutes": 8,
+      "body": "Welcome to your own lab, now in Dutch. These seven words carry most of what ZiQo does, so drill them until they feel like tools in your hand.\n\n### De kernwoorden\n| woord | betekenis | meervoud |\n| het monster | sample | de monsters |\n| de analyse | analysis | de analyses |\n| de meting | measurement | de metingen |\n| de uitslag | outcome | de uitslagen |\n| het resultaat | result | de resultaten |\n\n`nauwkeurig` means accurate, `betrouwbaar` means reliable. Both are exactly what a client pays for.\n\n### de of het?\nNotice the split: `het monster` and `het resultaat` are het-words, but `de analyse`, `de meting` and `de uitslag` are de-words. Anything ending in *-ing* (de meting) is always de. Learn each noun with its article, never naked.\n\n### In een zin (present tense, verb second)\n- *We ontvangen het monster op maandag.* (op for days)\n- *De analyse duurt drie dagen.*\n- *Deze meting is nauwkeurig en betrouwbaar.*\n\nAnd the adjective trap from week 2 returns: *een `betrouwbaar` resultaat* (een + het-word, so no -e), but *de `betrouwbare` meting*.",
+      "drill": [
+        { "q": "de of het: ___ monster, ___ analyse, ___ resultaat", "a": "het monster, de analyse, het resultaat" },
+        { "q": "meervoud: het resultaat", "a": "de resultaten (lange klinker: resultaat, maar één a in resultaten)" },
+        { "q": "Vertaal: The measurement is accurate and reliable.", "a": "De meting is nauwkeurig en betrouwbaar." },
+        { "q": "Vul in: een ___ resultaat (betrouwbaar)", "a": "een betrouwbaar resultaat (een + het-woord, dus geen -e)" },
+        { "q": "Vertaal: We receive the sample on Monday.", "a": "We ontvangen het monster op maandag. (op bij dagen)" },
+        { "q": "Vertaal: The analysis takes three days.", "a": "De analyse duurt drie dagen." }
+      ]
+    },
+    {
+      "id": "w16l2",
+      "title": "Voedselveiligheid: de kleine vijanden",
+      "minutes": 7,
+      "body": "Food safety is ZiQo's reason to exist, so you need to talk about what can go wrong. Meet the small enemies.\n\n### De woorden\n| woord | betekenis | meervoud |\n| de besmetting | contamination | de besmettingen |\n| de bacterie | bacterium | de bacteriën |\n| de schimmel | mould | de schimmels |\n| de houdbaarheid | shelf life | - |\n| de hygiëne | hygiene | - |\n\nWords in *-ing* and *-heid* are de-words, so `de besmetting` and `de houdbaarheid` come for free.\n\n### bederven: een sterk werkwoord\n`bederven` means to spoil. Present tense: *Het vlees `bederft` snel.* In the perfectum it takes `zijn`, because it is a change of state, with a strong participle: *Het vlees `is bedorven`.* Week 3 back at work.\n\n### Veilig of niet? (niet/geen)\n- *De melk is `niet` meer houdbaar.*\n- *We vinden `geen` schimmel op het brood.* (geen before an indefinite noun)\n- *Dit product is veilig voor consumptie.*\n\nGood hygiene is the whole point: *Goede `hygiëne` voorkomt besmetting.*",
+      "drill": [
+        { "q": "de of het: ___ besmetting, ___ schimmel, ___ houdbaarheid", "a": "de besmetting, de schimmel, de houdbaarheid (-ing en -heid zijn altijd de)" },
+        { "q": "meervoud: de bacterie", "a": "de bacteriën (met trema op de e)" },
+        { "q": "perfectum: het vlees / bederven", "a": "Het vlees is bedorven. (verandering van toestand, dus zijn; sterk deelwoord bedorven)" },
+        { "q": "niet of geen: Er zijn ___ bacteriën in het monster.", "a": "geen (onbepaald zelfstandig naamwoord)" },
+        { "q": "Vertaal: The bread is no longer safe for consumption.", "a": "Het brood is niet meer veilig voor consumptie." },
+        { "q": "Vertaal: Good hygiene prevents contamination.", "a": "Goede hygiëne voorkomt besmetting." }
+      ]
+    },
+    {
+      "id": "w16l3",
+      "title": "De aanvraag van een klant",
+      "minutes": 7,
+      "body": "A client calls ZiQo. What do they want, and what do you offer? This is the language of the first phone call, in polite `u`.\n\n### Het eerste gesprek\n- Klant: *Ik wil graag een `offerte`.*\n- Jij: *Natuurlijk. Wat wilt u `laten testen`?*\n\n### laten + infinitief: iets laten doen\nUse `laten` when someone else does the work for you. *Ik `laat` mijn product `testen`.* You don't test it yourself; the lab does. Compare: *Ik `laat` mijn monster `analyseren`.*\n\n### De woorden van een aanvraag\n| woord | betekenis |\n| de aanvraag | request |\n| de offerte | quote |\n| de doorlooptijd | turnaround time |\n| het tarief | rate |\n\n### Tijd, prijs en monsters\n- *De `doorlooptijd` is tussen vijf en zeven werkdagen.* (tussen ... en)\n- *Het `tarief` hangt af van het aantal monsters.*\n- *U kunt de monsters bij ons lab `aanleveren`.*\n\nExtra polite, with `zou`: *`Zou` u de monsters kunnen opsturen?* That sentence wins clients.",
+      "drill": [
+        { "q": "Vertaal: What would you like to have tested?", "a": "Wat wilt u laten testen?" },
+        { "q": "Maak een zin met laten: ik / mijn monster / analyseren", "a": "Ik laat mijn monster analyseren. (iemand anders doet het werk)" },
+        { "q": "de of het: ___ offerte, ___ tarief, ___ doorlooptijd", "a": "de offerte, het tarief, de doorlooptijd" },
+        { "q": "Vertaal: The turnaround time is between five and seven working days.", "a": "De doorlooptijd is tussen vijf en zeven werkdagen. (tussen ... en)" },
+        { "q": "Vertaal (beleefd, met zou): Could you send the samples?", "a": "Zou u de monsters kunnen opsturen?" },
+        { "q": "Vertaal: The rate depends on the number of samples.", "a": "Het tarief hangt af van het aantal monsters." }
+      ]
+    },
+    {
+      "id": "w16l4",
+      "title": "De uitslag uitleggen",
+      "minutes": 8,
+      "body": "Now the hard part: explaining results without overclaiming. A good lab hedges, because science is never 100 procent zeker. This is exactly ZiQo's honest style.\n\n### Het passief (week 13)\nThe passive puts the focus on the action, not the doer: `worden` + participle.\n- *Het monster `wordt getest`.* (present)\n- *Het monster `is getest`.* (perfectum, and you drop 'geworden')\n- *De waarde `wordt gemeten` door de analist.*\n\n### Voorzichtig formuleren\nNever promise certainty. Use hedges:\n- *De resultaten `wijzen op` een lichte besmetting.* (point to)\n- *De waarden liggen `binnen de norm`.* (within the limit)\n- *De waarden liggen `boven de norm`.* (above, less good news)\n- *We kunnen niet uitsluiten dat er schimmel `is`.* (bijzin: werkwoord achteraan, week 7)\n\n### Goed en slecht nieuws\n- Goed: *Alle waarden liggen binnen de norm. Het product is veilig.*\n- Minder goed: *We hebben een besmetting `aangetoond`. De waarde ligt boven de norm.*\n\nHedged, precise, honest: that is what a client trusts.",
+      "drill": [
+        { "q": "Zet in het passief (nu): men test het monster.", "a": "Het monster wordt getest." },
+        { "q": "Passief perfectum: Het monster ___ gisteren ___ (testen).", "a": "Het monster is gisteren getest. (geen 'geworden' erbij)" },
+        { "q": "Vertaal: The values are within the norm.", "a": "De waarden liggen binnen de norm." },
+        { "q": "Vertaal (bijzin): We can't rule out that there is mould.", "a": "We kunnen niet uitsluiten dat er schimmel is. (werkwoord achteraan)" },
+        { "q": "Vertaal: The results indicate a slight contamination.", "a": "De resultaten wijzen op een lichte besmetting." },
+        { "q": "Zet in het passief: De analist meet de waarde.", "a": "De waarde wordt gemeten (door de analist)." }
+      ]
+    },
+    {
+      "id": "w16l5",
+      "title": "Van boer tot bord",
+      "minutes": 7,
+      "body": "'Van boer tot bord' is the Dutch phrase for farm to fork, and it is the whole map of food safety. Follow one grain of maize and you learn the chain.\n\n### De keten, stap voor stap\n| stap | woord | wat gebeurt er |\n| 1 | de grondstof | de boer oogst de maïs |\n| 2 | de verwerking | de fabriek maakt er meel van |\n| 3 | de opslag | het meel wacht droog en koel |\n| 4 | het transport | de vrachtwagen brengt het weg |\n| 5 | het bord | jij eet het op |\n\n### Het verhaal\n*De grondstof gaat van de boer naar de fabriek voor de `verwerking`. Tijdens de `opslag` moet het droog blijven, anders groeit er schimmel. Het `transport` brengt het product naar de winkel.* In Harare maakt je familie er sadza van, en zo sluit de keten zich.\n\n### Waar test ZiQo?\nOp elk punt kan het misgaan, dus ZiQo test de hele keten: van grondstof tot eindproduct. Ieder monster is een schakel die je controleert.",
+      "drill": [
+        { "q": "de of het: ___ keten, ___ grondstof, ___ transport", "a": "de keten, de grondstof, het transport" },
+        { "q": "meervoud: de grondstof", "a": "de grondstoffen (korte klinker, dus dubbele f)" },
+        { "q": "Vertaal: During storage the maize must stay dry.", "a": "Tijdens de opslag moet de maïs droog blijven. (na 'tijdens de opslag' staat 'moet' op plek twee)" },
+        { "q": "Zet de keten op volgorde: bord, boer, transport, verwerking, opslag", "a": "boer, verwerking, opslag, transport, bord" },
+        { "q": "Vertaal: otherwise mould grows.", "a": "anders groeit er schimmel. (na 'anders' komt het werkwoord op plek twee)" },
+        { "q": "Vertaal: The raw material goes from the farmer to the factory.", "a": "De grondstof gaat van de boer naar de fabriek. (van ... naar)" }
+      ]
+    }
+  ]
+}

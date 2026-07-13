@@ -1,0 +1,81 @@
+{
+  "week": 15,
+  "theme": "die, dat, waar: relatieve bijzinnen",
+  "mission": "Zeg deze week tegen een Nederlandse collega, of tegen iemand op een borrel, in één zin wat je werk is, met een relatieve bijzin: 'Ik heb een bedrijf dat voedsel onderzoekt voor klanten in Afrika.' Bouw hem eerst rustig in je hoofd op en gooi hem er dan gewoon uit.",
+  "listening": [
+    { "title": "Een Beetje Nederlands: kies één aflevering en jaag op alle die-, dat- en waar-zinnen", "url": "https://www.eenbeetjenederlands.nl" },
+    { "title": "dutchgrammar.com: lees de uitleg over relative clauses als rustige naslag", "url": "https://www.dutchgrammar.com" }
+  ],
+  "lessons": [
+    {
+      "id": "w15l1",
+      "title": "die of dat: het volgt de/het",
+      "minutes": 8,
+      "body": "### Waarom je de/het-werk nu dubbel betaalt\nA relative clause, a `relatieve bijzin`, glues extra information onto a noun. The pronoun you choose simply copies the article of that noun, so every hour you spent on de/het pays out again here.\n\n- `de`-woorden en alle meervouden krijgen `die`\n- `het`-woorden krijgen `dat`\n\n### Voorbeelden uit je werk\n- *De klant `die` vandaag belt, is nieuw.*\n- *Het monster `dat` we hebben getest, is schoon.*\n- *De collega `die` naast mij zit, komt uit Groningen.*\n- *De rapporten `die` ik moet schrijven, liggen op mijn bureau.*\n\n### De werkwoorden gaan naar het einde\nExactly like every bijzin from week 7, the verbs slide to the back of the clause: *het monster `dat` we gisteren `hebben ontvangen`*. Your perfectum still works there, only the word order changes.\n\n### Let op de komma\nAfter the clause you write a comma, and then the main sentence finishes its job: *De klant `die` ik gebeld heb, was tevreden.* Choose the pronoun by the article, send the verbs to the end, and you are already doing B1-werk.",
+      "drill": [
+        { "q": "Combineer tot één zin: De klant. De klant belt vandaag.", "a": "De klant die vandaag belt. De-woord, dus die." },
+        { "q": "die of dat: het rapport ___ ik schrijf", "a": "dat: het rapport is een het-woord." },
+        { "q": "Vertaal: The sample that we tested is clean.", "a": "Het monster dat we hebben getest, is schoon." },
+        { "q": "die of dat: de klant ___ ik gisteren heb gebeld", "a": "die: de klant is een de-woord." },
+        { "q": "Combineer: De monsters. De monsters liggen in het lab.", "a": "De monsters die in het lab liggen. Meervoud, dus altijd die." },
+        { "q": "Zet in goede volgorde: het monster / dat / we / gisteren / hebben ontvangen", "a": "het monster dat we gisteren hebben ontvangen. De werkwoorden staan achteraan in de bijzin." }
+      ]
+    },
+    {
+      "id": "w15l2",
+      "title": "waar plus voorzetsel: het lab waar ik werk",
+      "minutes": 7,
+      "body": "When a place or a preposition is involved, `die` and `dat` step aside and `waar` takes over.\n\n### waar is de plaats\nUse `waar` for a place, just like the English 'where':\n- *Het lab `waar` ik werk, is klein maar goed.*\n- *De stad `waar` ik woon, heet Wageningen.*\n\n### waar plus voorzetsel voor dingen\nWhen a preposition belongs to a thing, Dutch never says *met dat* or *over dat*. It welds the preposition onto `waar`: `waarmee`, `waarover`, `waarvan`, `waarin`, `waarop`.\n- *De methode `waarmee` we aflatoxine meten, is nieuw.*\n- *Het rapport `waarover` we praten, is nog niet klaar.*\n\n### Je mag hem splitsen\nIn spoken Dutch the preposition often floats to the end. Both versions are correct:\n- *De machine `waarmee` ik werk.*\n- *De machine `waar` ik `mee` werk.*\n\n### Mensen: liever met wie\nFor people, keep the preposition next to `wie`:\n- *De klant `met wie` ik vanmiddag bel, komt uit Rotterdam.*\n- *De collega `over wie` ik je vertelde, stopt ermee.*",
+      "drill": [
+        { "q": "Vul in: het lab ___ ik werk", "a": "waar: het gaat om een plaats." },
+        { "q": "Vertaal: the client I am on the phone with", "a": "de klant met wie ik bel. Bij mensen gebruik je met wie." },
+        { "q": "Combineer met waarmee: de methode / we meten er aflatoxine mee", "a": "de methode waarmee we aflatoxine meten." },
+        { "q": "Splits het voorzetsel af: de machine waarmee ik werk", "a": "de machine waar ik mee werk. Het voorzetsel schuift naar achteren." },
+        { "q": "Vul in: het onderwerp ___ we praten (over)", "a": "waarover: waar plus over voor een ding." },
+        { "q": "Vertaal: The colleague I told you about is quitting.", "a": "De collega over wie ik je vertelde, stopt ermee." }
+      ]
+    },
+    {
+      "id": "w15l3",
+      "title": "Definities geven: een X is een Y die/dat Z",
+      "minutes": 8,
+      "body": "### Het recept voor een definitie\nDefining a word follows one fixed pattern: *een X is een Y `die`/`dat` Z*. First pick a category word Y, then choose die/dat from its article, then add the feature Z.\n- *Een klant is een bedrijf `dat` een analyse bij ons bestelt.*\n- *Een monster is een stukje voedsel `dat` we in het lab onderzoeken.*\n- *Een laborant is iemand `die` in een lab werkt.*\n\n### die of dat? Kijk naar Y\nThe article of the category word decides everything:\n| categorie | lidwoord | die of dat |\n| het bedrijf | het | dat |\n| de persoon | de | die |\n| iemand | geen | die |\n| iets | geen | dat |\n\n### Met een voorzetsel: waarmee\nWhen the tool itself defines the thing, reach for waarmee:\n- *Een pipet is een apparaat `waarmee` je vloeistof afmeet.*\n\n### Met passief van week 13\nMany definitions hide a passive inside them:\n- *Aflatoxine is een gif `dat` door schimmels `wordt gemaakt`.*\n\nNu jij: definieer je eigen werk. `ZiQo is een bedrijf dat voedsel onderzoekt voor klanten in Afrika.` Zeg hem hardop tot hij heel normaal voelt.",
+      "drill": [
+        { "q": "Definieer een klant (een bedrijf, bestelt een analyse bij ons).", "a": "Een klant is een bedrijf dat een analyse bij ons bestelt." },
+        { "q": "die of dat: een pipet is een apparaat ___ je gebruikt", "a": "dat: het apparaat is een het-woord." },
+        { "q": "Vertaal: A lab technician is someone who works in a lab.", "a": "Een laborant is iemand die in een lab werkt." },
+        { "q": "Definieer met passief: aflatoxine (een gif, gemaakt door schimmels)", "a": "Aflatoxine is een gif dat door schimmels wordt gemaakt." },
+        { "q": "Definieer met waarmee: een thermometer (een instrument, temperatuur meten)", "a": "Een thermometer is een instrument waarmee je de temperatuur meet." },
+        { "q": "Definieer ZiQo in één zin met dat.", "a": "Bijvoorbeeld: ZiQo is een bedrijf dat voedsel onderzoekt voor klanten in Afrika." }
+      ]
+    },
+    {
+      "id": "w15l4",
+      "title": "Omschrijven wat je niet weet",
+      "minutes": 7,
+      "body": "You will keep forgetting words mid-sentence, forever. The B1 trick is not to freeze but to describe: talk around the missing word until the other person hands it to you. That is a superpower, not a failure.\n\n### De vaste frames\n- *het ding of het apparaat `waarmee` je iets doet*\n- *een soort ... `die`/`dat` ...*\n- *`zo'n` ... `die`/`dat` ...*\n- *iets `waarmee` je ..., of iets `om` ... `te` ... (week 4)*\n\n### In actie\n- 'Centrifuge' kwijt: *Hoe heet zo'n machine `die` monsters heel snel ronddraait?*\n- Geen woord voor 'waterkoker': *Ik zoek zo'n apparaat `dat` water warm maakt.*\n- 'Thermometer' weg: *Ik bedoel het ding `waarmee` je de temperatuur meet.*\n\n### Ook thuis handig\nMiss the exact word for a dish from home? Describe it:\n- *Sadza is een soort pap `die` we in Zimbabwe elke dag eten.*\n\n### De reddingszin\nWhen you are truly stuck: *Hoe noem je zo'n ding `waarmee` je ...? Ik weet het woord even niet.* A Dutch speaker will finish the sentence for you, every single time.",
+      "drill": [
+        { "q": "Je bent het woord 'centrifuge' kwijt. Omschrijf het in het Nederlands.", "a": "Bijvoorbeeld: zo'n machine die monsters heel snel ronddraait." },
+        { "q": "Vertaal: the thing you measure temperature with", "a": "het ding waarmee je de temperatuur meet." },
+        { "q": "Omschrijf sadza voor een Nederlander die het niet kent.", "a": "Sadza is een soort pap die we in Zimbabwe eten." },
+        { "q": "die of dat: zo'n apparaat ___ water warm maakt", "a": "dat: het apparaat is een het-woord." },
+        { "q": "Vertaal met 'iets om ... te': I am looking for something to open the bottle with.", "a": "Ik zoek iets om de fles mee open te maken. Dat is de om...te van week 4." },
+        { "q": "Maak een reddingszin voor een woord dat je nu niet weet.", "a": "Bijvoorbeeld: Hoe noem je zo'n ding waarmee je verf mengt? Ik weet het woord even niet." }
+      ]
+    },
+    {
+      "id": "w15l5",
+      "title": "Rijke zinnen bouwen",
+      "minutes": 8,
+      "body": "Time to stack. One relative clause is a tool, three of them is a portrait. You can finally describe your company, your street and your family in sentences that sound like an adult.\n\n### Stapelen\n- *ZiQo is een bedrijf `dat` voedsel onderzoekt voor klanten `die` in heel Afrika werken.*\n- *Ik woon in een straat `waar` veel studenten wonen en `waar` 's zomers een markt is.*\n\n### Extra info tussen komma's\nWith a name or a known person, put the clause between commas: it is extra information, not the thing that identifies them.\n- *Mijn zus, `die` nog in Harare woont, kookt de beste sadza `die` ik ken.*\n\n### Pas op de V2 na de bijzin\nWhen a sentence opens with something other than the subject, the main verb still lands in second position. Count the whole relative clause as one block:\n- *Helaas `is` het monster `dat` we kregen besmet.*\n- *Morgen `komt` de klant `die` het rapport wil zien.*\n\n### Met tijd en met 'zou'\n- *De vergadering `die` om drie uur begint, duurt een uur.*\n- *Het rapport `dat` ik `zou` schrijven, is nog niet klaar.*\n\nBouw vanavond drie rijke zinnen: je bedrijf, je straat, je familie. Lees ze hardop.",
+      "drill": [
+        { "q": "Combineer: ZiQo onderzoekt voedsel. De klanten werken in heel Afrika.", "a": "ZiQo is een bedrijf dat voedsel onderzoekt voor klanten die in heel Afrika werken." },
+        { "q": "Vertaal: My sister, who still lives in Harare, cooks the best sadza I know.", "a": "Mijn zus, die nog in Harare woont, kookt de beste sadza die ik ken." },
+        { "q": "Zet goed neer (let op V2): Helaas / het monster / dat / we / kregen / is / besmet.", "a": "Helaas is het monster dat we kregen besmet. Na 'helaas' komt het werkwoord op plek twee." },
+        { "q": "Combineer met tijd: De vergadering begint om drie uur. Ze duurt een uur.", "a": "De vergadering die om drie uur begint, duurt een uur." },
+        { "q": "Vertaal met 'zou': The report that I was going to write isn't ready yet.", "a": "Het rapport dat ik zou schrijven, is nog niet klaar." },
+        { "q": "Beschrijf je eigen straat in één rijke zin met waar.", "a": "Bijvoorbeeld: Ik woon in een straat waar veel gezinnen wonen en waar het altijd rustig is." }
+      ]
+    }
+  ]
+}

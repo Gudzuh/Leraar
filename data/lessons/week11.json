@@ -1,0 +1,177 @@
+{
+  "week": 11,
+  "theme": "Vergaderen: je mening geven",
+  "mission": "Geef in je volgende vergadering of klantgesprek minstens één mening in het Nederlands: begin met 'ik vind dat...' of 'volgens mij' en let op de plaats van het werkwoord. Schrijf na afloop op welke zin je hebt gezegd.",
+  "listening": [
+    {
+      "title": "Luister één aflevering van de podcast en noteer drie meningen die je hoort.",
+      "url": "https://www.eenbeetjenederlands.nl"
+    },
+    {
+      "title": "Lees één kort nieuwsbericht hardop en geef daarna jouw mening met 'ik vind dat...'.",
+      "url": "https://nos.nl"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "w11l1",
+      "title": "Mening geven: ik vind, ik denk, volgens mij",
+      "minutes": 8,
+      "body": "### Speak up or disappear\nIn a Dutch meeting, silence counts as agreement. Say nothing about the planning and you have approved the planning. So this week: opinions.\n\n- `Ik vind dat...` : firm, a real judgement.\n- `Ik denk dat...` : softer, a view or a guess.\n- `Volgens mij...` : light and very common, 'as I see it'.\n\n### Two grammars, one opinion\n`dat` opens a bijzin (hello, week 7), so the verb walks to the end: `Ik vind dat de deadline te krap is.` But `volgens mij` is a fronted element, so V2 applies and the verb stays second: `Volgens mij is de deadline te krap.` Same message, different machinery.\n\n### The strength ladder\n|Kracht|Voorbeeld|\n|zacht|`Misschien is dit niet de beste optie.`|\n|neutraal|`Ik denk dat we meer tijd nodig hebben.`|\n|stevig|`Ik vind dat we de klant vandaag moeten bellen.`|\n|formeel|`Mijns inziens is dit besluit te vroeg.`|\n|maximaal|`Ik ben ervan overtuigd dat het lab er klaar voor is.`|\n\n`Mijns inziens` belongs in emails to de gemeente, not at the borrel. And yes, `Ik vind dat sadza lekkerder is dan stamppot` is a perfectly valid opinion.",
+      "drill": [
+        {
+          "q": "Vertaal: I think that the report is ready.",
+          "a": "Ik denk dat het rapport klaar is. (bijzin: 'is' goes to the end; het rapport)"
+        },
+        {
+          "q": "Zet in de goede volgorde: volgens mij / de offerte / te duur / is",
+          "a": "Volgens mij is de offerte te duur. (fronted 'volgens mij' triggers V2: verb second)"
+        },
+        {
+          "q": "Maak af: Ik vind dat we de monsters morgen ... (moeten / testen)",
+          "a": "Ik vind dat we de monsters morgen moeten testen. (the verb cluster sits at the end of a bijzin)"
+        },
+        {
+          "q": "Maak formeel voor een e-mail: Ik vind dit besluit te vroeg.",
+          "a": "Mijns inziens is dit besluit te vroeg."
+        },
+        {
+          "q": "Vertaal: In my opinion the meeting starts too late.",
+          "a": "Volgens mij begint de vergadering te laat."
+        },
+        {
+          "q": "Zeg zo sterk mogelijk dat het lab er klaar voor is.",
+          "a": "Ik ben ervan overtuigd dat het lab er klaar voor is."
+        }
+      ]
+    },
+    {
+      "id": "w11l2",
+      "title": "Eens en oneens: klopt, dat zie ik anders",
+      "minutes": 7,
+      "body": "### The famous little 'het'\nDutch agreement runs on `het eens zijn`: `Ik ben het met je eens.` That `het` means nothing and is never translated, but drop it and the sentence breaks. Agreeing with an idea instead of a person? Use `daar ... mee`: `Daar ben ik het helemaal mee eens.`\n\nQuick reactions you will hear ten times per vergadering:\n\n- `Klopt.` or `Dat klopt.` : that is correct.\n- `Precies.` : exactly.\n- `Goed punt.` : costs nothing, buys goodwill.\n\n### Disagreeing without a fight\n- `Daar ben ik het niet mee eens.` : direct, and completely normal here.\n- `Dat zie ik anders.` : the polite professional option.\n- `Ik ben het er deels mee eens, maar...` : partial agreement.\n- `Ja, maar...` : allowed, but ration it. Someone who blocks every idea is `een ja-maar-mens`, and you do not want that nickname at ZiQo.\n\nDutch directness is real: nobody is insulted by a clear `nee`. Wrapping your disagreement in five layers of English politeness just confuses everyone. One honest sentence beats three vague ones.",
+      "drill": [
+        {
+          "q": "Vertaal: I agree with you.",
+          "a": "Ik ben het met je eens. (never forget the little 'het')"
+        },
+        {
+          "q": "Vertaal: I don't agree with that.",
+          "a": "Daar ben ik het niet mee eens. (daar + mee = with that)"
+        },
+        {
+          "q": "Je collega stelt iets voor. Zeg beleefd dat jij het anders ziet.",
+          "a": "Dat zie ik anders."
+        },
+        {
+          "q": "Maak af in de goede volgorde: Klopt, maar volgens mij ... (wij / meer data / hebben / nodig)",
+          "a": "Klopt, maar volgens mij hebben wij meer data nodig. (V2 after fronted 'volgens mij')"
+        },
+        {
+          "q": "Vertaal: Good point, but then we won't make the deadline.",
+          "a": "Goed punt, maar dan halen we de deadline niet. (fronted 'dan' forces inversion; 'niet' at the end)"
+        },
+        {
+          "q": "Zeg dat je het deels eens bent met het voorstel.",
+          "a": "Ik ben het er deels mee eens."
+        }
+      ]
+    },
+    {
+      "id": "w11l3",
+      "title": "De vergadering: agenda, notulen, actiepunt",
+      "minutes": 7,
+      "body": "### The meeting survival kit\nEvery Dutch vergadering runs on the same furniture. Learn these with their articles, because you will hear them weekly:\n\n|Woord|Betekenis|Voorbeeld|\n|de agenda|the agenda|`Staat het budget op de agenda?`|\n|het agendapunt|agenda item|`Het eerste agendapunt is de planning.`|\n|de notulen|the minutes|`Wie maakt vandaag de notulen?`|\n|het actiepunt|action item|`Dit actiepunt is voor Femke.`|\n|de rondvraag|any other business|`Heeft iemand iets voor de rondvraag?`|\n|de voorzitter|the chair|`De voorzitter opent de vergadering.`|\n|het besluit|the decision|`We nemen vandaag een besluit.`|\n\n### Three traps\n- `de notulen` is always plural, exactly like 'the minutes' in English. Nobody says 'één notule'.\n- Compounds take the article of the last word (week 2!): `het punt`, so `het actiepunt` and `het agendapunt`.\n- `de rondvraag` comes at the end and is your last chance to raise anything: `Even voor de rondvraag: de vriezer maakt een raar geluid.`\n\nEvery meeting should end with 'wie doet wat': each actiepunt gets a name attached. No name, no action.",
+      "drill": [
+        {
+          "q": "De of het? ... actiepunt staat nog open.",
+          "a": "Het actiepunt staat nog open. (compounds take the article of the last word: het punt)"
+        },
+        {
+          "q": "Vertaal: Who is taking the minutes today?",
+          "a": "Wie maakt vandaag de notulen? ('notulen' is always plural)"
+        },
+        {
+          "q": "Vertaal: The budget is not on the agenda.",
+          "a": "Het budget staat niet op de agenda."
+        },
+        {
+          "q": "Meervoud: één besluit, twee ...",
+          "a": "twee besluiten"
+        },
+        {
+          "q": "De voorzitter vraagt: Wie pakt dit actiepunt op? Meld je vrijwillig aan.",
+          "a": "Dat doe ik. (also good: Ik pak het op.)"
+        },
+        {
+          "q": "Vraag of iemand nog iets heeft voor de rondvraag.",
+          "a": "Heeft iemand nog iets voor de rondvraag?"
+        }
+      ]
+    },
+    {
+      "id": "w11l4",
+      "title": "Beleefd onderbreken en het woord nemen",
+      "minutes": 7,
+      "body": "### Getting a word in\nDutch meetings move fast, and nobody hands you the floor. Waiting for a polite pause is a strategy for staying silent forever. Use these instead:\n\n- `Mag ik daar iets over zeggen?` : the classic polite entry.\n- `Even tussendoor:` : quick side note, very common.\n- `Sorry dat ik je onderbreek, maar...` : when you genuinely cut someone off. Note the bijzin: `onderbreek` goes to the end.\n- `Om terug te komen op het vorige punt:` : steer the meeting back. Your old friend om + te from week 4.\n- `Mag ik even?` : short, friendly, works.\n\n### Keeping and giving the floor\n- Someone interrupts you: `Mag ik dit even afmaken?`\n- You give the floor: `Ga je gang.`\n\n### The magic of 'even'\n`Even` softens everything. `Mag ik iets zeggen?` sounds heavy; `Mag ik even iets zeggen?` sounds relaxed. Sprinkle it like a Dutch person sprinkles salt: modestly, but everywhere.\n\nCultural note: interrupting is less rude here than in English. A lively vergadering has overlap. Join it.",
+      "drill": [
+        {
+          "q": "Vraag beleefd of je daar iets over mag zeggen.",
+          "a": "Mag ik daar iets over zeggen?"
+        },
+        {
+          "q": "Vertaal: Sorry that I'm interrupting you, but the sample is ready.",
+          "a": "Sorry dat ik je onderbreek, maar het monster is klaar. ('dat' bijzin: 'onderbreek' at the end)"
+        },
+        {
+          "q": "Maak af met om + te: Ik bel de klant ... de deadline ... bespreken.",
+          "a": "Ik bel de klant om de deadline te bespreken."
+        },
+        {
+          "q": "Iemand onderbreekt jou. Houd beleefd het woord.",
+          "a": "Mag ik dit even afmaken?"
+        },
+        {
+          "q": "Stuur het gesprek terug naar het budget en geef een mening.",
+          "a": "Om terug te komen op het budget: volgens mij is het te krap. (V2 after the fronted phrase)"
+        },
+        {
+          "q": "Geef een korte tussenopmerking: de koffie is op.",
+          "a": "Even tussendoor: de koffie is op."
+        }
+      ]
+    },
+    {
+      "id": "w11l5",
+      "title": "Samenvatten en afronden: wie pakt dit op?",
+      "minutes": 8,
+      "body": "### Landing the plane\nA Dutch meeting ends with a summary plus action items, and the person who summarizes looks like the leader. That can be you:\n\n- `Dus wat we afspreken is dat...` + bijzin: `Dus wat we afspreken is dat Tom de offerte vóór dinsdag stuurt.`\n- `Kort samengevat:` then a normal V2 sentence.\n- `Wie pakt dit op?` : the question that turns talk into work.\n- `Zullen we afronden?` : polite signal that time is up.\n\n### An actiepunt needs three things\n|Wie|Wat|Wanneer|\n|ik|stuur het rapport|vóór vrijdag|\n|Anna|belt de klant|op maandag om 10.00 uur|\n|wij|testen de monsters|tussen dinsdag en donderdag|\n\nLook at those prepositions: `op` for a day, `om` for a clock time, `vóór` for a deadline, `tussen... en` for a range. Your old enemies, now on the payroll.\n\n### Assigning without ordering\n`Maak jij de notulen.` sounds like a command. `Zou jij de notulen kunnen maken?` gets the same result plus a smile. Then close warmly: `Bedankt allemaal, tot volgende week.`",
+      "drill": [
+        {
+          "q": "Vat samen: jullie spreken af dat het lab de monsters op woensdag test.",
+          "a": "Dus wat we afspreken is dat het lab de monsters op woensdag test. (bijzin: 'test' at the end; op + day)"
+        },
+        {
+          "q": "Vraag wie dit oppakt.",
+          "a": "Wie pakt dit op?"
+        },
+        {
+          "q": "Vraag Sanne beleefd (met 'zou') of zij de notulen kan maken.",
+          "a": "Zou jij de notulen kunnen maken, Sanne? ('zou' + infinitive at the end makes a soft request)"
+        },
+        {
+          "q": "Vul de preposities in: De volgende vergadering is ... donderdag ... half tien.",
+          "a": "De volgende vergadering is op donderdag om half tien. (op + day, om + clock time)"
+        },
+        {
+          "q": "Vertaal: I will send the report before Friday.",
+          "a": "Ik stuur het rapport vóór vrijdag. (Dutch uses the present tense for the near future)"
+        },
+        {
+          "q": "Sluit de vergadering af in twee zinnen.",
+          "a": "Zullen we afronden? Bedankt allemaal, tot volgende week."
+        }
+      ]
+    }
+  ]
+}

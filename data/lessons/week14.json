@@ -1,0 +1,81 @@
+{
+  "week": 14,
+  "theme": "Telefoon en indirecte rede",
+  "mission": "Bel deze week één keer echt in het Nederlands: een leverancier, de tandarts of de gemeente. Open met 'Goedemiddag, u spreekt met...' en herhaal aan het einde één ding (een tijd, een nummer) om te checken dat je het goed hebt verstaan.",
+  "listening": [
+    { "title": "Oefenen.nl: doe twee oefeningen met telefoongesprekken en spreek elke zin hardop na", "url": "https://www.oefenen.nl" },
+    { "title": "Jeugdjournaal: kijk elke dag één item en vertel daarna in één zin wat ze zeggen: 'Ze zeggen dat...'", "url": "https://jeugdjournaal.nl" }
+  ],
+  "lessons": [
+    {
+      "id": "w14l1",
+      "title": "De telefoon opnemen en openen",
+      "minutes": 7,
+      "body": "Phone Dutch feels harder than face-to-face Dutch: no faces, no hands, no pointing. The good news: Dutch phone openings are almost fully scripted, and this week you learn the script.\n\n### Opnemen\n- Zakelijk: `Goedemiddag, ZiQo Applied, u spreekt met [jouw naam].` Greeting, company, name. Callers expect exactly this order.\n- Privé: `Met Anna.` Yes, Dutch people answer with just `met` + name. It is short for `u spreekt met`.\n- Jij belt zelf? Same move: `Goedemorgen, u spreekt met [naam] van ZiQo Applied.`\n\n### De openingsvragen\n- `Waarmee kan ik u helpen?` The professional all-purpose opener.\n- `Mag ik vragen waar het over gaat?` The polite screening question when someone asks for a colleague and you want to know why first.\n- `Belt u over de offerte?` (de offerte, the quotation: a word you will use a lot)\n\n### Reddingszinnen\n- `Met wie spreek ik?` when the caller forgot to say who they are.\n- `Ik denk dat u verkeerd verbonden bent.` Wrong number, and note the bijzin from week 7: `bent` goes to the end.\n\nSay the business opening out loud three times now. On the real phone you get zero seconds to think.",
+      "drill": [
+        { "q": "Neem de telefoon op bij ZiQo Applied. Wat zeg je?", "a": "Goedemiddag, ZiQo Applied, u spreekt met [jouw naam]." },
+        { "q": "Vertaal: How can I help you? (formeel)", "a": "Waarmee kan ik u helpen?" },
+        { "q": "Iemand vraagt naar je collega en jij wilt eerst weten waarom. Vraag het beleefd.", "a": "Mag ik vragen waar het over gaat?" },
+        { "q": "De beller zegt zijn naam niet. Wat vraag je?", "a": "Met wie spreek ik?" },
+        { "q": "Vertaal: I think you have the wrong number.", "a": "Ik denk dat u verkeerd verbonden bent. (bijzin: bent aan het einde)" },
+        { "q": "De of het: ___ offerte, ___ nummer?", "a": "de offerte, het nummer" }
+      ]
+    },
+    {
+      "id": "w14l2",
+      "title": "Zeggen dat: rapporteren wat iemand zegt",
+      "minutes": 8,
+      "body": "Week 7 gave you de bijzin: after `dat`, the verb marches to the end. The phone runs on this, because half of every call is reporting what someone said.\n\n### Zeggen dat\n- Direct: `Hij komt morgen.` Indirect: `Hij zegt dat hij morgen komt.`\n- `De klant zegt dat de monsters vandaag aankomen.` (het monster, de monsters: week 2 plural)\n- `Ze zegt dat het rapport bijna klaar is.`\n- `Mijn moeder zegt dat het in Harare nu koud is.` July is winter there; tell your colleagues, they never believe it.\n\n### Vragen of\nNo question word in the original question? Report it with `of` (whether):\n- Direct: `Is de uitslag klaar?` Indirect: `Hij vraagt of de uitslag klaar is.`\n- `Ze vraagt of u morgen kunt terugbellen.`\n\n### Twee valkuilen\n- English drops 'that' (he says he's coming). Dutch never drops `dat` or `of`.\n- The main clause is still V2. Front `morgen` and the verb stays second: `Morgen weet ik of het lukt.`\n\nOne golden reflex for calls: after listening, summarise with `Dus u zegt dat...`. It buys time and proves you understood.",
+      "drill": [
+        { "q": "Maak indirect: 'Hij komt morgen.' Begin met: Hij zegt...", "a": "Hij zegt dat hij morgen komt. (werkwoord naar het einde)" },
+        { "q": "Maak indirect: 'Is de uitslag klaar?' Begin met: Ze vraagt...", "a": "Ze vraagt of de uitslag klaar is. (ja/nee-vraag: of)" },
+        { "q": "Vertaal: The client says that the samples are arriving tomorrow.", "a": "De klant zegt dat de monsters morgen aankomen." },
+        { "q": "Vertaal: He asks whether you can call back tomorrow.", "a": "Hij vraagt of u morgen kunt terugbellen." },
+        { "q": "Wat is er fout: 'Hij zegt dat hij komt morgen'?", "a": "In de bijzin staat het werkwoord aan het einde: 'Hij zegt dat hij morgen komt.'" },
+        { "q": "Maak indirect: 'Sadza smaakt beter dan stamppot.' Begin met: Mijn familie zegt...", "a": "Mijn familie zegt dat sadza beter smaakt dan stamppot." }
+      ]
+    },
+    {
+      "id": "w14l3",
+      "title": "Indirecte vragen: beleefd vragen stellen",
+      "minutes": 7,
+      "body": "A direct question is correct. An indirect question is polite. On the phone, where the other person cannot see your friendly face, that extra politeness does real work.\n\n### De bouw\nWrap your question inside a polite opener; the question becomes a bijzin, so the verb goes to the end:\n- Direct: `Waar is het lab?` Indirect: `Kunt u mij vertellen waar het lab is?`\n- `Weet u wanneer de uitslag klaar is?`\n- `Kunt u mij vertellen hoe laat de vergadering begint?`\n- `Mag ik vragen op welke dag de monsters aankomen?` (op + dag, om + tijd: your old friends)\n\n### De beleefdheidsladder\n| trap | zin |\n| direct | `Wanneer komt hij?` |\n| beleefd | `Weet u wanneer hij komt?` |\n| heel beleefd | `Zou u mij kunnen vertellen wanneer hij komt?` |\n\n`Zou` is politeness gold. It is the difference between asking and asking nicely, and Dutch clients hear it immediately.\n\n### De valkuil\nKeeping question order inside the bijzin. Wrong: *Weet u waar is de ingang?* Right: `Weet u waar de ingang is?` Verb last, every single time.",
+      "drill": [
+        { "q": "Maak indirect: 'Waar is het lab?' Begin met: Kunt u mij vertellen...", "a": "Kunt u mij vertellen waar het lab is?" },
+        { "q": "Maak indirect: 'Wanneer komt hij terug?' Begin met: Weet u...", "a": "Weet u wanneer hij terugkomt? (het scheidbare werkwoord is weer heel aan het einde)" },
+        { "q": "Vertaal heel beleefd (met zou): Could you tell me how much the analysis costs?", "a": "Zou u mij kunnen vertellen hoeveel de analyse kost?" },
+        { "q": "Kies op of om: Hij komt ___ maandag ___ tien uur.", "a": "op maandag om tien uur (op + dag, om + kloktijd)" },
+        { "q": "Wat is er fout: 'Weet u waar is de ingang?'", "a": "'Weet u waar de ingang is?': in de indirecte vraag gaat het werkwoord naar het einde." },
+        { "q": "Vraag beleefd aan de balie wanneer je paspoort klaar is.", "a": "Kunt u mij vertellen wanneer mijn paspoort klaar is?" }
+      ]
+    },
+    {
+      "id": "w14l4",
+      "title": "Een bericht aannemen en doorgeven",
+      "minutes": 7,
+      "body": "Someone calls for a colleague who is out. This two-minute scene packs in separable verbs, V2 after `helaas`, and time prepositions. B1 gold.\n\n### De persoon is er niet\n- `Helaas is hij er vandaag niet.` Fronted `helaas`, so the verb comes second. Not *Helaas hij is...*\n- `Ze is in gesprek.` (on another call) Or: `Ze is tot maandag op vakantie.`\n- `Hij is tussen twee en vier weer bereikbaar.`\n\n### Het bericht\n- `Kan ik iets noteren?` or `Kan ik iets doorgeven?`\n- `Wat is uw nummer?` Then the promise: `Ik geef het door.`\n- `Hij belt u morgen om negen uur terug.` Separable verbs everywhere: doorgeven, terugbellen, aannemen. The prefix drops to the end, exactly like the bracket from week 4.\n\n### Het script (jij neemt aan)\n| de beller | jij |\n| Mag ik mevrouw De Vries spreken? | Helaas is ze er niet. Kan ik iets doorgeven? |\n| Wilt u vragen of ze mij terugbelt? | Natuurlijk. Wat is uw nummer? |\n| 06 12 34 56 78. | Ik geef het door. Ze belt u vanmiddag terug. |\n\nRead the script out loud, both roles. At ZiQo you will play both within the same week.",
+      "drill": [
+        { "q": "Begin met 'Helaas': hij is er vandaag niet.", "a": "Helaas is hij er vandaag niet. (V2: het werkwoord direct na helaas)" },
+        { "q": "Vertaal: Can I take a message?", "a": "Kan ik iets noteren? (of: Kan ik iets doorgeven?)" },
+        { "q": "Vertaal: He will call you back tomorrow at nine.", "a": "Hij belt u morgen om negen uur terug." },
+        { "q": "Vul in: Hij is ___ twee ___ vier bereikbaar.", "a": "tussen twee en vier" },
+        { "q": "De beller vraagt: 'Wilt u vragen of ze mij terugbelt?' Beloof het in twee korte zinnen.", "a": "Natuurlijk, ik geef het door. Ze belt u terug." },
+        { "q": "Vertaal: She is on holiday until Monday.", "a": "Ze is tot maandag op vakantie. (let op de spelling: vakantie)" }
+      ]
+    },
+    {
+      "id": "w14l5",
+      "title": "Het lastige gesprek: slecht verstaan, spellen, nummers",
+      "minutes": 8,
+      "body": "Sooner or later you get the call where everything goes wrong: the line crackles, the caller mumbles, and a name needs spelling. These sentences are your life raft.\n\n### De slechte verbinding\n- `Sorry, de verbinding is slecht. Ik kan u slecht verstaan.`\n- `Kunt u dat herhalen?` Extra beleefd: `Zou u iets langzamer kunnen praten?`\n- Total loss? `Zal ik u terugbellen? Misschien is de lijn dan beter.`\n\n### Namen spellen\nDutch spells out loud with names and cities: `de a van Anna, de b van Bernard, de k van Karel`. Learn your own name this way, plus the company: ZiQo is `de z van Zaandam, de i van Izaak, de q van Quirinus, de o van Otto`. You will need it, because `de naam wordt vaak verkeerd geschreven` (het passief from week 13, doing honest work).\n\n### Nummers onder druk\nDutch flips the tens: 94 is `vierennegentig`, four-and-ninety. Under pressure this ambushes everyone.\n- Read phone numbers digit by digit: `nul zes, een twee, drie vier...`\n- Always repeat back: `Dus 06 12 34 56 78, klopt dat?`\n- Unsure? `Zei u veertien of veertig?`\n\nSlow is professional. Nobody ever lost a client by checking a number twice.",
+      "drill": [
+        { "q": "De lijn kraakt. Vraag heel beleefd om herhaling (met zou).", "a": "Zou u dat kunnen herhalen?" },
+        { "q": "Vertaal: The connection is bad, I can't hear you well.", "a": "De verbinding is slecht, ik kan u slecht verstaan." },
+        { "q": "Spel 'ZiQo' op z'n Nederlands.", "a": "De z van Zaandam, de i van Izaak, de q van Quirinus, de o van Otto." },
+        { "q": "Iemand geeft je een telefoonnummer. Wat doe je altijd daarna?", "a": "Herhalen en checken: 'Dus 06 12 34 56 78, klopt dat?'" },
+        { "q": "Welk getal is vierennegentig?", "a": "94 (Nederlands draait de tientallen om: vier-en-negentig)" },
+        { "q": "Vertaal met het passief: The name is often written wrong.", "a": "De naam wordt vaak verkeerd geschreven." }
+      ]
+    }
+  ]
+}

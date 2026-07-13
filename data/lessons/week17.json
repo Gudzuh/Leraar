@@ -1,0 +1,81 @@
+{
+  "week": 17,
+  "theme": "Zou: beleefdheid en hypothese",
+  "mission": "Doe deze week één echt verzoek met 'zou u...': aan de balie, aan de telefoon of op het werk. Bijvoorbeeld: 'Zou u dat voor mij kunnen uitprinten?' of 'Zou u de vergadering naar dinsdag kunnen verplaatsen?' Let op hoe vriendelijk de reactie is.",
+  "listening": [
+    { "title": "Een Beetje Nederlands: kies één aflevering en schrijf elke zin met 'zou' op", "url": "https://www.eenbeetjenederlands.nl" },
+    { "title": "oefenen.nl: zoek een B1-oefening over beleefd vragen en formele e-mails", "url": "https://www.oefenen.nl" }
+  ],
+  "lessons": [
+    {
+      "id": "w17l1",
+      "title": "Zou + infinitief: de beleefde vraag",
+      "minutes": 7,
+      "body": "`Zou` is technically the past tense of *zullen*, but Dutch mostly uses it the way English uses 'would': to wrap a request in velvet. Compare:\n\n- *Kunt u het rapport sturen?* Correct, direct, slightly brisk.\n- *`Zou` u het rapport `kunnen sturen`?* Same request, now wearing a suit.\n\n### De vorm\n| persoon | vorm |\n| ik, jij, u, hij, zij | `zou` |\n| wij, jullie, zij (meervoud) | `zouden` |\n\n`Zou` takes the V2 spot you know from week 1; every other verb piles up at the end, exactly like the modal bracket from week 4.\n\n- *`Zou` ik het lab even `mogen zien`?* Asking permission, extra gentle.\n- *`Zou` je me morgen om tien uur `kunnen bellen`?* Note `om` + clock time.\n- *Helaas lukt het vandaag niet. `Zou` u de afspraak naar vrijdag `kunnen verplaatsen`?* Fronted *helaas*, verb still second. Old friends everywhere.\n\n### Waarom dit werkt\nDutch people are famously direct, but at de balie or with a new client, `zou u kunnen...` opens more doors than *kunt u*. It signals that you know the polite register. For a founder asking a busy lab or de gemeente for a favour, that is real currency.",
+      "drill": [
+        { "q": "Maak beleefder: Kunt u de uitslag vandaag sturen?", "a": "Zou u de uitslag vandaag kunnen sturen?" },
+        { "q": "Vertaal: Might I see the lab for a moment?", "a": "Zou ik het lab even mogen zien?" },
+        { "q": "Zet in de goede volgorde: zou / u / de afspraak / kunnen / naar vrijdag / verplaatsen", "a": "Zou u de afspraak naar vrijdag kunnen verplaatsen? In een vraag staat zou vooraan, de andere werkwoorden achteraan." },
+        { "q": "Vertaal: Could you (formal) call me tomorrow at ten o'clock?", "a": "Zou u mij morgen om tien uur kunnen bellen? Om + kloktijd." },
+        { "q": "Kies en leg uit: Zou/Zouden jullie het monster morgen kunnen ophalen?", "a": "Zouden: jullie is meervoud." },
+        { "q": "Begin met 'Helaas': ik kan vrijdag niet komen.", "a": "Helaas kan ik vrijdag niet komen. Helaas vult plek 1, dus het werkwoord komt meteen erna (V2)." }
+      ]
+    },
+    {
+      "id": "w17l2",
+      "title": "Advies geven: je zou ... kunnen",
+      "minutes": 7,
+      "body": "Advice without sounding like the boss. Three tools, from soft to strong.\n\n### je zou ... kunnen (you could)\nA suggestion, zero pressure.\n\n- *Je `zou` de klant eerst een e-mail `kunnen sturen`.*\n- *Je `zou` het monster opnieuw `kunnen testen`.*\n\n### je zou ... moeten (you should)\nStronger: you really ought to.\n\n- *Je `zou` eerder `moeten beginnen` met de administratie.*\n- *Hij klinkt verschrikkelijk. Hij `zou` naar de huisarts `moeten gaan`.*\n\n### als ik jou was... (if I were you)\nThe classic opener. The als-part is a bijzin (week 7: verbs at the end), and because it fills position 1, the main clause flips straight to the verb:\n\n- *Als ik jou was, `zou` ik eerst een offerte aanvragen.*\n- *Als ik jou was, `zou` ik dat niet doen.* There is *niet* from week 3, still doing its job.\n\nAnd for showing rather than telling: *Ik `zou` het zo doen: eerst bellen, dan mailen.*\n\n### Eén waarschuwing\n*Jij moet...* to a colleague sounds like an order, not advice. Dutch directness has limits, and unsolicited *moeten* is one of them. Reach for `je zou ... kunnen` first and watch how much smoother the meeting runs.",
+      "drill": [
+        { "q": "Geef zacht advies met kunnen: je collega wil de klant bereiken.", "a": "Je zou de klant eerst een e-mail kunnen sturen. (voorbeeldantwoord)" },
+        { "q": "Vertaal: You should go to the doctor.", "a": "Je zou naar de huisarts moeten gaan." },
+        { "q": "Maak af met niet: Als ik jou was, ...", "a": "Als ik jou was, zou ik dat niet doen." },
+        { "q": "Waarom staat 'zou' direct na de komma in 'Als ik jou was, zou ik wachten'?", "a": "De als-bijzin vult plek 1, dus daarna volgt meteen het werkwoord: inversie, gewoon V2." },
+        { "q": "Vertaal: I would do it like this: first call, then email.", "a": "Ik zou het zo doen: eerst bellen, dan mailen." },
+        { "q": "Wat is het verschil tussen 'je zou kunnen' en 'je zou moeten'?", "a": "Kunnen is een optie (you could), moeten is dringend advies (you should)." }
+      ]
+    },
+    {
+      "id": "w17l3",
+      "title": "De hypothese: als ik tijd had...",
+      "minutes": 8,
+      "body": "Now the dreamy side of `zou`: things that are not true (yet).\n\n### De twee helften\nThe als-clause states the unreal condition. Two equally correct forms:\n\n- *Als ik tijd `zou hebben`, ...*\n- *Als ik tijd `had`, ...* The simple past form, shorter and very common.\n\nThe main clause carries `zou(den)` + infinitive, and *dan* is optional:\n\n- *Als ik tijd had, (dan) `zou` ik elke vrijdag naar de sauna gaan.*\n- *Als het lab groter was, `zouden` we meer monsters kunnen testen.*\n\nStyle tip: double *zou ... zou* is allowed, but *als ik tijd had* sounds neater. One `zou` per sentence usually reads best.\n\n### De volgorde\nBijzin: verbs at the end (*...tijd had*). Then the whole als-clause occupies position 1, so the main clause starts with the verb: *..., zou ik...* You drilled this pattern in week 7; now it earns its keep.\n\n### Droomscenario's\nThis is the grammar of homesickness and ambition, so use it honestly:\n\n- *Als Harare om de hoek lag, `zou` ik elke zondag sadza met mijn familie eten.*\n- *Als ik meer vakantie had, `zou` ik een maand naar Zimbabwe gaan.*\n- *Als ZiQo honderd klanten had, `zou` ik een tweede lab openen.*",
+      "drill": [
+        { "q": "Vertaal: If I had time, I would learn more Dutch.", "a": "Als ik tijd had, (dan) zou ik meer Nederlands leren." },
+        { "q": "Herschrijf zonder dubbel zou: Als ik geld zou hebben, zou ik een nieuw lab bouwen.", "a": "Als ik geld had, zou ik een nieuw lab bouwen." },
+        { "q": "Vertaal: If the lab were bigger, we could test more samples.", "a": "Als het lab groter was, zouden we meer monsters kunnen testen. Zouden: we is meervoud." },
+        { "q": "Maak af: Als Harare om de hoek lag, ...", "a": "... zou ik elke zondag sadza met mijn familie eten. (voorbeeld; de hoofdzin begint met zou)" },
+        { "q": "Vul in en let op de spelling: Als ik meer ___ had (holiday), zou ik naar Zimbabwe gaan.", "a": "vakantie, met een k." },
+        { "q": "Waar staan de werkwoorden in 'als ik tijd had'?", "a": "Aan het einde: het is een bijzin." }
+      ]
+    },
+    {
+      "id": "w17l4",
+      "title": "Indirecte rede: ze zei dat ze zou komen",
+      "minutes": 8,
+      "body": "On your placement test you had to report what someone said in the past, and `zou` was the missing piece. Time to own it completely.\n\n### De regel\nWhen the reporting verb is past tense (*zei, dacht, beloofde*), the future inside the report becomes `zou(den)`:\n\n- Direct: *'Ik kom morgen.'* wordt: *Ze `zei` dat ze morgen `zou komen`.*\n- *Hij `dacht` dat het `zou lukken`.*\n- *De klant `beloofde` dat hij de factuur deze week `zou betalen`.*\n\nEnglish works exactly the same way ('she said she would come'), so trust that instinct.\n\n### De volgorde\nThe dat-clause is a bijzin, so all the verbs stack up at the end: `zou komen`, `zou lukken`. Even the passive from week 13 joins the pile:\n\n- *Het lab zei dat de uitslag vrijdag `zou worden gemaild`.*\n\n### Contrast met het heden\n- *Ze zegt dat ze komt.* Present reporting, no zou.\n- *Ze zei dat ze `zou komen`.* Past reporting, zou required.\n\nThe mistake to retire forever: *Ze zei dat ze zal komen* is wrong. After *zei*, `zal` has to become `zou`. Say the correct version out loud three times and enjoy the small victory over your old toets.",
+      "drill": [
+        { "q": "Zet in de indirecte rede: 'Ik kom morgen', zei ze.", "a": "Ze zei dat ze morgen zou komen." },
+        { "q": "Vertaal: He thought it would work out.", "a": "Hij dacht dat het zou lukken." },
+        { "q": "Vertaal: The client promised that he would pay the invoice this week.", "a": "De klant beloofde dat hij de factuur deze week zou betalen." },
+        { "q": "Wat is er fout: 'Ze zei dat ze zal komen'?", "a": "Na de verleden tijd 'zei' verandert 'zal' in 'zou': Ze zei dat ze zou komen." },
+        { "q": "Maak passief: Het lab zei dat de uitslag vrijdag ___ ___ ___ (mailen).", "a": "zou worden gemaild. Passief in de bijzin: alle werkwoorden achteraan." },
+        { "q": "Kies: 'Ze zegt dat ze komt' of 'Ze zei dat ze zou komen'. Wanneer gebruik je welke?", "a": "Zegt (nu) + komt; zei (verleden) + zou komen." }
+      ]
+    },
+    {
+      "id": "w17l5",
+      "title": "De nette wens: ik zou graag...",
+      "minutes": 7,
+      "body": "The register that opens doors in Dutch business: the polite wish. Three formulas, in rising formality.\n\n### ik zou graag...\nEveryday polite. Works at de balie, on the phone, everywhere:\n\n- *Ik `zou graag` een afspraak willen maken voor maandag om negen uur.*\n- *Ik `zou graag` twee kilo tomaten willen hebben.* The market from week 4, upgraded.\n\n### zou het mogelijk zijn om ... te?\nFor requests that might be a hassle. The om ... te from week 4 returns:\n\n- *`Zou het mogelijk zijn om` de deadline `te verplaatsen`?*\n- *`Zou het mogelijk zijn om` de monsters dinsdag `op te halen`?* Note how te crawls inside the separable verb.\n\n### wij zouden het op prijs stellen als...\nFull business formal, for e-mail. Literally 'to set it at a price', meaning: we would appreciate it.\n\n- *Wij `zouden het op prijs stellen als` u vóór vrijdag zou kunnen reageren.*\n\nThis is the sentence that makes a young lab sound like an established one. Use it when ZiQo needs a client, a supplier or de gemeente to actually move.\n\n### De afsluiting\nClose with *Met vriendelijke groet,* and spell *vriendelijke* correctly: that word has bitten you before. A flawless closing is free credibility.",
+      "drill": [
+        { "q": "Vertaal: I would like to make an appointment for Monday at nine o'clock.", "a": "Ik zou graag een afspraak willen maken voor maandag om negen uur. Om + kloktijd." },
+        { "q": "Vraag met om...te: Would it be possible to move the deadline?", "a": "Zou het mogelijk zijn om de deadline te verplaatsen?" },
+        { "q": "Maak formeel voor een e-mail: Reageer alstublieft vóór vrijdag.", "a": "Wij zouden het op prijs stellen als u vóór vrijdag zou kunnen reageren." },
+        { "q": "Vraag je klant netjes om de monsters dinsdag op te sturen.", "a": "Zou u de monsters dinsdag kunnen opsturen? Formeler: Wij zouden het op prijs stellen als u de monsters dinsdag zou kunnen opsturen." },
+        { "q": "Schrijf de standaard e-mailafsluiting, let op de spelling.", "a": "Met vriendelijke groet (check: v-r-i-e-n-d-e-l-i-j-k-e)." },
+        { "q": "Vul in (perfectum, let op de spelling): De afspraak is ___ (veranderen). Zou u de nieuwe tijd kunnen bevestigen?", "a": "veranderd, met een d. Perfectum zonder ge-, want ver- is al een voorvoegsel." }
+      ]
+    }
+  ]
+}

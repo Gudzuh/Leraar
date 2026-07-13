@@ -8,7 +8,7 @@ const Store = (() => {
     days: {},             // 'YYYY-MM-DD' -> {reviews, newCards, minutes, sessions}
     lessonsDone: {},      // lessonId -> ISO date
     drill: {},            // lessonId -> {right, wrong}
-    settings: { newPerDay: 12, autoSpeak: true, voice: '' },
+    settings: { newPerDay: 12, autoSpeak: true, voice: '', gistToken: '', gistId: '', lastSync: '' },
     startDate: null,      // first day of use, set on first session
     version: 1
   });
@@ -18,7 +18,10 @@ const Store = (() => {
   function load() {
     try {
       const raw = localStorage.getItem(KEY);
-      state = raw ? Object.assign(DEFAULTS(), JSON.parse(raw)) : DEFAULTS();
+      const defaults = DEFAULTS();
+      state = raw ? Object.assign(defaults, JSON.parse(raw)) : defaults;
+      // deep-merge settings so new keys reach existing installs
+      state.settings = Object.assign(DEFAULTS().settings, state.settings);
     } catch (e) {
       console.error('Kon voortgang niet laden', e);
       state = DEFAULTS();

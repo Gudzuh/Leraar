@@ -1,0 +1,81 @@
+{
+  "week": 12,
+  "theme": "Vergelijken",
+  "mission": "Vergelijk deze week hardop twee echte opties met een collega, in het Nederlands: twee leveranciers, twee data voor een afspraak, twee methodes of twee lunchplekken. Gebruik minstens één zin met 'dan' en minstens één met 'net zo ... als'.",
+  "listening": [
+    { "title": "Kijk twee afleveringen van het Jeugdjournaal en noteer elke vergelijking die je hoort: groter, beter, het snelst.", "url": "https://jeugdjournaal.nl" },
+    { "title": "Doe op oefenen.nl een luisteroefening op B1-niveau en let op voordelen en nadelen.", "url": "https://www.oefenen.nl" }
+  ],
+  "lessons": [
+    {
+      "id": "w12l1",
+      "title": "De comparatief: -er + dan",
+      "minutes": 7,
+      "body": "Comparing things in Dutch is refreshingly simple: add `-er`, then `dan`. No 'more' needed, ever. This matters, because you wrote *meer interessant* on your toets. Dutch says `interessanter dan`, even for long words.\n\n### De vorm\n| basis | comparatief | let op |\n| klein | kleiner | gewoon -er |\n| groot | groter | lange klank houdt één o |\n| dik | dikker | korte klank, dubbele k |\n| duur | `duurder` | na -r komt -der |\n| lekker | `lekkerder` | ook na -r |\n| interessant | `interessanter` | nooit meer interessant |\n\n### Onregelmatig, dus onmisbaar\n- goed wordt `beter`: *Deze methode is beter dan die.*\n- veel wordt `meer`: *Wij hebben nu meer klanten dan in maart.*\n- weinig wordt `minder`: *Deze test kost minder tijd.*\n- graag wordt `liever`: *Ik drink liever thee dan koffie.*\n\n### dan, niet als\nAfter a comparative it is always `dan`: *groter dan, sneller dan*. Half the Netherlands says *groter als* anyway; you will hear it at every borrel. Understand it, but do not copy it, because exams and clients both notice.\n\nTest sentence, obviously true and grammatically perfect: *Sadza is lekkerder dan aardappelpuree.*",
+      "drill": [
+        { "q": "Vertaal: This report is more interesting than that one.", "a": "Dit rapport is interessanter dan dat. Never 'meer interessant': Dutch adds -er, even to long words." },
+        { "q": "Maak de comparatief: duur, lekker, ver", "a": "duurder, lekkerder, verder: after -r you add -der." },
+        { "q": "Vertaal: Our lab is cheaper than the big labs.", "a": "Ons lab is goedkoper dan de grote labs. Het lab, dus 'ons', not 'onze'." },
+        { "q": "Verbeter: 'Deze methode is meer nauwkeurig als die.'", "a": "Deze methode is nauwkeuriger dan die. Two fixes: -er instead of meer, and dan after a comparative." },
+        { "q": "Vertaal: I'd rather drink tea than coffee.", "a": "Ik drink liever thee dan koffie. graag, liever, liefst." },
+        { "q": "Zet in de goede volgorde: helaas / duurder / deze leverancier / is", "a": "Helaas is deze leverancier duurder. Fronted helaas, so the verb jumps to position two." }
+      ]
+    },
+    {
+      "id": "w12l2",
+      "title": "De superlatief: de/het -ste",
+      "minutes": 7,
+      "body": "One step up: the superlative crowns the winner of the whole group. Before a noun you use `-ste`, with `de` or `het` in front, matching the noun's own article.\n\n### Voor een zelfstandig naamwoord\n- *de snelste methode* (want: de methode), *het beste resultaat* (want: het resultaat)\n- mooi, mooier, `mooiste`; klein, kleiner, kleinste\n- Ends in -s? Just add -t: *de verste melk in de supermarkt* (vers, verser, verst)\n- Onregelmatig: goed, beter, `best`; veel, meer, `meest`; weinig, minder, `minst`; graag, liever, `liefst`\n\n### Na een werkwoord: het + -st\nWhen the superlative comes after a verb instead of before a noun, it is always `het` + -st, whatever the subject is:\n- *Deze incubator werkt `het snelst`.*\n- *Van alle testen is deze `het duurst`.*\n- *Ik ga `het liefst` op vrijdag naar de markt.*\n\n### Op het werk\n- *Wat is de goedkoopste optie?*\n- *Dit is ons belangrijkste project van het jaar.*\n- *Welke leverancier levert het snelst?*\n\nBonus spelling rep, because long words bite: *De `vriendelijkste` collega krijgt de meeste koffie.* Read it aloud, all four syllables before the -ste.",
+      "drill": [
+        { "q": "Vertaal: What is the cheapest option?", "a": "Wat is de goedkoopste optie?" },
+        { "q": "Maak af: Deze methode werkt het ___. (snel)", "a": "snelst. After a verb the superlative is het + -st, without -e." },
+        { "q": "de of het: ___ beste resultaat, ___ snelste test", "a": "het beste resultaat, de snelste test. The article follows the noun: het resultaat, de test." },
+        { "q": "Vertaal: I prefer to go to the market on Saturday. (liefst)", "a": "Ik ga het liefst op zaterdag naar de markt. Days take 'op'." },
+        { "q": "Maak de rij af: goed, beter, ___ en veel, meer, ___", "a": "best en meest." },
+        { "q": "Vertaal: She is the friendliest colleague.", "a": "Zij is de vriendelijkste collega. Spell it slowly: vrien-de-lijk-ste." }
+      ]
+    },
+    {
+      "id": "w12l3",
+      "title": "net zo ... als, even ... als",
+      "minutes": 6,
+      "body": "Sometimes nothing wins: two things are simply equal. Dutch has three tools for that, and every one of them uses `als`, never dan.\n\n### net zo ... als / even ... als\n- *Deze test is `net zo` duur `als` die.*\n- *Het nieuwe kantoor is `even` groot `als` het oude.*\nBoth mean 'just as ... as'. In speech, net zo is the more common one.\n\n### niet zo ... als\nThe polite way to compare downward:\n- *Mijn Nederlands is nog `niet zo` goed `als` mijn Engels. Nog niet.*\n- *De trein is niet zo duur als de auto.*\n\n### hetzelfde als / dezelfde\n'The same as': *Dit resultaat is `hetzelfde als` gisteren.* Before a noun it must match the article: `dezelfde` methode (de methode), maar `hetzelfde` protocol (het protocol).\n\n### De gouden regel van week 12\nEqual takes `als`, unequal takes `dan`:\n- *even goed als*, maar *beter dan*\n- *net zo snel als*, maar *sneller dan*\n\nPractise on this pair: *Rotterdam is niet zo mooi als Amsterdam, maar wel goedkoper dan Amsterdam.* Defend that at a borrel and report back.",
+      "drill": [
+        { "q": "Vertaal: This test is just as expensive as that one.", "a": "Deze test is net zo duur als die." },
+        { "q": "Vertaal: My Dutch is not as good as my English yet.", "a": "Mijn Nederlands is nog niet zo goed als mijn Engels." },
+        { "q": "dezelfde of hetzelfde: ___ methode, ___ resultaat", "a": "dezelfde methode, hetzelfde resultaat. It matches the article: de methode, het resultaat." },
+        { "q": "als of dan: even snel ___ / sneller ___", "a": "even snel als, sneller dan. Equal takes als, unequal takes dan." },
+        { "q": "Vertaal: Harare is just as beautiful as Amsterdam, but warmer.", "a": "Harare is net zo mooi als Amsterdam, maar warmer." },
+        { "q": "Vertaal: The meeting on Tuesday is the same as the meeting on Thursday.", "a": "De vergadering op dinsdag is hetzelfde als de vergadering op donderdag. Days take 'op'." }
+      ]
+    },
+    {
+      "id": "w12l4",
+      "title": "Producten en opties vergelijken",
+      "minutes": 8,
+      "body": "Grammar becomes money the moment you can defend a choice out loud: this supplier, that method, this date. Here is the language of a professional comparison.\n\n### De bouwstenen\n- *`Aan de ene kant` is leverancier A goedkoper. `Aan de andere kant` levert leverancier B sneller.* After that fronted chunk the verb comes immediately: V2, always.\n- *`Het voordeel` van deze methode is dat we minder tijd nodig hebben.*\n- *`Het nadeel` is dat de test duurder is.*\nBoth are het-woorden: het voordeel, het nadeel. And the dat-clause kicks its verb to the end, exactly like your week 7 bijzinnen.\n\n### Een keuze uitleggen\n- *Ik `zou` voor optie B kiezen, omdat die betrouwbaarder is.*\n- *`Daarom` stel ik voor dat we met A beginnen.*\n- *`Wat mij betreft` plannen we het overleg tussen negen en tien.*\n\n### Het mini-script\n*We hebben twee opties. Aan de ene kant is A goedkoper dan B. Aan de andere kant is B net zo betrouwbaar, maar veel sneller. Daarom zou ik voor B kiezen.*\n\nFour sentences, one clear decision, and almost all of this week's grammar in one breath.",
+      "drill": [
+        { "q": "Vertaal: The advantage is that it costs less.", "a": "Het voordeel is dat het minder kost. dat-clause, so the verb goes to the end." },
+        { "q": "Zet in de goede volgorde: aan de andere kant / sneller / levert / leverancier B", "a": "Aan de andere kant levert leverancier B sneller. V2 after the fronted phrase." },
+        { "q": "de of het: ___ voordeel, ___ nadeel, ___ keuze", "a": "het voordeel, het nadeel, de keuze." },
+        { "q": "Vertaal met zou: I would choose option B.", "a": "Ik zou voor optie B kiezen. zou on position two, kiezen at the end." },
+        { "q": "Vertaal: Let's plan the meeting between two and three o'clock.", "a": "Laten we het overleg tussen twee en drie uur plannen. tussen ... en for a time window." },
+        { "q": "Zeg het mini-script hardop met twee echte opties van jouw week.", "a": "Eigen antwoord. Skeleton: aan de ene kant ..., aan de andere kant ..., daarom zou ik ... kiezen." }
+      ]
+    },
+    {
+      "id": "w12l5",
+      "title": "Steeds beter",
+      "minutes": 7,
+      "body": "The best comparison of all: you against you from three months ago. Dutch has two lovely patterns for progress.\n\n### steeds + comparatief\n`steeds` plus a comparative means 'more and more':\n- *Mijn Nederlands wordt `steeds beter`.*\n- *De dagen worden steeds langer.* (true in June, a lie in November)\n- *Het wordt steeds drukker op het werk.*\n\n### hoe ... hoe ...\n'The more, the better' doubles `hoe` with a comparative:\n- *`Hoe langer hoe beter`.*\n- *`Hoe meer` je oefent, `hoe beter` je wordt.*\nBoth halves push the verb to the end, like a bijzin. Handy templates: *hoe eerder, hoe beter* (deadlines), *hoe minder e-mail, hoe beter* (life).\n\n### Over jouw voortgang\n- *Ik versta steeds meer.*\n- *Vergaderingen worden steeds makkelijker.*\n- *Mijn Nederlands is echt `veranderd` sinds januari.* Spelling: veranderd ends in -d, it is a perfectum participle.\n\nTonight, out loud: *Helaas maak ik nog fouten, maar mijn Nederlands wordt steeds beter. Hoe meer ik spreek, hoe sneller het gaat.* Fronted helaas, verb second, two comparatives. That is half the course in two sentences.",
+      "drill": [
+        { "q": "Vertaal: My Dutch is getting better and better.", "a": "Mijn Nederlands wordt steeds beter." },
+        { "q": "Vertaal: The more you practise, the better you become.", "a": "Hoe meer je oefent, hoe beter je wordt. Both halves end with the verb." },
+        { "q": "Zet in de goede volgorde: helaas / nog fouten / ik / maak", "a": "Helaas maak ik nog fouten. Fronted helaas, verb second." },
+        { "q": "Spel het laatste woord: Mijn Nederlands is echt ___ (changed).", "a": "veranderd, with -d: perfectum participle of veranderen." },
+        { "q": "Vertaal: It is getting busier and busier at work.", "a": "Het wordt steeds drukker op het werk." },
+        { "q": "Maak een hoe...hoe-zin over sadza.", "a": "Eigen antwoord, bijvoorbeeld: Hoe vaker ik sadza eet, hoe minder ik Harare mis." }
+      ]
+    }
+  ]
+}

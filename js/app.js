@@ -24,6 +24,13 @@
     refreshVoices();
     speechSynthesis.onvoiceschanged = refreshVoices;
   }
+  // Known male Dutch voice names across Windows/Android/iOS engines
+  const MALE_NL = ['frank', 'xander', 'maarten', 'ruben', 'daan', 'willem'];
+  function pickAutoVoice() {
+    return nlVoices.find(v => MALE_NL.some(n => v.name.toLowerCase().includes(n)))
+      || nlVoices.find(v => (v.lang || '').toLowerCase() === 'nl-nl')
+      || nlVoices[0] || null;
+  }
   function speak(text) {
     if (!('speechSynthesis' in window) || !text) return;
     speechSynthesis.cancel();
@@ -31,7 +38,7 @@
     u.lang = 'nl-NL';
     u.rate = 0.92;
     const wanted = Store.state.settings.voice;
-    u.voice = nlVoices.find(v => v.name === wanted) || nlVoices[0] || null;
+    u.voice = nlVoices.find(v => v.name === wanted) || pickAutoVoice();
     speechSynthesis.speak(u);
   }
 
@@ -68,10 +75,30 @@
     const d = Store.state.days[Store.todayKey()];
     return d ? d.newCards : 0;
   }
+  // Introduce new cards tier by tier (priority), round-robin between decks
+  // that share a tier, so e.g. b1-core and ziqo-pro interleave.
   function newCandidates(limit) {
     const out = [];
-    for (const id of App.newOrder) {
-      if (!Store.state.cards[id]) { out.push(id); if (out.length >= limit) break; }
+    const tiers = {};
+    for (const d of App.decks) {
+      const p = d.priority || 9;
+      (tiers[p] = tiers[p] || []).push(d);
+    }
+    for (const p of Object.keys(tiers).map(Number).sort((a, b) => a - b)) {
+      const pointers = tiers[p].map(d => ({ d, i: 0 }));
+      let moved = true;
+      while (out.length < limit && moved) {
+        moved = false;
+        for (const ptr of pointers) {
+          while (ptr.i < ptr.d.cards.length && Store.state.cards[`${ptr.d.id}:${ptr.i}`]) ptr.i++;
+          if (ptr.i < ptr.d.cards.length && out.length < limit) {
+            out.push(`${ptr.d.id}:${ptr.i}`);
+            ptr.i++;
+            moved = true;
+          }
+        }
+      }
+      if (out.length >= limit) break;
     }
     return out;
   }
@@ -367,7 +394,17 @@
     }));
   }
 
-  /* ---------- shadowing ---------- */
+  /* ---------- shadowing (with optional self-recording) ---------- */
+  const canRecord = !!(navigator.mediaDevices && navigator.mediaDevices.getUserMedia && window.MediaRecorder);
+  let rec = { recorder: null, url: null };
+
+  function stopRecStream() {
+    if (rec.recorder && rec.recorder.state !== 'inactive') rec.recorder.stop();
+    if (rec.recorder) rec.recorder.stream.getTracks().forEach(t => t.stop());
+    if (rec.url) { URL.revokeObjectURL(rec.url); rec.url = null; }
+    rec.recorder = null;
+  }
+
   function renderShadow(i = 0) {
     const s = App.session;
     if (!s.shadowSet) {
@@ -375,32 +412,70 @@
         : App.decks.filter(d => d.mode !== 'cloze').flatMap(d => d.cards.map(c => c[2]).filter(Boolean));
       s.shadowSet = pool.slice(0, 8);
     }
+    stopRecStream();
     if (i >= s.shadowSet.length) return endSegment();
     const sentence = s.shadowSet[i];
     view().innerHTML = `${segmentHeader(s)}
       <div class="flashcard">
         <div class="tag">spreken · zin ${i + 1}/${s.shadowSet.length}</div>
         <div class="front" style="font-size:1.25rem">${esc(sentence)}</div>
-        <p class="muted">Luister, en zeg de zin hardop na. Twee keer. Let op de klanken.</p>
+        <p class="muted">Luister, zeg de zin hardop na. ${canRecord ? 'Neem jezelf op en vergelijk met het voorbeeld.' : 'Twee keer. Let op de klanken.'}</p>
       </div>
       <div class="row" style="margin-top:14px">
-        <button class="btn secondary" id="againBtn">🔊 Nog een keer</button>
+        <button class="btn secondary" id="againBtn">🔊 Voorbeeld</button>
+        ${canRecord ? '<button class="btn secondary" id="recBtn">⏺ Opnemen</button>' : ''}
         <button class="btn" id="nextBtn">Gezegd →</button>
+      </div>
+      <div class="row" style="margin-top:10px" id="playRow" hidden>
+        <button class="btn secondary" id="playBtn">▶ Luister jezelf terug</button>
       </div>`;
     bindStop();
     speak(sentence);
     $('#againBtn').addEventListener('click', () => speak(sentence));
     $('#nextBtn').addEventListener('click', () => renderShadow(i + 1));
+    if (canRecord) {
+      $('#recBtn').addEventListener('click', async () => {
+        const btn = $('#recBtn');
+        if (rec.recorder && rec.recorder.state === 'recording') {
+          rec.recorder.stop();
+          btn.textContent = '⏺ Opnieuw opnemen';
+          return;
+        }
+        try {
+          const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+          const chunks = [];
+          rec.recorder = new MediaRecorder(stream);
+          rec.recorder.ondataavailable = e => chunks.push(e.data);
+          rec.recorder.onstop = () => {
+            if (rec.url) URL.revokeObjectURL(rec.url);
+            rec.url = URL.createObjectURL(new Blob(chunks));
+            stream.getTracks().forEach(t => t.stop());
+            const row = $('#playRow');
+            if (row) row.hidden = false;
+          };
+          rec.recorder.start();
+          btn.textContent = '⏹ Stop';
+        } catch (e) {
+          btn.textContent = '🎙 Geen microfoon';
+          btn.disabled = true;
+        }
+      });
+      $('#playBtn').addEventListener('click', () => {
+        if (rec.url) new Audio(rec.url).play();
+      });
+    }
   }
 
   /* ---------- done ---------- */
   function renderDone() {
+    stopRecStream();
     const s = App.session;
     if (!s) return setTab('home');
     const mins = Math.max(1, Math.round((now() - s.startedAt) / 60000));
     Store.bumpToday('minutes', mins);
     Store.bumpToday('sessions');
     Store.save();
+    Sync.auto();
     App.session = null;
     const week = currentWeek();
     view().innerHTML = `
@@ -433,7 +508,11 @@
           <button class="lesson-list-item" data-id="${l.id}">
             <span class="check">${Store.state.lessonsDone[l.id] ? '✓' : '○'}</span>
             <span>${esc(l.title)}<br><span class="muted">${l.minutes || 7} min</span></span>
-          </button>`).join('')}`).join('')}`;
+          </button>`).join('')}
+        ${(w.listening && w.listening.length) ? `
+          <div class="listening">🎧 Luisterdieet deze week:
+            ${w.listening.map(x => `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a>`).join(' · ')}
+          </div>` : ''}`).join('')}`;
     view().querySelectorAll('.lesson-list-item').forEach(b =>
       b.addEventListener('click', () => renderLessonReader(b.dataset.id)));
   }
@@ -457,6 +536,26 @@
   }
 
   /* ---------- progress tab ---------- */
+  // Honest forecast: measured lesson pace against the 26-week plan (5/week).
+  function forecastText() {
+    const done = Object.keys(Store.state.lessonsDone).length;
+    const total = allLessons().length;
+    if (!Store.state.startDate || done < 3) {
+      return 'Prognose: stevig B1 rond maand 3-4, B2-drempel rond maand 6 als de reeks standhoudt. Na een paar weken meet ik je echte tempo en wordt dit een eerlijke voorspelling.';
+    }
+    const daysIn = Math.max(1, (Date.now() - new Date(Store.state.startDate).getTime()) / 86400000);
+    const pace = done / (daysIn / 7); // lessen per week
+    const remaining = total - done;
+    if (remaining <= 0) return 'Alle lessen gedaan. Nu is het onderhouden en spreken, spreken, spreken.';
+    const weeksLeft = pace > 0.2 ? Math.round(remaining / pace) : null;
+    if (!weeksLeft) return 'Je tempo ligt nu te laag om te voorspellen. Zelfs één les per week houdt de lijn vast.';
+    const months = Math.round(weeksLeft / 4.3 * 10) / 10;
+    const plan = Math.round((total - done) / 5);
+    return `Jouw echte tempo: ${pace.toFixed(1)} les${pace >= 1.05 ? 'sen' : ''} per week. ` +
+      `Bij dit tempo is de B2-stof over ~${months} maand${months >= 1.5 ? 'en' : ''} af ` +
+      `(het plan rekent met ${plan} we${plan === 1 ? 'ek' : 'ken'}). De tweewekelijkse /toets stelt dit bij.`;
+  }
+
   function renderProgress() {
     const days = Store.state.days;
     const labels = [], values = [];
@@ -487,7 +586,7 @@
       <div class="panel">
         <h2>Waar je bent</h2>
         <p>Week ${week ? week.week : 1} van 26 · ${phase}</p>
-        <p class="muted" style="margin-bottom:0">Prognose: stevig B1 rond maand 3-4, B2-drempel rond maand 6 als de reeks standhoudt. De tweewekelijkse <strong>/toets</strong> met Claude stelt dit bij.</p>
+        <p class="muted" style="margin-bottom:0">${forecastText()}</p>
       </div>`;
     updateStreak();
   }
@@ -504,17 +603,26 @@
         <div class="setting"><span>Woorden automatisch uitspreken</span>
           <input type="checkbox" id="setSpeak" ${s.autoSpeak ? 'checked' : ''} style="width:22px;height:22px"></div>
         <div class="setting"><span>Nederlandse stem</span>
-          <select id="setVoice"><option value="">automatisch</option>${nlVoices.map(v =>
+          <select id="setVoice"><option value="">automatisch (mannenstem indien beschikbaar)</option>${nlVoices.map(v =>
             `<option ${v.name === s.voice ? 'selected' : ''}>${esc(v.name)}</option>`).join('')}</select></div>
       </div>
       <div class="panel">
         <h2>Synchroniseren (telefoon ↔ laptop)</h2>
-        <p class="muted">Tot de automatische sync er is: exporteer hier, importeer op het andere apparaat.</p>
-        <div class="row">
-          <button class="btn secondary" id="exportBtn">Exporteer</button>
-          <button class="btn secondary" id="importBtn">Importeer</button>
+        <p class="muted">Automatisch via een privé GitHub-gist. Maak op github.com een <strong>fine-grained token</strong> met alleen <strong>gist</strong>-rechten en plak hem op beide apparaten. Sync gebeurt daarna vanzelf bij openen en na elke sessie.</p>
+        <div class="setting"><span>GitHub-token</span>
+          <input type="password" id="setToken" value="${esc(s.gistToken || '')}" placeholder="github_pat_..." style="max-width:180px"></div>
+        <div class="row" style="margin-top:10px">
+          <button class="btn secondary" id="syncBtn" ${s.gistToken ? '' : 'disabled'}>Sync nu</button>
         </div>
-        <textarea class="io" id="ioBox" hidden placeholder="Plak hier je export en klik nog een keer op Importeer"></textarea>
+        <p class="muted" id="syncStatus">${s.lastSync ? 'Laatste sync: ' + new Date(s.lastSync).toLocaleString('nl-NL') : 'Nog nooit gesynchroniseerd.'}</p>
+        <details>
+          <summary class="muted">Handmatig (export/import)</summary>
+          <div class="row" style="margin-top:10px">
+            <button class="btn secondary" id="exportBtn">Exporteer</button>
+            <button class="btn secondary" id="importBtn">Importeer</button>
+          </div>
+          <textarea class="io" id="ioBox" hidden placeholder="Plak hier je export en klik nog een keer op Importeer"></textarea>
+        </details>
       </div>
       <div class="panel">
         <h2>Luisteren &amp; lezen (gratis)</h2>
@@ -537,6 +645,22 @@
       </div>
       <p class="muted center">Leraar · gemaakt voor jou · <a href="https://github.com/Gudzuh/Leraar" target="_blank" rel="noopener">broncode</a></p>`;
 
+    $('#setToken').addEventListener('change', e => {
+      s.gistToken = e.target.value.trim();
+      Store.save();
+      $('#syncBtn').disabled = !s.gistToken;
+    });
+    $('#syncBtn').addEventListener('click', async () => {
+      const st = $('#syncStatus');
+      st.textContent = 'Synchroniseren...';
+      try {
+        await Sync.sync();
+        st.textContent = 'Gelukt ✓ · ' + new Date().toLocaleString('nl-NL');
+        updateStreak();
+      } catch (e) {
+        st.textContent = 'Mislukt: ' + e.message;
+      }
+    });
     $('#setNew').addEventListener('change', e => { s.newPerDay = +e.target.value; Store.save(); });
     $('#setSpeak').addEventListener('change', e => { s.autoSpeak = e.target.checked; Store.save(); });
     $('#setVoice').addEventListener('change', e => { s.voice = e.target.value; Store.save(); });
@@ -574,7 +698,11 @@
     }));
 
   Store.load();
-  loadData().then(() => setTab('home')).catch(err => {
+  loadData().then(() => {
+    setTab('home');
+    // pull the other device's progress in the background, then refresh
+    Sync.auto().then(changed => { if (changed && App.tab === 'home' && !App.session) renderHome(); });
+  }).catch(err => {
     view().innerHTML = `<div class="panel"><h2>Kon de lesdata niet laden</h2>
       <p class="muted">${esc(err.message)}. Controleer je verbinding en vernieuw de pagina.</p></div>`;
   });
