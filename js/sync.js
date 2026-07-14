@@ -61,10 +61,27 @@ const Sync = (() => {
     return (await resp.json()).id;
   }
 
+  /* Find this account's existing Leraar gist by filename, so a second device
+   * using the same token joins the first device's gist instead of making a
+   * new one. Returns the gist id, or null if none exists yet. */
+  async function findExistingGist() {
+    const resp = await fetch(API + '/gists?per_page=100', { headers: headers() });
+    if (!resp.ok) throw new Error('gists ophalen mislukt (' + resp.status + ')');
+    const gists = await resp.json();
+    const match = gists.find(g => g.files && g.files[FILENAME]);
+    return match ? match.id : null;
+  }
+
   /* Full sync: pull remote, merge, save locally, push merged back. */
   async function sync() {
     const s = cfg();
     if (!s.gistToken) throw new Error('geen token ingesteld');
+
+    // First sync on a device: adopt an existing Leraar gist if one exists.
+    if (!s.gistId) {
+      s.gistId = await findExistingGist() || '';
+      if (s.gistId) Store.save();
+    }
 
     let remoteState = null;
     if (s.gistId) {
