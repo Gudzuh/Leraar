@@ -1,0 +1,81 @@
+{
+  "week": 23,
+  "theme": "Onderhandelen",
+  "mission": "Onderhandel deze week één keer echt in het Nederlands over iets kleins: een deadline met een klant, de prijs op de markt, of wie er vanavond afwast. Gebruik minstens één keer 'wat ik wel kan doen, is ...' en bevestig het resultaat daarna kort per mail of bericht.",
+  "listening": [
+    { "title": "Zoek op npo.nl een zakelijk fragment (bijvoorbeeld over ondernemers) en schrijf drie zinnen op waarmee iemand onderhandelt of beleefd terugduwt", "url": "https://www.npo.nl" },
+    { "title": "Lees op nos.nl twee economieberichten hardop en onderstreep elke als-dan-zin en elk woord over geld: het tarief, de marge, de korting", "url": "https://nos.nl" }
+  ],
+  "lessons": [
+    {
+      "id": "w23l1",
+      "title": "De opening: wat heeft u nodig?",
+      "minutes": 7,
+      "body": "Negotiation week. In the Netherlands deals are direct but rarely rushed: the opening is for listening, not for bidding. Your first job is to find the interest behind the position.\n\n### Positie versus belang\nA position is what someone demands; an interest is why they demand it. *Ik wil twintig procent korting* is de positie. *Ik moet binnen het budget blijven* is het belang. Negotiate the belang and both sides keep face.\n\n### De verkenningszinnen\n- *Wat heeft u precies nodig, en voor wanneer?*\n- *Waar zit voor u de ruimte: in de prijs of in de planning?*\n- *Wat is voor u het belangrijkst?*\n- *Laten we eerst rustig verkennen wat er mogelijk is.*\n- *Als ik het goed begrijp, is de deadline belangrijker dan het tarief.*\nThat last one is your summary weapon: the als-bijzin fills position 1, so the verb follows straight after.\n\n### Eerst luisteren, dan bieden\n*Voordat we over het tarief praten, wil ik graag begrijpen wat u zoekt.* Week 7 word order, now earning money.\n\n### Waarom dit werkt\nWhoever asks the questions steers the meeting. A client who feels heard says yes faster, in Harare and in a Dutch boardroom alike.",
+      "drill": [
+        { "q": "Vertaal: What exactly do you need, and by when?", "a": "Wat heeft u precies nodig, en voor wanneer?" },
+        { "q": "Vraag waar de ruimte zit: de prijs of de planning?", "a": "Waar zit voor u de ruimte: in de prijs of in de planning?" },
+        { "q": "De klant zegt: 'Ik wil de resultaten al op woensdag.' Vat het belang samen met 'als ik het goed begrijp'.", "a": "Als ik het goed begrijp, is snelheid voor u het belangrijkst. De bijzin is positie 1, dus daarna inversie." },
+        { "q": "Wat is er fout: 'Voordat we over de prijs praten, ik wil eerst goed luisteren.'", "a": "Voordat we over de prijs praten, wil ik eerst goed luisteren. De voordat-bijzin telt als positie 1, dus het werkwoord komt direct daarna." },
+        { "q": "Vertaal met zou: I would like to understand what is most important to you.", "a": "Ik zou graag willen begrijpen wat voor u het belangrijkst is. Zou verzacht, en in de wat-bijzin staat het werkwoord achteraan." },
+        { "q": "De klant eist: 'Ik wil twintig procent korting.' Vraag naar het belang erachter.", "a": "Mag ik vragen waarom de prijs zo belangrijk voor u is? Werkt u met een vast budget? De eis is de positie, de reden is het belang." }
+      ]
+    },
+    {
+      "id": "w23l2",
+      "title": "Voorwaarden en voorstellen: als u ..., dan kunnen wij ...",
+      "minutes": 7,
+      "body": "Now you make offers, but always with strings attached. A B2 negotiator never gives something for nothing.\n\n### als ... dan: de ruilmotor\nThe als-clause is a bijzin, verb at the end. Then `dan` plus inversion, or drop dan and invert anyway:\n- *Als u drie analyses per maand afneemt, dan kunnen wij tien procent korting geven.*\n- *Als u binnen veertien dagen betaalt, houden wij het tarief gelijk.*\nNever *Als u meer bestelt, wij geven korting*: the whole als-clause counts as position 1.\n\n### in ruil voor: het naamwoord\nLike ondanks in week 20, `in ruil voor` takes a noun with its article, not a clause:\n- *In ruil voor een langere looptijd bieden wij een lager tarief.*\n\n### onder voorbehoud van: de nooduitgang\nThis phrase stops a proposal from becoming a promise too early:\n- *Dit aanbod is onder voorbehoud van de beschikbaarheid van het lab.*\n- *Akkoord, onder voorbehoud van goedkeuring door mijn compagnon.*\n\n### Zacht aanbieden met zou\nWeek 17 pays off. A zou-question invites, a bare demand corners:\n- *Zou u akkoord gaan als wij de levering naar vrijdag verplaatsen?*\n- *Wij zouden kunnen schuiven met de planning, als u iets flexibeler bent met de prijs.*",
+      "drill": [
+        { "q": "Combineer met als ... dan: u tekent voor een jaar / wij houden het tarief gelijk", "a": "Als u voor een jaar tekent, dan houden wij het tarief gelijk. Werkwoord achteraan in de als-zin, daarna inversie." },
+        { "q": "Vertaal: In exchange for a longer term, we offer a lower rate.", "a": "In ruil voor een langere looptijd bieden wij een lager tarief. V2 na de vooropgeplaatste woordgroep." },
+        { "q": "Maak het aanbod veilig met onder voorbehoud van: Wij leveren op vrijdag.", "a": "Wij leveren op vrijdag, onder voorbehoud van de beschikbaarheid van het lab." },
+        { "q": "Wat is er fout: 'Als u meer bestelt, wij geven korting.'", "a": "Als u meer bestelt, geven wij korting. De hele als-zin telt als positie 1, dus daarna komt het werkwoord." },
+        { "q": "Vraag het zacht met zou: gaat u akkoord als wij op maandag leveren?", "a": "Zou u akkoord gaan als wij op maandag leveren?" },
+        { "q": "Vertaal: If you pay within fourteen days, we can give two percent discount.", "a": "Als u binnen veertien dagen betaalt, kunnen wij twee procent korting geven." }
+      ]
+    },
+    {
+      "id": "w23l3",
+      "title": "Beleefd terugduwen: dat wordt lastig",
+      "minutes": 7,
+      "body": "Dutch directness has a polite gear, and negotiation is where you shift into it. Saying no without wrecking the relationship is a three-step dance.\n\n### Stap 1: de zachte nee\n- *Dat wordt lastig.* (official translation: no)\n- *Daar kan ik niet in meegaan.*\n- *Dat ligt buiten onze mogelijkheden.*\n- *Helaas kan ik u daar niet in tegemoetkomen.*\nFronted `helaas`, verb straight after. Your old V2 enemy is now your formal friend.\n\n### Stap 2: de positieve tegenzet\nNever park at no. Follow immediately with what you CAN do:\n- *Wat ik wel kan doen, is de rapportage versnellen.*\n- *Wat wij wel kunnen aanbieden, is korting op de tweede opdracht.*\nGrammar check: the wat-clause is a bijzin, so its verbs go to the end (`kan doen`), then `is` introduces your offer.\n\n### Stap 3: terug naar het belang\n*Ik begrijp dat de prijs belangrijk voor u is. Laten we kijken waar de ruimte wel zit.*\n\n### De toon\nA flat *nee* ends the game; *dat wordt lastig* keeps the ball rolling. Sellers at Mbare market know this trick too: refuse warmly, then offer something small.",
+      "drill": [
+        { "q": "De klant vraagt dertig procent korting. Duw beleefd terug en doe een tegenzet.", "a": "Dat wordt lastig. Wat ik wel kan doen, is vijf procent korting geven op de eerste opdracht." },
+        { "q": "Vertaal: Unfortunately I cannot go along with that.", "a": "Helaas kan ik daar niet in meegaan. Na 'helaas' komt direct het werkwoord: V2." },
+        { "q": "Wat is er fout: 'Helaas ik kan de deadline niet verplaatsen.'", "a": "Helaas kan ik de deadline niet verplaatsen. 'Helaas' vult positie 1, dus daarna inversie." },
+        { "q": "Maandag lukt niet, woensdag wel. Zeg het met de positieve tegenzet.", "a": "Maandag wordt lastig. Wat ik wel kan doen, is op woensdag leveren. Let op het voorzetsel: op woensdag." },
+        { "q": "Zet in de goede volgorde: kunnen / wij / wat / aanbieden / wel + is korting op de tweede opdracht", "a": "Wat wij wel kunnen aanbieden, is korting op de tweede opdracht. In de wat-bijzin staan de werkwoorden achteraan." },
+        { "q": "Maak deze botte zin zachter met zou: 'Nee, dat doen we niet.'", "a": "Dat zou voor ons lastig worden. Wat ik wel zou kunnen doen, is een andere planning voorstellen." }
+      ]
+    },
+    {
+      "id": "w23l4",
+      "title": "Prijs en korting: daar zit weinig rek in",
+      "minutes": 7,
+      "body": "Money time. First the vocabulary with its articles, because *de tarief* in a price conversation costs you exactly the credibility you came to earn.\n\n| het woord | de voorbeeldzin |\n| het tarief | Ons tarief ligt op 95 euro per monster. |\n| de marge | De marge op deze analyse is klein. |\n| de korting | Bij tien monsters geven wij korting. |\n| het budget | Ons budget is dit kwartaal beperkt. |\n| de offerte | Ik stuur u de offerte op maandag. |\n\n### De rek: het onderhandelwoord\n`De rek` is the stretch in your price:\n- *Daar zit weinig rek in.* (polite for: my price is nearly fixed)\n- *In de planning zit meer rek dan in het tarief.*\n\n### Naar het midden\n- *Kunnen we elkaar in het midden vinden?*\n- *U zegt 80, ik zeg 95. Zullen we elkaar in het midden vinden?*\n\n### Volume in plaats van korting\nProtect de marge by trading price for volume:\n- *Als u tien monsters per maand instuurt, daalt het tarief per monster.*\nA discount is gone forever; a bigger order keeps both the client and de marge happy.",
+      "drill": [
+        { "q": "De of het: ___ tarief, ___ marge, ___ korting, ___ budget", "a": "het tarief, de marge, de korting, het budget." },
+        { "q": "Vertaal (over je prijs): There is little flexibility in that.", "a": "Daar zit weinig rek in." },
+        { "q": "De klant biedt 80 euro, jij vraagt 95. Stel het midden voor.", "a": "Zullen we elkaar in het midden vinden? Dan komen we uit rond de 88 euro." },
+        { "q": "Vertaal: If you send in ten samples per month, the rate per sample drops.", "a": "Als u tien monsters per maand instuurt, daalt het tarief per monster." },
+        { "q": "Wat is er fout: 'De tarief is helaas veranderd.'", "a": "Het tarief is helaas veranderd. En let op de spelling: veranderd, met een d." },
+        { "q": "Bescherm de marge: bied volume aan in plaats van korting.", "a": "In het tarief zit weinig rek, maar als u meer monsters instuurt, daalt de prijs per monster." }
+      ]
+    },
+    {
+      "id": "w23l5",
+      "title": "Afronden en vastleggen: dus we spreken af dat ...",
+      "minutes": 8,
+      "body": "A deal that lives only in the air is not a deal. Dutch business culture runs on the confirmation email: friendly at the table, precise in writing.\n\n### Samenvatten aan tafel\nClose the conversation by replaying the agreement. `dat` opens a bijzin, so the verbs move to the end:\n- *Dus we spreken af dat wij de monsters op maandag ontvangen en dat u binnen veertien dagen betaalt.*\n- *Zal ik het even samenvatten, zodat we het allebei hetzelfde onthouden?*\nThen announce the paper trail: *Ik bevestig het vandaag nog per mail.*\n\n### De bevestigingsmail\n- *Beste mevrouw De Vries,*\n- *Zoals vanmiddag besproken bevestig ik hierbij onze afspraken.*\n- *Wij leveren de resultaten op vrijdag 24 juli om 12.00 uur.*\n- *Het tarief is 88 euro per monster, onder voorbehoud van goedkeuring door uw inkoopafdeling.*\n- *Met vriendelijke groet,*\nNote the machinery: the fronted zoals-part triggers inversion, `op` takes the day, `om` takes the clock.\n\n### Waarom dit goud is\nThe mail is your memory and your mini-contract. If the client remembers 80 and you wrote 88, the mail wins the argument, vriendelijk maar onverbiddelijk.",
+      "drill": [
+        { "q": "Vat samen met 'dus we spreken af dat': monsters op maandag / betaling binnen veertien dagen", "a": "Dus we spreken af dat wij de monsters op maandag ontvangen en dat u binnen veertien dagen betaalt. Werkwoorden achteraan in de dat-zinnen." },
+        { "q": "Wat is er fout: 'We spreken af dat u betaalt binnen veertien dagen.'", "a": "We spreken af dat u binnen veertien dagen betaalt. In de bijzin staat het werkwoord achteraan." },
+        { "q": "Vertaal: I will confirm it by email today.", "a": "Ik bevestig het vandaag nog per mail." },
+        { "q": "Op of om: De resultaten zijn klaar ___ vrijdag 24 juli ___ 12.00 uur.", "a": "op vrijdag 24 juli om 12.00 uur. Op voor de dag, om voor de klok." },
+        { "q": "Schrijf de eerste zin van de bevestigingsmail, met 'zoals besproken'.", "a": "Zoals vanmiddag besproken bevestig ik hierbij onze afspraken. Na het vooropgeplaatste zoals-deel volgt inversie." },
+        { "q": "Schrijf de afsluiting van de mail. Let op de spelling.", "a": "Met vriendelijke groet, en dan je naam. Spelling: vriendelijke, met -lijke." }
+      ]
+    }
+  ]
+}

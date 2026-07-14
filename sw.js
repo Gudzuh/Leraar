@@ -1,6 +1,6 @@
 /* Leraar service worker: stale-while-revalidate for everything same-origin.
  * Bump VERSION whenever content or code changes, so old caches get cleaned up. */
-const VERSION = 'leraar-v3';
+const VERSION = 'leraar-v4';
 
 const SHELL = [
   './',
@@ -18,14 +18,19 @@ const SHELL = [
   'data/decks/phrases.json',
   'data/decks/grammar-w1-4.json',
   'data/decks/mistakes.json',
+  'data/decks/b1-core.json',
+  'data/decks/ziqo-pro.json',
+  'data/decks/b2-bridge.json',
   'data/lessons/index.json',
   'data/lessons/week01.json',
   'data/lessons/week02.json',
   'data/lessons/week03.json',
   'data/lessons/week04.json',
   'data/lessons/week05.json',
+  'data/lessons/week06.json',
   'data/lessons/week07.json',
   'data/lessons/week08.json',
+  'data/lessons/week09.json',
   'data/lessons/week10.json',
   'data/lessons/week11.json',
   'data/lessons/week12.json',
@@ -34,8 +39,15 @@ const SHELL = [
   'data/lessons/week15.json',
   'data/lessons/week16.json',
   'data/lessons/week17.json',
+  'data/lessons/week18.json',
   'data/lessons/week19.json',
-  'data/lessons/week20.json'
+  'data/lessons/week20.json',
+  'data/lessons/week21.json',
+  'data/lessons/week22.json',
+  'data/lessons/week23.json',
+  'data/lessons/week24.json',
+  'data/lessons/week25.json',
+  'data/lessons/week26.json'
 ];
 
 self.addEventListener('install', e => {

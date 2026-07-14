@@ -1,0 +1,81 @@
+{
+  "week": 25,
+  "theme": "Overtuigen en vertellen",
+  "mission": "Geef deze week je ZiQo-pitch van negentig seconden in het Nederlands aan één echte luisteraar: een collega, een klant of iemand op de borrel. Vraag daarna om één concreet verbeterpunt en schrijf dat op.",
+  "listening": [
+    { "title": "Zoek op npo.nl een Nederlandse TED-achtige talk en noteer hoe de spreker opent, pauzeert en afsluit", "url": "https://www.npo.nl" },
+    { "title": "Een Beetje Nederlands: kies een aflevering en schrijf twee beelden of vergelijkingen op die Robin gebruikt", "url": "https://www.eenbeetjenederlands.nl" }
+  ],
+  "lessons": [
+    {
+      "id": "w25l1",
+      "title": "Het verhaal als wapen",
+      "minutes": 7,
+      "body": "Nobody remembers your third bullet point. Everyone remembers the story about the batch that almost shipped. This week you stop presenting and start persuading, and in a Dutch room that means one thing: `het verhaal`.\n\n### De vier stappen\n| de stap | de tijd | het voorbeeld |\n| de situatie | imperfectum | Vorig jaar werkte ik met een klant die pindakaas naar Europa wilde exporteren. |\n| de spanning | imperfectum of passief | Helaas werd er aflatoxine in het monster gevonden. |\n| de oplossing | perfectum | Wij hebben de partij opnieuw getest en het probleem gevonden. |\n| de les | presens | Daarom testen wij elke partij voordat die het lab verlaat. |\n\n### Waarom een verhaal wint\nA bullet point asks the listener to believe you. A story lets them watch you solve the problem, so the conclusion feels like their own idea. That is what persuasion is.\n\n### De grammatica is het decor\nLook at the engine room: `die` opens a bijzin (week 7), the passief hides the guilty party (week 13), and `helaas` on position 1 forces inversion. Your old grammar just became stagecraft.\n\nRead the four example sentences aloud until they run without thinking. Congratulations: that is a complete anecdote of thirty seconds.",
+      "drill": [
+        { "q": "Vertaal: Last year I worked with a client who wanted to export peanut butter to Europe.", "a": "Vorig jaar werkte ik met een klant die pindakaas naar Europa wilde exporteren. Bijzin met die: het werkwoord achteraan." },
+        { "q": "Wat is er fout: 'Helaas het monster was besmet.'", "a": "Helaas was het monster besmet. Na helaas op positie 1 komt het werkwoord direct: V2." },
+        { "q": "Zet in het passief: Wij vonden aflatoxine in het monster.", "a": "Er werd aflatoxine in het monster gevonden. Het passief verbergt wie het deed, handig in een spannend verhaal." },
+        { "q": "Geef de vier stappen van een anekdote in de juiste volgorde.", "a": "de situatie, de spanning, de oplossing, de les." },
+        { "q": "Vertaal de les-stap: That is why we test every batch before it leaves the lab.", "a": "Daarom testen wij elke partij voordat die het lab verlaat. Voordat stuurt het werkwoord naar achteren." },
+        { "q": "Vertel in drie zinnen een minianekdote over sadza: de situatie, de spanning, de oplossing.", "a": "bijvoorbeeld: Vorige week kookte ik sadza voor mijn collega's. Helaas was het meel bijna op. Gelukkig heb ik bij de toko nieuw meel gevonden." }
+      ]
+    },
+    {
+      "id": "w25l2",
+      "title": "De metafoor en het beeld",
+      "minutes": 7,
+      "body": "Numbers inform; images persuade. Give a Dutch listener one strong `beeld` and they will repeat it at the coffee machine tomorrow. That repeat is free marketing.\n\n### De drie sleutelzinnen\n- `Zie het als ...` plus a noun: *Zie het als een APK-keuring voor uw product.*\n- `Het is net als ...`: *Een audit is net als een rijexamen: goede voorbereiding wint.*\n- `Stel je voor dat ...` opens a bijzin, so the verb walks to the end: *Stel je voor dat uw hele oogst wordt afgekeurd.* A passief inside an image (week 13): twice the drama.\n\n### Bouw het beeld uit iets bekends\nPick something your listener knows physically: *Ons lab is de rookmelder van de voedselketen: u hoopt dat hij nooit afgaat.*\n\n### Of iets van thuis\nA foreign image works if it explains itself in one clause: *Kwaliteitscontrole is net als sadza koken: de basis lijkt simpel, maar iedereen proeft het verschil.* Your Harare childhood is presentation material now.\n\n### De regels\n- One image per pitch; two images fight each other and both lose.\n- Keep it concrete: things you can see, smell or drop.\n- Test it aloud. If you have to explain the explanation, kill the image.",
+      "drill": [
+        { "q": "Vertaal: See it as an APK inspection for your product.", "a": "Zie het als een APK-keuring voor uw product." },
+        { "q": "Maak af met een eigen beeld: Een audit is net als ...", "a": "bijvoorbeeld: Een audit is net als een rijexamen: goede voorbereiding wint." },
+        { "q": "Vertaal: Imagine that your whole harvest is rejected.", "a": "Stel je voor dat uw hele oogst wordt afgekeurd. Dat-bijzin: het werkwoord achteraan, en het passief erbij." },
+        { "q": "Wat is er fout: 'Ons lab is het rookmelder van de voedselketen.'", "a": "de rookmelder. Woorden op -er voor een ding of persoon zijn bijna altijd de-woorden." },
+        { "q": "Bouw een beeld met sadza voor kwaliteitscontrole.", "a": "bijvoorbeeld: Kwaliteitscontrole is net als sadza koken: de basis lijkt simpel, maar iedereen proeft het verschil." },
+        { "q": "Antwoord in het Nederlands: hoeveel beelden gebruik je per pitch, en waarom?", "a": "Eén beeld: twee beelden vechten om de aandacht en de luisteraar onthoudt er geen van beide." }
+      ]
+    },
+    {
+      "id": "w25l3",
+      "title": "De retorische vraag en de pauze",
+      "minutes": 7,
+      "body": "A rhetorical question is a trap you set with love: the listener answers it in their head, and now they are inside your story.\n\n### De vier vragen die altijd werken\n- `En wat bleek?` after the tension step: *En wat bleek? De partij was besmet.*\n- `Waarom vertel ik u dit?` right before the lesson; it wakes up the back row.\n- `Wat betekent dat voor u?` turns your fact into their problem.\n- `Zou dat ook bij u kunnen gebeuren?` the soft variant with zou (week 17) for careful rooms.\n\n### De pauze\nAfter the question: silence. Count two seconds in your head, *eenentwintig, tweeëntwintig*. Dutch rooms respect silence; filling it with *uhm* costs authority. The pause is not empty, it is the question doing its work.\n\n### Het ritme daarna\nThe answer often starts with a fronted adverb, and then V2 strikes: *En wat bleek? Helaas was het monster te oud.* Question, pause, adverb, inversion. That rhythm is the sound of a speaker in control.\n\n### Doseren\nTwo rhetorical questions per pitch, maximum. Ten questions is an interrogation, not a presentation.",
+      "drill": [
+        { "q": "Vertaal: And what turned out? The batch was contaminated.", "a": "En wat bleek? De partij was besmet. Bleek is het imperfectum van blijken." },
+        { "q": "Maak de vraag zachter met zou: Kan dat ook bij u gebeuren?", "a": "Zou dat ook bij u kunnen gebeuren? Zou plus kunnen maakt de vraag voorzichtiger en beleefder." },
+        { "q": "Antwoord in het Nederlands: wat doe je direct na een retorische vraag?", "a": "Ik wacht twee seconden en geef dan pas het antwoord. De stilte doet het werk." },
+        { "q": "Maak af met inversie: En wat bleek? Helaas ...", "a": "bijvoorbeeld: Helaas was het monster te oud. Na helaas komt het werkwoord direct." },
+        { "q": "Vertaal: Why am I telling you this? Because every batch counts.", "a": "Waarom vertel ik u dit? Omdat elke partij telt. Omdat-bijzin: het werkwoord achteraan." },
+        { "q": "Wat is er fout: 'Wat betekent dat voor u? Morgen u kunt de uitslag lezen.'", "a": "Morgen kunt u de uitslag lezen. Na morgen op positie 1 volgt inversie." }
+      ]
+    },
+    {
+      "id": "w25l4",
+      "title": "Onder vuur: kritische vragen pareren",
+      "minutes": 8,
+      "body": "In the Netherlands a hard question is not an insult; it is a serious form of interest. Your job under fire: stay warm, stay precise, slow down.\n\n### De vaste reflexen\n| de aanval | jouw reactie |\n| een mening verkleed als feit | Dat is een aanname, geen feit. Laten we bij de feiten blijven. |\n| een vage kritiek | Kunt u daar een concreet voorbeeld van geven? |\n| iets wat je niet weet | Goede vraag. Dat zoek ik na de meeting voor u uit. |\n| een terecht punt | Daar heeft u gelijk. Dat nemen wij mee. |\n\n### Warm blijven\nAgree with something real first, then correct: *Ik begrijp uw zorg. Toch kloppen de cijfers: het rapport is twee keer gecontroleerd.* Never say *u begrijpt het niet*; say *misschien heb ik het niet duidelijk uitgelegd*. Same facts, opposite temperature.\n\n### De zou-schilden (week 17)\n- *Zou u die vraag kunnen toelichten?*\n- *Ik zou eerst de data willen zien voordat ik daarop antwoord.*\n\n### De toon\nSpeed sounds like panic; calm sounds like evidence. When attacked, drop your tempo by a third and finish every sentence. The room notices who stays friendly, vooral als het spannend wordt.",
+      "drill": [
+        { "q": "Een klant zegt: 'Jullie zijn vast duurder dan een groot lab.' Pareer met aanname en feiten.", "a": "Dat is een aanname, geen feit. Laten we bij de feiten blijven: hier is onze prijslijst." },
+        { "q": "Vertaal: I understand your concern, but the report was checked twice.", "a": "Ik begrijp uw zorg, maar het rapport is twee keer gecontroleerd. Passief in het perfectum: is plus gecontroleerd." },
+        { "q": "Herschrijf warm en vriendelijk: 'U begrijpt het niet.'", "a": "Misschien heb ik het niet duidelijk uitgelegd. Dezelfde boodschap, maar jij neemt de verantwoordelijkheid." },
+        { "q": "Vraag met zou om toelichting.", "a": "Zou u die vraag kunnen toelichten? Zou plus kunnen maakt het verzoek beleefd." },
+        { "q": "Je weet het antwoord niet. Wat zeg je?", "a": "Goede vraag. Dat zoek ik na de meeting voor u uit. Eerlijkheid wint meer vertrouwen dan bluf." },
+        { "q": "Vertaal: Let's stick to the facts.", "a": "Laten we bij de feiten blijven." }
+      ]
+    },
+    {
+      "id": "w25l5",
+      "title": "De ZiQo-pitch in negentig seconden",
+      "minutes": 8,
+      "body": "Everything from this week collapses into ninety seconds. That is roughly 120 spoken words: short enough to drill, long enough to persuade.\n\n### Het skelet\n- **De opening, een retorische vraag:** *Wist u dat veel goede voedselproducten Europa nooit halen, niet omdat ze onveilig zijn, maar omdat het bewijs ontbreekt?* Then: de pauze.\n- **Het verhaal (les 1):** one thirty-second anecdote with de situatie, de spanning, de oplossing.\n- **Het beeld (les 2):** *Zie ZiQo als de brug tussen de producent in Harare en het schap in Rotterdam.*\n- **Het bewijs:** *Wij doen contractonderzoek en laboratoriumanalyses voor voedselproducenten die willen exporteren.*\n- **De vraag (week 17):** *Zou u volgende week tijd hebben voor een kop koffie?*\n\n### Het drilschema\n- Write it out `op maandag`, trim it `op dinsdag`: cut every word you cannot say in one breath.\n- Record it on your phone `op woensdag om acht uur` and time it honestly.\n- `Op donderdag` no paper; `op vrijdag` the mission: a real listener.\n\n### De laatste controle\nSweep for your classics: every noun with its article, inversion after every fronted adverb, the verb at the end of every bijzin. Ninety smooth seconds beat five brilliant minutes.",
+      "drill": [
+        { "q": "Vertaal de opening: Did you know that many good food products never reach Europe?", "a": "Wist u dat veel goede voedselproducten Europa nooit halen? Dat-bijzin: het werkwoord achteraan." },
+        { "q": "Geef het beeld: ZiQo als brug.", "a": "Zie ZiQo als de brug tussen de producent in Harare en het schap in Rotterdam." },
+        { "q": "Vertaal: We do contract research and laboratory analyses for food producers who want to export.", "a": "Wij doen contractonderzoek en laboratoriumanalyses voor voedselproducenten die willen exporteren." },
+        { "q": "Sluit af met een zou-vraag om een afspraak.", "a": "Zou u volgende week tijd hebben voor een kop koffie?" },
+        { "q": "Wanneer oefen je de opname? Antwoord met op en om.", "a": "Op woensdag om acht uur neem ik de pitch op. Op voor de dag, om voor de klok, en inversie na de tijdsbepaling." },
+        { "q": "Zeg de hele pitch hardop en klok de tijd. Hoeveel seconden mag hij duren?", "a": "Negentig seconden. Langer is geen pitch meer, dat is een presentatie." }
+      ]
+    }
+  ]
+}

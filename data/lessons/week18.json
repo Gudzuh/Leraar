@@ -1,0 +1,177 @@
+{
+  "week": 18,
+  "theme": "Presenteren",
+  "mission": "Presenteer deze week één resultaat of één dia in het Nederlands aan minstens één persoon, bijvoorbeeld een collega of een klant. Gebruik ten eerste, daarnaast en kortom, en sluit af met: heeft u nog vragen?",
+  "listening": [
+    {
+      "title": "Kijk op npo.nl één fragment van een college of lezing (10 minuten) en noteer drie signaalwoorden die de spreker gebruikt.",
+      "url": "https://www.npo.nl"
+    },
+    {
+      "title": "Lees op nos.nl één artikel met cijfers hardop voor en zeg de percentages en breuken in het Nederlands.",
+      "url": "https://nos.nl"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "w18l1",
+      "title": "De opening",
+      "minutes": 7,
+      "body": "### The first thirty seconds\nA Dutch audience decides fast. Your opening does three jobs: who you are, what you will tell them, and why they should care.\n\n- `Goedemorgen, vandaag vertel ik u over de resultaten van de aflatoxine-analyse.`\n- `Ik neem u mee in het onderzoek dat wij vorige maand hebben uitgevoerd.` (perfectum from week 3, still working hard)\n- `Waarom doet dit onderwerp ertoe? Omdat een fout in voedselveiligheid geld en vertrouwen kost.`\n\nNote the word order: `vandaag vertel ik u` puts the verb second after the fronted adverb. Say `vandaag ik vertel` and a Dutch listener hears a beginner. You know this rule; presentations are where it must become automatic.\n\n### Formal but human\nUse `u` for clients and mixed groups. `Ertoe doen` means to matter: `het onderwerp doet ertoe`, `de details doen ertoe`.\n\nA warm opener also works: `Fijn dat u er bent.` Imagine opening a talk in Harare: same move, different language. Confidence first, grammar second, but this week we want both.",
+      "drill": [
+        {
+          "q": "Translate: Today I will tell you about the results.",
+          "a": "Vandaag vertel ik u over de resultaten. (V2: the verb stays second after `vandaag`.)"
+        },
+        {
+          "q": "Reorder into a correct sentence: ik / u / neem / in / mee / het onderzoek",
+          "a": "Ik neem u mee in het onderzoek."
+        },
+        {
+          "q": "Complete: Waarom ___ dit onderwerp ertoe? (doen)",
+          "a": "Waarom doet dit onderwerp ertoe? (Third person singular: doet.)"
+        },
+        {
+          "q": "Translate: Unfortunately, the client is not here today.",
+          "a": "Helaas is de klant er vandaag niet. (After `helaas` the verb comes immediately; `niet` because there is a specific known client.)"
+        },
+        {
+          "q": "De of het: ___ onderwerp, ___ opening, ___ onderzoek?",
+          "a": "Het onderwerp, de opening, het onderzoek."
+        },
+        {
+          "q": "Open a talk about your lab in one Dutch sentence, starting with `Vandaag`.",
+          "a": "Voorbeeld: Vandaag vertel ik u over ons laboratorium en onze eerste analyses."
+        }
+      ]
+    },
+    {
+      "id": "w18l2",
+      "title": "Structuurwoorden",
+      "minutes": 7,
+      "body": "### The skeleton of every Dutch talk\nSignal words tell the listener where you are. Without them, a presentation is sadza without relish: filling, but hard to get through.\n\n|Signaalwoord|Function|Example|\n|`ten eerste`|first point|`Ten eerste bespreek ik de methode.`|\n|`daarnaast`|adds a point|`Daarnaast hebben wij de kosten bekeken.`|\n|`vervolgens`|next step|`Vervolgens testen wij het monster.`|\n|`ten slotte`|final point|`Ten slotte geef ik een advies.`|\n|`kortom`|summary|`Kortom, het project loopt goed.`|\n\n### The trap you already know\nEvery one of these can start a sentence, and every one of them forces the verb into second position: `Ten eerste bespreek ik...`, never `Ten eerste ik bespreek...`. Five signal words means five V2 opportunities per talk. Drill it until it is boring.\n\nSpelling watch: `ten slotte` (finally) is two words. One word, `tenslotte`, means after all. In slides, the two-word version is almost always the one you want.\n\nSay a mini-talk out loud now: one sentence per signal word, about anything, even about wat je vanavond eet.",
+      "drill": [
+        {
+          "q": "Complete with the right signal word: ___ , het onderzoek is klaar en de klant is tevreden. (summary)",
+          "a": "Kortom, het onderzoek is klaar en de klant is tevreden."
+        },
+        {
+          "q": "Translate: First I will discuss the results, then the costs.",
+          "a": "Ten eerste bespreek ik de resultaten, vervolgens de kosten."
+        },
+        {
+          "q": "Fix the error: Daarnaast wij hebben twee monsters getest.",
+          "a": "Daarnaast hebben wij twee monsters getest. (V2: verb directly after the signal word.)"
+        },
+        {
+          "q": "Which is correct on a closing slide: `ten slotte` or `tenslotte`?",
+          "a": "Ten slotte (two words) for a final point; `tenslotte` in one word means after all."
+        },
+        {
+          "q": "Make one sentence with `vervolgens` about your lab work.",
+          "a": "Voorbeeld: Vervolgens sturen wij het rapport naar de klant."
+        },
+        {
+          "q": "Translate: Finally, I would like to give a short piece of advice.",
+          "a": "Ten slotte zou ik graag een kort advies willen geven. (`zou... willen` makes it polite, week 17.)"
+        }
+      ]
+    },
+    {
+      "id": "w18l3",
+      "title": "Cijfers presenteren",
+      "minutes": 8,
+      "body": "### Numbers without stumbling\nEvery ZiQo presentation has numbers in it. Learn the fixed phrases and the numbers stop being scary.\n\n- `de helft` = half: `De helft van de monsters was schoon.`\n- `een derde` / `een kwart` = a third / a quarter: `Een derde van de klanten komt uit Nederland.`\n- `gestegen met` / `gedaald met` = risen by / fallen by: `De omzet is gestegen met tien procent.`\n- `ten opzichte van` = compared to: `Ten opzichte van vorig jaar is de vraag gedaald.`\n\n### Small grammar, big effect\n`Stijgen` and `dalen` take `zijn` in the perfectum: `de prijs is gestegen`, never `heeft gestegen`. And note `het percentage`, but with `procent` Dutch drops the article entirely: just `tien procent`.\n\n### Reading numbers aloud\n`1,5` is `anderhalf` or `één komma vijf`. The comma is the decimal in Dutch, the dot separates thousands: `10.000` is ten thousand. Get this wrong in a lab report presentation and your aflatoxin level is suddenly a thousand times too high. Read every number on your slide out loud once before the meeting.",
+      "drill": [
+        {
+          "q": "Translate: Half of the samples were contaminated.",
+          "a": "De helft van de monsters was besmet. (`De helft` is singular, so `was`.)"
+        },
+        {
+          "q": "Complete: De omzet is ___ met vijftien procent. (risen)",
+          "a": "De omzet is gestegen met vijftien procent. (`Zijn` + gestegen, never `heeft`.)"
+        },
+        {
+          "q": "Translate: Compared to last year, the costs have fallen.",
+          "a": "Ten opzichte van vorig jaar zijn de kosten gedaald."
+        },
+        {
+          "q": "Say in Dutch: 1,5 and 10.000.",
+          "a": "Anderhalf (of: één komma vijf) en tienduizend. (Comma = decimal, dot = thousands.)"
+        },
+        {
+          "q": "De of het: ___ helft, ___ percentage, ___ omzet?",
+          "a": "De helft, het percentage, de omzet."
+        },
+        {
+          "q": "Translate: A third of the tests would be cheaper in our own lab.",
+          "a": "Een derde van de testen zou goedkoper zijn in ons eigen lab. (`Zou` + infinitive at the end.)"
+        }
+      ]
+    },
+    {
+      "id": "w18l4",
+      "title": "De grafiek en het beeld",
+      "minutes": 7,
+      "body": "### Talking at a slide, in Dutch\nYou point at the screen. Now what? Three phrases carry ninety percent of the work:\n\n- `Zoals u ziet, stijgt de vraag naar laboratoriumanalyses.`\n- `Deze grafiek laat zien dat de resultaten stabiel zijn.`\n- `Wat opvalt, is dat de kosten tussen maart en juni zijn gedaald.`\n\n### Two grammar points hiding in there\nFirst: `laat zien dat...` starts a bijzin (week 7), so the verb moves to the end: `...dat de resultaten stabiel zijn.` Second: `Zoals u ziet,` is a fronted clause, so the main verb comes straight after the comma: `Zoals u ziet, stijgt de vraag.` Two rules you know, now welded together.\n\n### Useful furniture\n`De grafiek`, `het beeld`, `de tabel`, `de as` (axis), `de lijn`, `het staafdiagram` (bar chart). `Op de verticale as ziet u het aantal monsters.`\n\nPassief (week 13) sounds professional here: `De metingen zijn uitgevoerd tussen januari en april.` Nobody needs to know it was just you, at 23:00, with coffee.",
+      "drill": [
+        {
+          "q": "Translate: As you can see, the demand is rising.",
+          "a": "Zoals u ziet, stijgt de vraag. (Verb straight after the fronted clause.)"
+        },
+        {
+          "q": "Complete: Deze grafiek laat zien dat de kosten ___ ___. (are falling)",
+          "a": "Deze grafiek laat zien dat de kosten dalen. (Bijzin: verb to the end.)"
+        },
+        {
+          "q": "Fix the error: Wat opvalt, is dat de omzet is gestegen tussen maart en op juni.",
+          "a": "Wat opvalt, is dat de omzet tussen maart en juni is gestegen. (Range = `tussen... en...`, no extra `op`.)"
+        },
+        {
+          "q": "De of het: ___ grafiek, ___ beeld, ___ staafdiagram, ___ tabel?",
+          "a": "De grafiek, het beeld, het staafdiagram, de tabel."
+        },
+        {
+          "q": "Put in the passive: Wij hebben de metingen in april uitgevoerd.",
+          "a": "De metingen zijn in april uitgevoerd. (Passief perfectum: zijn + uitgevoerd.)"
+        },
+        {
+          "q": "Describe one imaginary graph about ZiQo in one Dutch sentence, starting with `Zoals u ziet`.",
+          "a": "Voorbeeld: Zoals u ziet, is het aantal analyses sinds januari gestegen."
+        }
+      ]
+    },
+    {
+      "id": "w18l5",
+      "title": "Vragen na afloop",
+      "minutes": 7,
+      "body": "### The part everyone fears\nThe talk is scripted; the questions are not. Good news: Dutch has polite stalling phrases that buy you thinking time, and using them well sounds more professional than a rushed answer.\n\n- `Goede vraag.` Buys two seconds. Use sparingly, or every vraag becomes goed.\n- `Daar kom ik zo op.` For questions you will answer later anyway.\n- `Als ik u goed begrijp, vraagt u naar de kosten?` Repeat the question in your own words. Checks understanding and buys ten more seconds.\n\n### The graceful non-answer\nNot knowing is fine; pretending is not. In a lab business, a wrong number is worse than no number.\n\n- `Dat weet ik op dit moment niet zeker. Ik zoek het uit en kom er morgen op terug.`\n- `Dat zou ik moeten nakijken.` (`zou` softens it beautifully, week 17)\n- `Dat valt buiten dit onderzoek, maar het is een goed punt.`\n\nNotice `Als ik u goed begrijp, vraagt u...`: the als-clause is a bijzin (verb at the end), and the main clause after the comma starts with the verb. One sentence, two word-order rules, infinite politeness.",
+      "drill": [
+        {
+          "q": "Translate: If I understand you correctly, you are asking about the price.",
+          "a": "Als ik u goed begrijp, vraagt u naar de prijs. (Bijzin first, then verb-first main clause.)"
+        },
+        {
+          "q": "Complete: Daar ___ ik zo ___. (I will get to that)",
+          "a": "Daar kom ik zo op."
+        },
+        {
+          "q": "Translate politely, with `zou`: I would have to check that.",
+          "a": "Dat zou ik moeten nakijken."
+        },
+        {
+          "q": "You do not know the answer. Say so in Dutch and promise to follow up tomorrow.",
+          "a": "Dat weet ik op dit moment niet zeker. Ik zoek het uit en kom er morgen op terug."
+        },
+        {
+          "q": "Fix the error: Als ik u goed begrijp, u vraagt naar de resultaten.",
+          "a": "Als ik u goed begrijp, vraagt u naar de resultaten. (After a fronted als-clause the verb comes first.)"
+        },
+        {
+          "q": "Translate: That falls outside this research, but it is a good point.",
+          "a": "Dat valt buiten dit onderzoek, maar het is een goed punt."
+        }
+      ]
+    }
+  ]
+}

@@ -81,7 +81,7 @@
     const out = [];
     const tiers = {};
     for (const d of App.decks) {
-      const p = d.priority || 9;
+      const p = d.priority ?? 9;
       (tiers[p] = tiers[p] || []).push(d);
     }
     for (const p of Object.keys(tiers).map(Number).sort((a, b) => a - b)) {

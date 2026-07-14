@@ -1,0 +1,81 @@
+{
+  "week": 24,
+  "theme": "Schrijven B2: rapport en samenvatting",
+  "mission": "Kies één echt werkdocument, bijvoorbeeld een offerte, een labrapport of een brief van de gemeente, en schrijf er een samenvatting van in precies vijf Nederlandse zinnen. Laat /schrijf de samenvatting daarna nakijken en oefen de fouten die eruit komen.",
+  "listening": [
+    { "title": "Maak op nt2taalmenu.nl twee B2-leesoefeningen en schrijf bij elke tekst de kernzin op", "url": "https://nt2taalmenu.nl" },
+    { "title": "Kies op nos.nl een artikel over voedsel of economie en vat het hardop samen in vijf zinnen", "url": "https://nos.nl" }
+  ],
+  "lessons": [
+    {
+      "id": "w24l1",
+      "title": "De rapportstructuur: van aanleiding tot aanbeveling",
+      "minutes": 7,
+      "body": "Time to write like a Dutch consultant. Every rapport in the Netherlands, from de gemeente to your own lab, follows the same five-part skeleton. Learn it once, reuse it for every client.\n\n### Het skelet\n| het onderdeel | de vraag die het beantwoordt |\n| de aanleiding | waarom is dit onderzoek gedaan? |\n| de werkwijze | hoe is het onderzocht? |\n| de resultaten | wat kwam eruit? |\n| de conclusie | wat betekent dat? |\n| de aanbeveling | wat moet er nu gebeuren? |\n\n### Eén zin per onderdeel\n- *De aanleiding voor dit onderzoek was een klacht over de houdbaarheid van het product.*\n- *De monsters zijn tussen 2 en 6 juni geanalyseerd.* (your old friends tussen ... en)\n- *Uit de metingen blijkt dat het vochtgehalte te hoog is.* (bijzin, verb at the end, week 7)\n- *De conclusie is dat het droogproces niet stabiel is.*\n- *Wij bevelen aan om het proces vóór augustus aan te passen.* (om + te, week 4)\n\n### Lees als een klant\nA busy Dutch reader opens your rapport, skips to de conclusie and de aanbeveling, and decides in thirty seconds. Write those two sentences as if they are the only ones anyone will read. Honestly? They are.",
+      "drill": [
+        { "q": "Zet de vijf onderdelen in de juiste volgorde: conclusie, werkwijze, aanleiding, aanbeveling, resultaten", "a": "aanleiding, werkwijze, resultaten, conclusie, aanbeveling" },
+        { "q": "Vertaal: The reason for this investigation was a complaint from a client.", "a": "De aanleiding voor dit onderzoek was een klacht van een klant." },
+        { "q": "Vertaal: The samples were analysed between 2 and 6 June.", "a": "De monsters zijn tussen 2 en 6 juni geanalyseerd. Periode = tussen ... en." },
+        { "q": "Maak af: Uit de metingen blijkt dat het vochtgehalte te hoog ___", "a": "is. In een dat-bijzin staat het werkwoord achteraan." },
+        { "q": "Schrijf een aanbeveling met om ... te: het bedrijf moet het droogproces aanpassen.", "a": "Wij bevelen aan om het droogproces aan te passen. Scheidbaar werkwoord: aan te passen." },
+        { "q": "In welk onderdeel hoort deze zin: 'De metingen zijn op maandag om 9.00 uur gestart.'", "a": "de werkwijze: die beschrijft hoe en wanneer het onderzoek is uitgevoerd. Dag = op, tijdstip = om." }
+      ]
+    },
+    {
+      "id": "w24l2",
+      "title": "Objectieve toon: er werd waargenomen dat",
+      "minutes": 7,
+      "body": "A Dutch report has no feelings. The reader wants to know what the data says, not what you felt on a Tuesday. Three tools create that professional distance.\n\n### Het passief doet het werk (week 13)\n- *Er werd waargenomen dat de bacteriegroei na 48 uur toenam.*\n- *De monsters werden om 9.00 uur gekoeld en op dinsdag getest.*\nThe doer disappears; the method remains. Note the bijzin after `dat`: verb at the end.\n\n### Laat de data praten\n- *Uit de resultaten blijkt dat de partij niet aan de norm voldoet.*\n- *Uit de metingen bleek dat de temperatuur was veranderd.*\n\n### Afstand zonder te liegen\n| te direct | objectief |\n| ik denk dat het monster oud is | het monster is vermoedelijk te oud |\n| ik zag een fout | er werd een afwijking geconstateerd |\n| ik weet het niet zeker | dit zou verklaard kunnen worden door de opslag |\nThat last row is week 17's `zou` finally earning its keep.\n\n### Wanneer mag ik wel?\nOne controlled *wij* in de aanbeveling: *Wij adviseren om de test te herhalen.* And in the email around the report, be as warm as you like. Het rapport blijft koel; jij niet.",
+      "drill": [
+        { "q": "Maak objectief: Ik zag dat het monster besmet was.", "a": "Er werd waargenomen dat het monster besmet was. Het passief haalt de ik-persoon uit het rapport." },
+        { "q": "Vertaal: The results show that the batch does not meet the standard.", "a": "Uit de resultaten blijkt dat de partij niet aan de norm voldoet." },
+        { "q": "Maak objectief met vermoedelijk: Ik denk dat het monster te oud is.", "a": "Het monster is vermoedelijk te oud." },
+        { "q": "Verzacht met zou: De afwijking is veroorzaakt door de hoge temperatuur tijdens de vakantie.", "a": "De afwijking zou veroorzaakt kunnen zijn door de hoge temperatuur tijdens de vakantie. Let op de spelling: vakantie." },
+        { "q": "Vertaal: The samples were cooled at 9.00.", "a": "De monsters werden om 9.00 uur gekoeld. Tijdstip = om." },
+        { "q": "Wanneer mag 'wij' in een rapport? Geef een voorbeeldzin.", "a": "In de aanbeveling, bijvoorbeeld: Wij adviseren om de test te herhalen." }
+      ]
+    },
+    {
+      "id": "w24l3",
+      "title": "Samenvatten in eigen woorden",
+      "minutes": 8,
+      "body": "A summary is not a shorter copy; it is your words carrying someone else's point. Three steps, every time.\n\n### Stap 1: vind de kernzin\nMeestal is de kernzin de eerste zin van de alinea. Test it: delete the sentence and see if the paragraph collapses. De voorbeelden, de cijfers en de herhalingen are decoration; cut them without mercy.\n\n### Stap 2: comprimeer\n- Schrap adjectives: *het zeer uitgebreide, vriendelijke rapport* wordt gewoon *het rapport*.\n- Combine two sentences with a bijzin (week 7): *De machine was kapot. De analyse stopte.* wordt *Omdat de machine kapot was, stopte de analyse.*\n\n### Stap 3: parafraseer\nChange the structure, keep the meaning:\n- actief wordt passief (week 13): *Het lab testte veertig monsters* wordt *Er werden veertig monsters getest.*\n- or announce it: *Met andere woorden: de partij is veilig.*\n\n### De valkuil\nCopying half sentences from the source is not summarising; it is quoting with extra steps. Close the document, write from memory, then check the facts. The standard: your mother in Harare should understand your summary without ever seeing het origineel.",
+      "drill": [
+        { "q": "Comprimeer tot één zin met omdat: De vriesdroger was kapot. De monsters zijn te laat geanalyseerd.", "a": "Omdat de vriesdroger kapot was, zijn de monsters te laat geanalyseerd. De bijzin is positie 1, dus daarna inversie." },
+        { "q": "Schrap wat weg kan: het zeer uitgebreide en vriendelijke rapport van onze collega", "a": "het rapport. In een samenvatting verdwijnen bijvoeglijke naamwoorden en details." },
+        { "q": "Parafraseer met het passief: Het lab testte veertig monsters op aflatoxine.", "a": "Er werden veertig monsters op aflatoxine getest." },
+        { "q": "Beantwoord in het Nederlands: waar staat de kernzin meestal?", "a": "Meestal is de kernzin de eerste zin van de alinea." },
+        { "q": "Vat samen met 'met andere woorden': De partij voldoet aan alle normen voor microbiologie en zware metalen.", "a": "Met andere woorden: de partij is veilig." },
+        { "q": "Parafraseer met een ander begin: De uitslag is morgen beschikbaar.", "a": "Morgen is de uitslag beschikbaar. Vooropgeplaatst bijwoord, dus inversie: V2." }
+      ]
+    },
+    {
+      "id": "w24l4",
+      "title": "Signaalwoorden op papier: daardoor is niet daarom",
+      "minutes": 7,
+      "body": "Speech has intonation; paper has signaalwoorden. Four you will need weekly, plus the trap almost everyone falls into.\n\n### daardoor of daarom? (de valkuil)\nBoth look back at the previous sentence, both trigger inversion, but:\n- `daardoor` = an effect nobody chose: *De koelkast viel uit. Daardoor zijn drie monsters verloren gegaan.*\n- `daarom` = the reason behind someone's decision: *De klant wil de uitslag snel. Daarom versturen wij het rapport morgen al.*\nTest: is a person deciding something? `daarom`. Just physics and bad luck? `daardoor`.\n\n### De rest van het gereedschap\n| het signaalwoord | de functie | het voorbeeld |\n| bovendien | voegt een argument toe | Bovendien is de methode goedkoper. |\n| echter | contrast, formeel | De test is snel. De methode is echter duur. |\n| met betrekking tot | introduceert een onderwerp | Met betrekking tot uw vraag over de kosten: ... |\n\n### V2 blijft de baas\nA fronted signaalwoord fills position 1, so the verb comes straight after: *Bovendien `is` de methode goedkoper.* If you write *Bovendien de methode is goedkoper*, week 1 calls and it is disappointed.",
+      "drill": [
+        { "q": "Kies daardoor of daarom: De centrifuge was stuk. ___ liep de analyse vertraging op.", "a": "Daardoor: een gevolg zonder menselijke beslissing." },
+        { "q": "Kies daardoor of daarom: De klant belde twee keer. ___ hebben wij het rapport vandaag al gestuurd.", "a": "Daarom: het is de reden voor onze beslissing." },
+        { "q": "Vertaal: Moreover, the method is cheaper and faster.", "a": "Bovendien is de methode goedkoper en sneller. Inversie na het vooropgeplaatste signaalwoord." },
+        { "q": "Zet echter op de veilige plek: De test is snel. De methode is duur.", "a": "De test is snel. De methode is echter duur." },
+        { "q": "Begin een alinea over de kosten met 'met betrekking tot'.", "a": "Met betrekking tot de kosten kunnen wij het volgende melden: ..." },
+        { "q": "Wat is er fout: 'Bovendien de methode is goedkoper.'", "a": "Bovendien is de methode goedkoper. Na een vooropgeplaatst signaalwoord komt het werkwoord direct: V2." }
+      ]
+    },
+    {
+      "id": "w24l5",
+      "title": "Veelgemaakte fouten B2: de laatste vlekken",
+      "minutes": 8,
+      "body": "Your grammar is B2; these five details are what still gives you away on paper. Fix them and het rapport reads native.\n\n### d of t\nVoltooid deelwoord: *het is gebeurd*, *de prijs is veranderd*. Present tense hij/zij/het: stem plus t, *het gebeurt vaak*. Test: swap in *gelopen*. If *gelopen* fits the slot, you have a participle, so `veranderd` with a d.\n\n### dat of wat\n- `dat` after a specific het-word: *het rapport dat ik gisteren schreef*\n- `wat` after alles, iets, niets, or a whole clause: *alles wat wij maten*, *iets wat mij opviel*\n\n### als of dan\nDifference takes `dan`: *sneller dan de oude methode*. Equality takes `als`: *net zo duur als vorig jaar*. You will hear *groter als* at every borrel; never write it.\n\n### hen, hun, jou, jouw\n| fout | goed | de regel |\n| ik heb hun gezien | ik heb hen gezien | lijdend voorwerp: hen |\n| het rapport van hun | het rapport van hen | na een voorzetsel: hen |\n| dit is jou monster | dit is jouw monster | bezit: jouw, net als mijn |\n`hun` survives as possessive (*hun lab*) and as indirect object without a preposition: *ik geef hun de uitslag.* And `jou` works exactly like `mij`: *ik help jou.*",
+      "drill": [
+        { "q": "Kies veranderd of verandert: Helaas is de planning gisteren ___.", "a": "veranderd: voltooid deelwoord na 'is'. Bonus: na helaas komt het werkwoord direct, V2." },
+        { "q": "Kies dat of wat: Alles ___ wij hebben gemeten, staat in de bijlage.", "a": "wat: na 'alles' komt altijd wat." },
+        { "q": "Vertaal: The new method is faster than the old one.", "a": "De nieuwe methode is sneller dan de oude. Vergrotende trap + dan, nooit als." },
+        { "q": "Verbeter waar nodig: Ik heb hun het rapport gegeven en daarna heb ik hun gebeld.", "a": "De eerste hun is goed (meewerkend voorwerp zonder voorzetsel), de tweede moet hen zijn: daarna heb ik hen gebeld (lijdend voorwerp)." },
+        { "q": "Kies jou of jouw: Is dit ___ monster of dat van ___?", "a": "Is dit jouw monster of dat van jou? Bezit = jouw, na een voorzetsel = jou." },
+        { "q": "Kies dat of wat: Het monster ___ gisteren binnenkwam, is al getest.", "a": "dat: 'het monster' is een specifiek het-woord." }
+      ]
+    }
+  ]
+}

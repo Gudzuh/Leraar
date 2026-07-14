@@ -66,16 +66,19 @@ device; sync runs on app load and after each session. The token lives in
 localStorage and is sent only to api.github.com. Settings do not sync
 (voice names differ per device).
 
-## Known gaps (Milestone 3 unfinished)
+## Curriculum status
 
-The 2026-07-11 content workflow hit the account's monthly spend limit.
-Still missing: lesson weeks 06, 09, 18, 21-26 and the decks b1-core.json,
-ziqo-pro.json, b2-bridge.json. When capacity is available, resume with
-the script at the path recorded in the session (or re-run the generation
-per file following the style of weeks 5-20), then: add files to
-data/lessons/index.json or data/decks/index.json, add to sw.js SHELL,
-bump VERSION, verify, commit. Week 6 (time prepositions) matters most:
-it targets the learner's top toets weakness.
+All 26 weeks (130 lessons) and all 8 decks are complete and live as of
+2026-07-14. Decks: cognates, a2-core, phrases, grammar-w1-4 (cloze) and
+mistakes from M1; b1-core (292), ziqo-pro (379), b2-bridge (219) added in
+M3. Total ~1,766 cards. New vocab is introduced by priority tier: mistakes
+(0) first, then cognates/a2-core/phrases/grammar (1-4), then b1-core +
+ziqo-pro round-robin (5), then b2-bridge (6). Decks are deduped against
+each other on headword (only "licht" intentionally repeats across two
+studied M1 decks, which must not be reindexed).
+
+Gotcha fixed 2026-07-14: `d.priority ?? 9`, never `|| 9` — the mistakes
+deck is priority 0, and `0 || 9` wrongly sorted it last.
 
 ## Machine quirks
 

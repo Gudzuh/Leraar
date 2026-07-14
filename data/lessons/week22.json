@@ -1,0 +1,81 @@
+{
+  "week": 22,
+  "theme": "Register: van borrel tot bestuur",
+  "mission": "Houd bij de volgende borrel of het volgende koffiemoment vijf minuten lang een gesprek dat volledig in het Nederlands is: open met 'hé, hoe is het?', vraag door over het weekend of de vakantie, en sluit af met een echte exitzin zoals 'nou, ik ga er weer eens vandoor'. Niet naar het Engels wisselen, ook niet als het even hapert.",
+  "listening": [
+    { "title": "Kijk op npo.nl vijf minuten van een talkshow of cabaret en schrijf twee understatements op, zoals 'valt mee' of 'niet verkeerd'", "url": "https://www.npo.nl" },
+    { "title": "Een Beetje Nederlands: kies een aflevering over de Nederlandse cultuur en let op waar Robin 'u' zegt en waar 'je'", "url": "https://www.eenbeetjenederlands.nl" }
+  ],
+  "lessons": [
+    {
+      "id": "w22l1",
+      "title": "u of je, echt dit keer",
+      "minutes": 7,
+      "body": "Dutch has two words for you, and everybody swears the rules are fuzzy. They are not.\n\n### Wanneer u\n- `de ambtenaar`, de Belastingdienst, de notaris: always, in both directions\n- a first email to een nieuwe klant, strangers clearly older than you\n\n### Wanneer je\n- colleagues, startups, de markt, anyone who signs with a first name\n- almost everyone under forty, almost everywhere in de Randstad\n\n### De overstap\nA relationship moves from u to je exactly once and never back. The magic question: *Zullen we tutoyeren?* The reply you will hear: *Zeg maar je, hoor.* Switching back to u afterwards sounds like a declaration of war, or worse, a lawyer's letter.\n\n### E-mailregister in één regel\nu pairs with *Met vriendelijke groet*; je pairs with *Groetjes*. If de klant writes je and signs 'Peter', mirror him.\n\n### Regio en generatie\nBelow the rivers, in Brabant and Limburg, u is warmer and lives longer. In a Randstad startup a junior may 'je' the CEO on day one. In ZiQo meetings: open with u, accept the downgrade gracefully.\n\nGrammar note: u takes the jij-form (*u gaat*), and with hebben both *u hebt* and *u heeft* are correct: *Heeft u de offerte al ontvangen?*",
+      "drill": [
+        { "q": "Vertaal: Shall we switch to 'je'?", "a": "Zullen we tutoyeren? Het antwoord dat je vaak hoort: zeg maar je, hoor." },
+        { "q": "Een klant mailt: 'Kun je me morgen bellen? Groetjes, Peter.' Antwoord je met u of je?", "a": "je: hij tutoyeert en ondertekent met zijn voornaam, dus spiegel je dat." },
+        { "q": "Vertaal formeel, met u en zou: Could you send the quotation before Friday?", "a": "Zou u de offerte vóór vrijdag kunnen sturen?" },
+        { "q": "Je belt de Belastingdienst. U of je, en waarom?", "a": "u, altijd, in beide richtingen: bij instanties blijft het u." },
+        { "q": "Hoe sluit je een formele e-mail af, en hoe een informele?", "a": "Met vriendelijke groet (formeel) en Groetjes (informeel). Let op de spelling: vriendelijke." },
+        { "q": "Wat is er mis als je na 'zullen we tutoyeren?' een week later weer 'u' schrijft?", "a": "Terug naar u klinkt boos of afstandelijk. Eén keer je, altijd je." }
+      ]
+    },
+    {
+      "id": "w22l2",
+      "title": "Formeel vs informeel: het woordpaar",
+      "minutes": 7,
+      "body": "Open a letter from de gemeente and the Dutch suddenly looks a century older. That is `de ambtenarentaal`, officialese. You never need to produce it, but you must decode it, because your KvK, tax and permit mail is written in it.\n\n### Het woordenboekje\n| formeel | gewoon |\n| aanvangen | beginnen |\n| trachten | proberen |\n| thans | nu |\n| tevens | ook |\n| reeds | al |\n| indien | als |\n| gelieve | wilt u |\n| geschieden | gebeuren |\n\n### Zo klinkt het in het wild\n- *De vergadering vangt aan om 10.00 uur.* Just: begint. Note `om` for clock time, as always.\n- *Wij trachten uw vraag binnen vijf werkdagen te beantwoorden.* trachten + te, exactly like proberen (week 4).\n- *Indien u vragen heeft, kunt u ons bellen.* An indien-bijzin works like an als-bijzin: het werkwoord goes to the end.\n- *Uw aanvraag is reeds verwerkt.* Passive (week 13) plus reeds: already processed.\n\n### De regel\nReading: expect this language from het bestuur. Writing: mirror it lightly, `indien` and `tevens` are safe. Speaking: never. Say *thans* at de borrel and someone will check whether you are secretly a notary.",
+      "drill": [
+        { "q": "Decodeer: 'De cursus vangt aan om 19.00 uur.'", "a": "De cursus begint om 19.00 uur. aanvangen is deftig voor beginnen." },
+        { "q": "Herschrijf gewoon: 'Wij trachten uw klacht spoedig te behandelen.'", "a": "Wij proberen uw klacht snel te behandelen." },
+        { "q": "Herschrijf formeel met indien: 'Als u vragen heeft, kunt u mailen.'", "a": "Indien u vragen heeft, kunt u mailen. Zelfde bijzin, deftiger voegwoord." },
+        { "q": "Wat betekent: 'Gelieve het formulier reeds vóór uw vakantie te retourneren'?", "a": "Wilt u het formulier al vóór uw vakantie terugsturen. Let op de spelling: vakantie." },
+        { "q": "Vertaal naar het Engels: 'Thans is uw aanvraag in behandeling.'", "a": "Your application is currently being processed. thans = nu." },
+        { "q": "Kies voor de borrel: 'thans' of 'nu'?", "a": "nu: formele woorden klinken in spreektaal alsof je een brief voorleest." }
+      ]
+    },
+    {
+      "id": "w22l3",
+      "title": "De borrel: van opening tot exit",
+      "minutes": 7,
+      "body": "De borrel is a meeting with drinks and no agenda, and it has grammar of its own. A borrel conversation is an arc: opening, topic, exit. Master the arc and five minutes of Dutch feels easy.\n\n### De opening\n- *Hé, hoe is het?* Standard answer: *Goed! En met jou?* This is a ritual, not a health check.\n- Want the real version? Add echt: *En hoe gaat het nu echt?* That question opens doors; use it with colleagues you know.\n\n### De onderwerpen\nWeekend, vakantie, voetbal. Safe, endless, and they recycle your perfectum:\n- *Wat heb je dit weekend gedaan?*\n- *Waar ga je deze zomer naartoe?* Yours: *In augustus ga ik naar Harare. Mijn moeder maakt dan sadza.* Watch V2 after the fronted time phrase.\n- *Heb je het gezien, Ajax gisteren?*\n\n### De exit\nLeaving mid-conversation is normal and has a fixed liturgy:\n- *Nou, ik ga er weer eens vandoor.*\n- *Ik ga nog even iemand gedag zeggen.*\n- *Leuk je gesproken te hebben! We spreken elkaar.*\nThat little *nou* plus *weer eens* is the sound of a Dutch person leaving: soft, stacked, unstoppable.\n\nNever just walk away, and never announce a lecture. One exit line, one smile, gone.",
+      "drill": [
+        { "q": "Reageer op de opening: 'Hé, hoe is het?'", "a": "Goed! En met jou? Rituele vraag, ritueel antwoord." },
+        { "q": "Vraag naar het weekend, in het perfectum.", "a": "Wat heb je dit weekend gedaan?" },
+        { "q": "Vertel over je zomer en begin met 'In augustus ...'", "a": "In augustus ga ik naar Harare. V2: het werkwoord komt direct na de tijdsbepaling." },
+        { "q": "Vertaal: Well, I'm off again.", "a": "Nou, ik ga er weer eens vandoor." },
+        { "q": "Je wilt weg, maar niet bot. Geef een exitzin met 'even'.", "a": "Ik ga nog even iemand gedag zeggen. even maakt het klein en vriendelijk." },
+        { "q": "Sluit af: Nice talking to you!", "a": "Leuk je gesproken te hebben! Daarna: we spreken elkaar." }
+      ]
+    },
+    {
+      "id": "w22l4",
+      "title": "Nederlandse directheid ontcijferd",
+      "minutes": 8,
+      "body": "Your first Dutch feedback session can feel like a car crash: *Dit klopt niet. Doe het opnieuw.* Breathe. In the Netherlands directness is respect; wrapping a message in cotton wool is what you do to people you do not trust with the truth.\n\n### De vertaalsleutel\n| wat je hoort | wat het betekent |\n| Dit klopt niet. | fix the table, nothing personal |\n| Dat lijkt me geen goed idee. | a firm no |\n| Daar moeten we het nog over hebben. | probably a no |\n| Niet slecht. | genuine praise |\n\n### De verzachters\nDutch does soften, with tiny words instead of long sentences:\n- `even`: *Kun je dit even aanpassen?* makes the job sound small\n- `hoor`: *Dat is prima, hoor.* removes the sting\n- `maar`: *Begin maar zonder mij.* grants permission\n- `misschien` plus `zou` (week 17): *Misschien zou je de inleiding iets korter kunnen maken.*\n\n### Terugkaatsen\nBeing direct back is allowed and expected. Disagree with a reason in a bijzin:\n- *Daar ben ik het niet mee eens, omdat de data iets anders laat zien.*\n- *Ik zie dat anders. Zal ik uitleggen waarom?*\nApologising for your opinion reads as weakness here. Drop the sorry, keep the omdat.",
+      "drill": [
+        { "q": "Verzacht met even en zou: 'Stuur het rapport.'", "a": "Zou je het rapport even kunnen sturen?" },
+        { "q": "Een collega zegt: 'Dit stuk klopt niet.' Wat doe je?", "a": "Vraag door: 'Kun je aanwijzen wat er niet klopt?' Het gaat om de tekst, niet om jou." },
+        { "q": "Vertaal met hoor: That's fine, no worries.", "a": "Dat is prima, hoor." },
+        { "q": "Zeg beleefd dat je het oneens bent, met omdat.", "a": "Daar ben ik het niet mee eens, omdat de data iets anders laat zien. Werkwoord achteraan in de omdat-zin." },
+        { "q": "Wat betekent 'Dat lijkt me geen goed idee'?", "a": "Een duidelijke nee, geen uitnodiging om te onderhandelen." },
+        { "q": "Verzacht: 'Maak de inleiding korter.'", "a": "Misschien zou je de inleiding iets korter kunnen maken." }
+      ]
+    },
+    {
+      "id": "w22l5",
+      "title": "Humor en understatement",
+      "minutes": 8,
+      "body": "Dutch compliments are homeopathic: heavily diluted, still effective. The engine is understatement, and its two star verbs are `meevallen` and `tegenvallen`.\n\n### De schaal\n| de uitspraak | de echte betekenis |\n| niet verkeerd | goed |\n| best aardig | goed |\n| het kon erger | prima |\n| dat viel mee | beter dan verwacht |\n| dat viel tegen | slecht |\n| lekker dan | (ironisch) wat een ramp |\n\n- *Hoe was de audit?* *Viel mee.* Best possible outcome.\n- *De resultaten vielen tegen.* At ZiQo this is a serious sentence; someone must call de klant.\n- De trein delayed again? *Lekker dan.* Pure irony, say it deadpan.\n\n### Droogkomisch\nDutch humour is dry: deliver the joke with a straight face and keep walking. Self-deprecation lands well: *Mijn Nederlands is niet verkeerd, voor iemand die het op de markt heeft geleerd.*\n\n### In de vergadering\n- After the decision: a small joke relaxes the room.\n- During feedback on someone's work: never.\n- When de klant reports a problem: never, not even a good one.\n- About your own mistakes: always safe, mildly heroic.\n\nIf your joke needs *het was maar een grapje, hoor* afterwards, it was the wrong joke.",
+      "drill": [
+        { "q": "Reageer met understatement: 'Hoe was je presentatie?' (het ging goed)", "a": "Viel mee. Of: niet verkeerd. Het understatement is het compliment." },
+        { "q": "Vertaal: The results were disappointing.", "a": "De resultaten vielen tegen." },
+        { "q": "De trein is alweer vertraagd. Reageer ironisch.", "a": "Lekker dan. Droog uitspreken, niet lachen." },
+        { "q": "Je moeder heeft sadza gemaakt en het was fantastisch. Zeg het op zijn Nederlands.", "a": "Niet verkeerd. In het Nederlands is dat een groot compliment." },
+        { "q": "Wanneer maak je géén grapje in een vergadering?", "a": "Tijdens feedback op iemands werk, en wanneer de klant een probleem meldt." },
+        { "q": "Vertaal: Luckily the audit turned out better than expected.", "a": "Gelukkig viel de audit mee. V2: het werkwoord komt direct na 'gelukkig'." }
+      ]
+    }
+  ]
+}

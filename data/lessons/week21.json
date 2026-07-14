@@ -1,0 +1,173 @@
+{
+  "week": 21,
+  "theme": "Idioom en vaste combinaties",
+  "mission": "Gebruik deze week één idioom natuurlijk in een werkgesprek, bijvoorbeeld `ik hak vandaag de knoop door` of `ik hou je op de hoogte`. Kijk of iemand het opmerkt. Als een collega verrast opkijkt, heb je gewonnen.",
+  "listening": [
+    {
+      "title": "Kijk op npo.nl een fragment van een Nederlandse comedyserie en noteer twee vaste uitdrukkingen die je herkent",
+      "url": "https://www.npo.nl"
+    },
+    {
+      "title": "Kijk het Jeugdjournaal en let op hoe weinig idioom het kindernieuws gebruikt vergeleken met volwassenentaal",
+      "url": "https://jeugdjournaal.nl"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "w21l1",
+      "title": "Werk-idioom: aan de slag",
+      "minutes": 7,
+      "body": "### Five expressions Dutch offices run on\n\nYou hear these daily in meetings. Learn them as whole chunks, not word by word.\n\n|Idioom|Meaning|\n|`iemand op de hoogte houden`|keep someone informed|\n|`aan de slag gaan`|get to work, get started|\n|`iets in de gaten houden`|keep an eye on something|\n|`iets op zich nemen`|take something on, take responsibility|\n|`de knoop doorhakken`|make the final decision (literally: chop through the knot)|\n\n### In real ZiQo sentences\n\n- `Ik hou de klant op de hoogte van de resultaten.` Note V2: verb second, even after the chunk.\n- `Morgen gaan we aan de slag met de aflatoxine-analyse.` Fronted `morgen`, so the verb jumps before `we`.\n- `Kun jij de levertijd in de gaten houden?`\n- `Ik neem het rapport op me.` The reflexive changes with the subject: `hij neemt het op zich`.\n- `We praten al weken over de offerte. Iemand moet de knoop doorhakken.`\n\n### Why chunks beat grammar here\n\nYou cannot build `de knoop doorhakken` from logic. Repeat each one aloud three times today. Your short attention span is fine; chunks are short.",
+      "drill": [
+        {
+          "q": "Translate: I will keep you informed about the lab results.",
+          "a": "`Ik hou je op de hoogte van de labresultaten.` The fixed chunk is op de hoogte houden van."
+        },
+        {
+          "q": "Complete with the right idiom: Genoeg gepraat, laten we ... met het project.",
+          "a": "`aan de slag gaan`: Genoeg gepraat, laten we aan de slag gaan met het project."
+        },
+        {
+          "q": "Reorder into a correct sentence: morgen / de knoop / ik / doorhakken / zal",
+          "a": "`Morgen zal ik de knoop doorhakken.` Fronted morgen forces V2, so zal comes before ik."
+        },
+        {
+          "q": "Translate: She is keeping an eye on the delivery times.",
+          "a": "`Zij houdt de levertijden in de gaten.` Object sits between houdt and in de gaten."
+        },
+        {
+          "q": "Your colleague asks who will write the report. Answer in Dutch that you will take it on.",
+          "a": "`Ik neem het op me.` With ik the reflexive is op me, with hij or zij it becomes op zich."
+        },
+        {
+          "q": "Say in Dutch: Unfortunately we have to get to work on Saturday. (start with Helaas)",
+          "a": "`Helaas moeten we op zaterdag aan de slag.` Helaas is fronted, so moeten comes second; days take op."
+        }
+      ]
+    },
+    {
+      "id": "w21l2",
+      "title": "Afspraken-idioom: agenda-taal",
+      "minutes": 7,
+      "body": "### The language of Dutch calendars\n\nThe Netherlands runs on `de agenda`. These five chunks make you sound like you belong in one.\n\n|Idioom|Meaning|\n|`een afspraak nakomen`|keep an appointment or promise|\n|`op het laatste moment`|at the last moment|\n|`ergens op terugkomen`|get back to something later|\n|`iets inplannen`|schedule something in|\n|`ruimte in de agenda`|room in the diary|\n\n### At work\n\n- `Onze klanten weten dat wij onze afspraken altijd nakomen.` Note: `nakomen` splits in main clauses: `wij komen de afspraak na`.\n- `Helaas heeft hij op het laatste moment afgezegd.` Fronted `helaas`, verb second, and perfectum from week 3.\n- `Goede vraag. Ik kom er morgen op terug.` The polite way to buy time in a meeting.\n- `Zullen we het gesprek inplannen tussen twee en drie uur?` Time range with `tussen ... en`.\n- `Ik heb volgende week nog ruimte in de agenda.`\n\n### One trap\n\nEnglish says make an appointment; Dutch says `een afspraak maken`, but keeping it is `nakomen`, never houden. If you would like to reschedule: `ik zou de afspraak graag willen verzetten.` There is your week 17 `zou`, being polite again.",
+      "drill": [
+        {
+          "q": "Translate: Can I get back to you on that on Thursday?",
+          "a": "`Mag ik er donderdag op terugkomen?` The chunk is ergens op terugkomen; er replaces the topic."
+        },
+        {
+          "q": "Complete: Hij zegde de vergadering af op het ... moment.",
+          "a": "`laatste`: op het laatste moment. Fixed chunk, always with het."
+        },
+        {
+          "q": "Reorder: ik / de afspraak / na / kom / altijd",
+          "a": "`Ik kom de afspraak altijd na.` Nakomen splits: kom ... na, prefix to the end."
+        },
+        {
+          "q": "Ask a colleague in Dutch if there is room in her diary between 2 and 3 o'clock.",
+          "a": "`Heb je ruimte in de agenda tussen twee en drie uur?` Time ranges take tussen ... en."
+        },
+        {
+          "q": "Say politely (with zou) that you would like to schedule the meeting for Monday.",
+          "a": "`Ik zou de vergadering graag op maandag willen inplannen.` Zou + graag + willen is the polite frame; days take op."
+        },
+        {
+          "q": "Translate: Unfortunately I have to cancel at the last moment. (start with Helaas)",
+          "a": "`Helaas moet ik op het laatste moment afzeggen.` Fronted helaas pushes moet to second position."
+        }
+      ]
+    },
+    {
+      "id": "w21l3",
+      "title": "Water-idioom: heel Nederlands",
+      "minutes": 7,
+      "body": "### A country below sea level talks in water\n\nZimbabwe gives you drought metaphors; the Dutch built theirs from floods. These four are everywhere.\n\n|Idioom|Meaning|\n|`het water staat ons aan de lippen`|we are barely coping, near the limit|\n|`tegen de stroom in`|against the current, against the trend|\n|`boven water`|found again, resurfaced|\n|`in het diepe`|in at the deep end|\n\n### Hear them in the wild\n\n- `Veel kleine labs zeggen: het water staat ons aan de lippen.` Dramatic, common in het nieuws about struggling sectors.\n- `ZiQo zwemt tegen de stroom in: een Afrikaans foodlab in Nederland.` Wear it with pride.\n- `Gelukkig is het oude contract weer boven water.` For lost files that reappear. `Het document is eindelijk boven water gekomen.`\n- `Op mijn eerste werkdag werd ik in het diepe gegooid.` Week 13 passief: `werd ... gegooid`. Every immigrant in the Netherlands knows this feeling.\n\n### Register check\n\nThese are vivid, so one per conversation is plenty. Two makes you sound like a weerbericht. And notice the articles: `het water`, `de stroom`, `het diepe`. Learn the chunk with its article and de/het stops being a gamble.",
+      "drill": [
+        {
+          "q": "Complete: Na drie moeilijke maanden zei de eigenaar: het water staat ons aan de ...",
+          "a": "`lippen`: het water staat ons aan de lippen. Fixed image: water up to your lips."
+        },
+        {
+          "q": "Translate: The missing invoice finally resurfaced.",
+          "a": "`De verdwenen factuur is eindelijk boven water gekomen.` Boven water komen takes zijn in the perfectum."
+        },
+        {
+          "q": "Say in Dutch that you were thrown in at the deep end during your first week. (use the passive)",
+          "a": "`In mijn eerste week werd ik in het diepe gegooid.` Passief with werd; fronted time phrase keeps V2."
+        },
+        {
+          "q": "Complete with the right idiom: Iedereen kiest voor grote labs, maar wij zwemmen tegen de ... in.",
+          "a": "`stroom`: tegen de stroom in zwemmen. De stroom, not het."
+        },
+        {
+          "q": "Reorder: helaas / het water / ons / staat / aan de lippen",
+          "a": "`Helaas staat het water ons aan de lippen.` Fronted helaas, so staat comes second."
+        }
+      ]
+    },
+    {
+      "id": "w21l4",
+      "title": "Vaste voorzetsels: gewoon leren",
+      "minutes": 8,
+      "body": "### The prepositions you cannot reason out\n\nWhy `wachten op` and not voor? No reason. English is just as arbitrary (depend on, proud of). These five you simply memorise, article and all.\n\n|Combinatie|Voorbeeld|\n|`denken aan`|`Ik denk vaak aan Harare en aan de sadza van mijn moeder.`|\n|`wachten op`|`We wachten op de uitslag van het lab.`|\n|`trots op`|`Ik ben trots op het team.`|\n|`tevreden over`|`De klant is tevreden over de analyse.`|\n|`afhankelijk van`|`De planning is afhankelijk van de levering.`|\n\n### The er-trick\n\nWhen the object is already known, Dutch glues `er` to the preposition: `Denk je aan de deadline? Ja, ik denk eraan.` `Wacht je op de resultaten? Ja, ik wacht erop.` This is everywhere in spoken Dutch.\n\n### In a bijzin\n\nWeek 7 rules still apply, verb to the end: `Ik weet dat de klant tevreden over ons rapport is.` More natural: `... tevreden is over ons rapport.` Both correct; Dutch often moves the preposition group after the verb.\n\nDrill these until they are reflexes. Five chunks, five seconds each, every morning with your coffee.",
+      "drill": [
+        {
+          "q": "Complete: Wij wachten al twee weken ... de vergunning van de gemeente.",
+          "a": "`op`: wachten op. Never voor, even though English says wait for."
+        },
+        {
+          "q": "Translate: I am proud of my company.",
+          "a": "`Ik ben trots op mijn bedrijf.` Trots op, not trots van."
+        },
+        {
+          "q": "Answer with an er-word: Denk je nog aan de deadline? Ja, ...",
+          "a": "`Ja, ik denk eraan.` Known object becomes er + aan glued together."
+        },
+        {
+          "q": "Complete: Was de klant tevreden ... het eindrapport?",
+          "a": "`over`: tevreden over. Tevreden met also exists, but over is the safe default for opinions on work."
+        },
+        {
+          "q": "Translate: The delivery date depends on the courier.",
+          "a": "`De leverdatum is afhankelijk van de koerier.` Afhankelijk van, fixed pair."
+        },
+        {
+          "q": "Say in Dutch: When I eat sadza, I think of my family in Zimbabwe. (start with Als)",
+          "a": "`Als ik sadza eet, denk ik aan mijn familie in Zimbabwe.` Bijzin first, then main verb denk directly after the comma: V2."
+        }
+      ]
+    },
+    {
+      "id": "w21l5",
+      "title": "Wanneer geen idioom",
+      "minutes": 7,
+      "body": "### The skill nobody teaches: restraint\n\nIdiom is spice, not sadza. Knowing when plain Dutch wins is real B2.\n\n### Register: read the room\n\n- Client email about a delayed report: `Helaas is het rapport vertraagd. We houden u op de hoogte.` Clean, professional.\n- Same news with water drama: `Het water staat ons aan de lippen!` Now your client is nervous. Wrong register.\n- Rule of thumb: work-idiom (les 1 and 2) fits everywhere; vivid imagery (les 3) fits de borrel, not de offerte.\n\n### False friends with English idiom\n\n- Do not translate English idiom word for word. \"It's raining cats and dogs\" becomes `het regent pijpenstelen`, never katten en honden.\n- \"At the end of the day\" is not aan het einde van de dag (that means literally at 17:00). Say `uiteindelijk`.\n- \"Touch base\" has no Dutch twin. Say `even afstemmen` or `ergens op terugkomen`.\n\n### When in doubt\n\nSay it plainly. `Ik weet het nog niet, ik kom er morgen op terug` beats a mangled proverb every time. A wrong idiom costs more trust than simple correct Dutch. Nobody ever failed a meeting by being clear.",
+      "drill": [
+        {
+          "q": "Your client asks about a delay. Which is better and why: (a) Het water staat ons aan de lippen, or (b) Helaas is het rapport vertraagd; we houden u op de hoogte.",
+          "a": "(b). Water drama alarms a client; plain professional Dutch with u fits the register. Note V2 after helaas."
+        },
+        {
+          "q": "Translate \"at the end of the day, quality decides\" without a literal calque.",
+          "a": "`Uiteindelijk beslist de kwaliteit.` Aan het einde van de dag would mean literally at day's end."
+        },
+        {
+          "q": "A colleague suggests \"even touch base-en\". Give a natural Dutch alternative.",
+          "a": "`Zullen we even afstemmen?` or `Ik kom er later op terug.` Dutch has no touch base."
+        },
+        {
+          "q": "Say plainly in Dutch, no idiom: I do not know yet, I will get back to it tomorrow.",
+          "a": "`Ik weet het nog niet, ik kom er morgen op terug.` Ergens op terugkomen is standard, not flowery."
+        },
+        {
+          "q": "Complete the real Dutch version: It's raining heavily = het regent ...",
+          "a": "`pijpenstelen`: het regent pijpenstelen. Never translate cats and dogs literally."
+        },
+        {
+          "q": "Say with zou, polite and plain: I would keep the email short.",
+          "a": "`Ik zou de e-mail kort houden.` Zou + infinitive gives friendly advice without commanding."
+        }
+      ]
+    }
+  ]
+}

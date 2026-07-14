@@ -1,0 +1,81 @@
+{
+  "week": 6,
+  "theme": "Plannen en afspraken",
+  "mission": "Maak of verzet deze week één echte afspraak in het Nederlands: bij de tandarts, de kapper, de gemeente of met een klant. Vraag daarbij: komt het uit? Doe je het aan de telefoon? Dan telt het dubbel.",
+  "listening": [
+    { "title": "Doe op oefenen.nl twee luisteroefeningen op A2-niveau over tijd en afspraken en schrijf elke kloktijd op die je hoort", "url": "https://www.oefenen.nl" },
+    { "title": "Kijk elke dag vijf minuten Jeugdjournaal en noteer twee zinnen met een tijd erin: op, om of over", "url": "https://jeugdjournaal.nl" }
+  ],
+  "lessons": [
+    {
+      "id": "w6l1",
+      "title": "De toekomst: gaan + infinitief, presens + tijdwoord, en soms zullen",
+      "minutes": 7,
+      "body": "Good news: Dutch barely needs a future tense. You already own most of the tools.\n\n### Optie 1: presens plus tijdwoord (de favoriet)\nThe most Dutch way to talk about the future is the present tense plus a time word:\n- *Morgen `werk` ik thuis.*\n- *Volgende week `sturen` we het rapport.*\n\nWatch V2: morgen is fronted, so the verb comes straight after it. Never *Morgen ik werk*. This one trips you up under pressure, so say the right version out loud now.\n\n### Optie 2: gaan plus infinitief (het plan)\nFor plans and intentions, `gaan` works like English going to. The infinitive moves to the end:\n- *Ik `ga` morgen de monsters `testen`.*\n- *Wij gaan in juli naar Harare.* (movement plus destination: gaan alone is enough)\n\n### En zullen dan?\n`zullen` is not your everyday future. It lives in two places:\n- het voorstel: *`Zullen` we vrijdag afspreken?*\n- de belofte: *Ik `zal` het rapport morgen sturen.*\n\n| de vorm | het gebruik | het voorbeeld |\n| presens plus tijdwoord | de standaard | Morgen werk ik thuis. |\n| gaan plus infinitief | het plan | Ik ga de klant bellen. |\n| zullen | het voorstel, de belofte | Zullen we vrijdag afspreken? |\n\nIn doubt? Present tense plus a time word. Shorter, and it sounds more Dutch.",
+      "drill": [
+        { "q": "Vertaal met gaan: Tomorrow I am going to call the client.", "a": "Morgen ga ik de klant bellen. Na morgen komt het werkwoord meteen (V2), en de infinitief bellen staat aan het einde." },
+        { "q": "Vertaal met presens plus tijdwoord: I am working at home tomorrow.", "a": "Morgen werk ik thuis. Ook goed: Ik werk morgen thuis." },
+        { "q": "Verbeter de fout: `Morgen ik ga naar het lab.`", "a": "Morgen ga ik naar het lab. Morgen staat vooraan, dus het werkwoord komt direct daarna." },
+        { "q": "Doe een voorstel met zullen: meet on Friday.", "a": "Zullen we vrijdag afspreken?" },
+        { "q": "Vertaal: Next week we are going to test the samples.", "a": "Volgende week gaan we de monsters testen. Volgende week vooraan: inversie." },
+        { "q": "Doe een belofte met zullen: I will send the report tomorrow.", "a": "Ik zal het rapport morgen sturen. Zullen voor een belofte klinkt betrouwbaar." }
+      ]
+    },
+    {
+      "id": "w6l2",
+      "title": "Voorzetsels van tijd: de grote schoonmaak",
+      "minutes": 8,
+      "body": "Your number one error cluster, so this week we scrub it clean. Six small words, six fixed jobs. Learn the table, stop guessing forever.\n\n### De grote zes\n| het voorzetsel | wanneer | het voorbeeld |\n| op | de dag, de datum | op maandag, op 3 juli |\n| om | de kloktijd | om half drie, om 9.00 uur |\n| in | de maand, het jaar, het seizoen | in juli, in 2026, in de zomer |\n| van ... tot | begin en einde | van negen tot vijf |\n| tussen ... en | ergens daartussen | tussen twee en vier |\n| over | na deze duur | over een uur, over twee weken |\n\n### De twee valkuilen\n- English mixes at, on and in freely. Dutch never does: clock time is always `om`, days and dates always `op`, months and years always `in`.\n- The killer: I will call you in an hour is *Ik bel je `over` een uur.* `In een uur` means within an hour, how long the job takes: *Ik doe de analyse in een uur.*\n\n### Combineren\n- *De vergadering is `op` dinsdag `om` tien uur.*\n- *Het lab is open `van` negen `tot` vijf.*\n- *`Tussen` twee `en` vier zit ik in het lab.* (time block fronted, verb straight after)\n\nRead the table out loud twice a day. Repetition is the whole trick here.",
+      "drill": [
+        { "q": "Vul in: De vergadering is ___ dinsdag ___ tien uur.", "a": "op dinsdag om tien uur. Dag: op, kloktijd: om." },
+        { "q": "Vertaal: The lab is open from nine to five.", "a": "Het lab is van negen tot vijf open. Ook goed: Het lab is open van negen tot vijf." },
+        { "q": "Vul in: Ik bel je ___ een uur. (in an hour)", "a": "over een uur. Over betekent na die tijd; in een uur betekent binnen een uur." },
+        { "q": "Vertaal: Between two and four I am in the lab.", "a": "Tussen twee en vier ben ik in het lab. Het tijdblok staat vooraan, dus het werkwoord komt direct daarna." },
+        { "q": "Vertaal en spel goed: My vacation starts in July.", "a": "Mijn vakantie begint in juli. Maand: in. En let op de spelling: vakantie met een k, niet vacantie." },
+        { "q": "Verbeter de fouten: `De afspraak is om maandag in drie uur.`", "a": "De afspraak is op maandag om drie uur. Dag: op, kloktijd: om." }
+      ]
+    },
+    {
+      "id": "w6l3",
+      "title": "Een afspraak maken, verzetten en afzeggen",
+      "minutes": 8,
+      "body": "### Drie werkwoorden, één agenda\n- `verzetten` of `verplaatsen`: to move an appointment (verzetten is what you will hear most)\n- `afzeggen`: to cancel it\n- and `de afspraak` itself: a de-word, always\n\n### De sleutelzinnen\n- *Ik wil graag een afspraak maken.*\n- *Kunnen we de afspraak naar donderdag verzetten?*\n- *Helaas moet ik onze afspraak afzeggen.* After helaas the verb comes immediately; you know this dance by now.\n- *Ik bel om de afspraak te verzetten.* (om ... te from week 4, doing real work)\n\n### Komt het uit? Schikt het?\nBoth ask whether it suits:\n- *Komt het u uit op dinsdag om tien uur?*\n- *Schikt het om drie uur?*\n\nThe answers: *Ja, dat komt goed uit.* or *Nee, dat schikt helaas niet.*\n\n### Het perfectum van de planner\nWeek 3 pays off. Ver- verbs take no ge-:\n- *Ik heb de afspraak verzet.*\n\nSeparable verbs put ge in the middle:\n- *De klant heeft de vergadering afgezegd.*\n\n### zou: de beleefdheidsknop\n- *Zou dinsdag ook kunnen?*\n- *Ik zou de afspraak graag willen verplaatsen.*\n\nOne little zou and you sound thirty percent friendlier. Cheap. Use it.",
+      "drill": [
+        { "q": "Vertaal: I would like to make an appointment.", "a": "Ik wil graag een afspraak maken." },
+        { "q": "Vertaal: Can we move the appointment to Thursday?", "a": "Kunnen we de afspraak naar donderdag verzetten? Ook goed: verplaatsen." },
+        { "q": "Vul in: Helaas ___ ik onze afspraak ___ . (moeten, afzeggen)", "a": "Helaas moet ik onze afspraak afzeggen. Na helaas komt het werkwoord meteen (V2)." },
+        { "q": "Vraag beleefd (met u) of dinsdag om tien uur uitkomt.", "a": "Komt het u uit op dinsdag om tien uur? Ook goed: Schikt het op dinsdag om tien uur?" },
+        { "q": "Perfectum: Ik ___ de afspraak ___ . (verzetten)", "a": "Ik heb de afspraak verzet. Geen ge-: werkwoorden met ver- krijgen geen ge- (week 3)." },
+        { "q": "Vertaal beleefd met zou: I would like to move the appointment.", "a": "Ik zou de afspraak graag willen verplaatsen. Zou plus infinitieven aan het einde." }
+      ]
+    },
+    {
+      "id": "w6l4",
+      "title": "De agenda-week: druk, vrij en prioriteiten",
+      "minutes": 7,
+      "body": "### De week in blokken\nDutch glues days and day-parts together: `maandagochtend`, `dinsdagmiddag`, `vrijdagavond`. Front them and let V2 do the rest:\n- *Maandagochtend heb ik een vergadering.*\n- *Vrijdagmiddag ben ik vrij.*\n\nHabits take 's ochtends, 's middags, 's avonds:\n- *'s Ochtends werk ik het best.*\n\nAnd for today: vanochtend, vanmiddag, vanavond.\n\n### druk of vrij\n- *Ik heb het deze week erg druk.* (the idiom is het druk hebben, with het)\n- *Donderdag ben ik vrij.*\n\n### de of het? De agendawoorden\n| de | het |\n| de agenda, de vergadering, de week, de afspraak | het overleg, het weekend, het schema |\n\n### Prioriteiten\nYour modals from week 4, now running your calendar:\n- *Ik moet eerst het rapport afmaken.*\n- *Daarna wil ik de klant bellen.*\n- *Het overleg kan ook volgende week.*\n\nThe sentence to steal: *Deze week heb ik het druk: maandag en dinsdag zit ik in het lab, woensdagochtend heb ik een overleg, en vrijdagmiddag ben ik vrij.* One breath, four inversions, zero errors. That is the goal.",
+      "drill": [
+        { "q": "Vertaal: On Monday morning I have a meeting.", "a": "Maandagochtend heb ik een vergadering. Het tijdwoord staat vooraan, dus inversie." },
+        { "q": "Vertaal: I am very busy this week.", "a": "Ik heb het deze week erg druk. Het idioom is het druk hebben, met het." },
+        { "q": "de of het: ___ overleg, ___ vergadering, ___ weekend?", "a": "het overleg, de vergadering, het weekend." },
+        { "q": "Vul in: ___ werk ik het best. (in the morning, als gewoonte)", "a": "'s Ochtends werk ik het best. Gewoonte: 's ochtends, en daarna meteen het werkwoord." },
+        { "q": "Vertaal met moeten en eerst: First I have to finish the report.", "a": "Eerst moet ik het rapport afmaken. Na eerst: inversie, en afmaken staat aan het einde." },
+        { "q": "Beschrijf jouw donderdag in twee zinnen: één met druk, één met vrij.", "a": "Voorbeeld: Donderdagochtend heb ik het druk: drie vergaderingen. Donderdagavond ben ik vrij." }
+      ]
+    },
+    {
+      "id": "w6l5",
+      "title": "Uitnodigen en reageren: ja, nee en het beleefde nee",
+      "minutes": 7,
+      "body": "### Uitnodigen: twee gouden openers\n- *Zullen we vrijdag samen lunchen?*\n- *Heb je zin om na het werk iets te drinken?* (zin om plus te, with the infinitive at the end: week 4 again)\n\nAlso handy: *Ga je mee naar de borrel?*\n\n### Ja zeggen\n- *Ja, leuk! Dat lijkt me gezellig.*\n- *Goed idee. Hoe laat spreken we af?*\n\n### Nee zeggen zonder vijanden te maken\nThe Dutch template: helaas, then a reason, then an alternative.\n- *Helaas kan ik vrijdag niet, ik moet naar een klant.* (after helaas: verb straight away)\n- *Ik heb deze week geen tijd, maar volgende week wel.* (geen negates a noun, niet negates the rest: week 3)\n- *Zou donderdag ook kunnen?*\n\nA bare nee sounds harsh in any language. A nee plus an alternative sounds like a professional with a full agenda.\n\n### Klein maar belangrijk\n`De uitnodiging` is a de-word, and the adjective is `vriendelijk`, spelled with -lijk even though you hear luk: *Bedankt voor de vriendelijke uitnodiging.* Write it once, say it twice.",
+      "drill": [
+        { "q": "Nodig een collega uit met zullen we: lunch on Friday.", "a": "Zullen we vrijdag samen lunchen?" },
+        { "q": "Vertaal: Do you feel like having a drink after work?", "a": "Heb je zin om na het werk iets te drinken? Zin om plus te, infinitief aan het einde." },
+        { "q": "Accepteer de uitnodiging in twee korte zinnen.", "a": "Ja, leuk! Dat lijkt me gezellig. Ook goed: Goed idee. Hoe laat spreken we af?" },
+        { "q": "Weiger beleefd met helaas: you cannot make it on Friday, you have to work.", "a": "Helaas kan ik vrijdag niet, ik moet werken. Na helaas komt het werkwoord meteen." },
+        { "q": "niet of geen: Ik heb deze week ___ tijd, maar volgende week wel.", "a": "geen. Geen ontkent een zelfstandig naamwoord zonder lidwoord: geen tijd." },
+        { "q": "Vertaal en spel goed: Thanks for the friendly invitation.", "a": "Bedankt voor de vriendelijke uitnodiging. Let op de spelling: vriendelijke met -lijk." }
+      ]
+    }
+  ]
+}

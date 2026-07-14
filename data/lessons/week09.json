@@ -1,0 +1,177 @@
+{
+  "week": 9,
+  "theme": "Werk-Nederlands: de e-mail",
+  "mission": "Stuur deze week één echte werkmail volledig in het Nederlands: aan een klant, een leverancier of de gemeente. Gebruik de drie stappen uit les 5 (bedanken, antwoorden, vervolgstap) en sluit af met 'Met vriendelijke groet'. Laat /schrijf de mail eerst checken als je twijfelt.",
+  "listening": [
+    {
+      "title": "Doe op nt2taalmenu.nl twee schrijfoefeningen over formele brieven en e-mails en schrijf de vaste zinnen op die je wilt stelen",
+      "url": "https://nt2taalmenu.nl"
+    },
+    {
+      "title": "Kijk elke dag het Jeugdjournaal en noteer één zin die je in een werkmail zou kunnen gebruiken",
+      "url": "https://jeugdjournaal.nl"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "w9l1",
+      "title": "De formele mail-anatomie: Geachte, komma, kleine letter",
+      "minutes": 7,
+      "body": "### De vijf verdiepingen\nA Dutch business mail is a building with five floors, always in this order:\n- `het onderwerp`: short and concrete, like `Offerte aflatoxine-analyse`\n- `de aanhef`: `Geachte heer Jansen,` or `Geachte mevrouw De Vries,`\n- `de kern`: say why you write in the very first sentence\n- `de afsluiting`: what happens next, and when\n- `de groet`: `Met vriendelijke groet,` plus your full name\n\n### Three traps that scream beginner\n- Never write *Geachte de heer*. No article after `Geachte`, ever. It is `Geachte heer Smit`.\n- After the aanhef comes a **comma**, and the next line starts **lowercase**: `Geachte mevrouw Bakker,` then `hierbij stuur ik u de resultaten van de analyse.`\n- Spelling: `Met vriendelijke groet`, with *vriendelijke* ending in e. Say it in syllables: vrien-de-lij-ke. You have misspelled this one before; it dies here.\n\n### No name?\nThen `Geachte heer/mevrouw,` and in formal writing always `heer`, not `meneer`. The comma plus lowercase rule still applies. A ZiQo mail that follows this skeleton already sounds professional before you write one clever sentence.",
+      "drill": [
+        {
+          "q": "Verbeter: 'Geachte de heer Smit,'",
+          "a": "Geachte heer Smit, (never an article after Geachte)"
+        },
+        {
+          "q": "Schrijf de eerste regel na 'Geachte mevrouw Jansen,': thank her for her quick reply.",
+          "a": "hartelijk dank voor uw snelle reactie. (lowercase after the comma of the aanhef)"
+        },
+        {
+          "q": "Schrijf de standaardafsluiting van een formele mail.",
+          "a": "Met vriendelijke groet, (capital M, vriendelijke with a final e)"
+        },
+        {
+          "q": "Je kent de naam van de lezer niet. Schrijf de aanhef.",
+          "a": "Geachte heer/mevrouw,"
+        },
+        {
+          "q": "Zet de maildelen in de juiste volgorde: de groet, de kern, het onderwerp, de afsluiting, de aanhef",
+          "a": "het onderwerp, de aanhef, de kern, de afsluiting, de groet"
+        },
+        {
+          "q": "Vertaal: 'Herewith I send you the results of the analysis.'",
+          "a": "Hierbij stuur ik u de resultaten van de analyse."
+        }
+      ]
+    },
+    {
+      "id": "w9l2",
+      "title": "Beleefde verzoeken: zou u het even kunnen?",
+      "minutes": 7,
+      "body": "### The politeness ladder\nDutch requests climb a ladder. Bottom rung: `Stuur het rapport.` Fine for a friend, rude to a client. For klanten and instanties, climb up:\n- `Kunt u het rapport sturen?` neutral and correct\n- `Zou u het rapport kunnen sturen?` the golden formula\n- `Ik zou graag de resultaten ontvangen.` a polite wish\n- `Graag ontvang ik uw reactie voor vrijdag.` compact and very Dutch\n\n### Word order alert\n`Graag` at the front pushes the subject behind the verb, exactly like `helaas` and `morgen`: `Graag ontvang ik...`, never *Graag ik ontvang*. Verb second, always.\n\n### Zou, the politeness machine\nYou know `zou` from polite offers; now put it to work. The pattern: `zou` plus infinitives at the very end. `Zou u de offerte kunnen aanpassen?` Both verbs pile up at the end: `kunnen aanpassen`, `willen bevestigen`. One little `zou`, endless politeness.\n\n### Sealing the deal\nClose a request with `Alvast bedankt.` or warmer: `Alvast hartelijk dank voor uw reactie.` It thanks people before they have done anything, which makes the request strangely hard to refuse.",
+      "drill": [
+        {
+          "q": "Vertaal beleefd: 'Could you send me the quotation?'",
+          "a": "Zou u mij de offerte kunnen sturen? (zou plus both infinitives at the end)"
+        },
+        {
+          "q": "Zet in de juiste volgorde: graag / ik / ontvang / uw antwoord / voor woensdag",
+          "a": "Graag ontvang ik uw antwoord voor woensdag. (fronted graag pushes ik behind the verb)"
+        },
+        {
+          "q": "Maak beleefder: 'Stuur de factuur opnieuw.'",
+          "a": "Zou u de factuur opnieuw kunnen sturen?"
+        },
+        {
+          "q": "Vertaal: 'I would like to receive the results this week.'",
+          "a": "Ik zou graag deze week de resultaten ontvangen."
+        },
+        {
+          "q": "Vul aan: '___ bedankt voor uw snelle reactie.'",
+          "a": "Alvast (it thanks the reader before they have replied)"
+        },
+        {
+          "q": "Vertaal: 'Could you let me know whether the sample has arrived?'",
+          "a": "Zou u mij kunnen laten weten of het monster is aangekomen? (of starts a bijzin, verbs to the end)"
+        }
+      ]
+    },
+    {
+      "id": "w9l3",
+      "title": "Een afspraak per mail: op dinsdag 20 juli om 10:30",
+      "minutes": 8,
+      "body": "### Three verbs, three mails\n- `bevestigen`: `Hierbij bevestig ik onze afspraak op dinsdag 20 juli om 10:30, om de resultaten te bespreken.`\n- `verzetten`: moving a meeting is always `van...naar`: `Kunnen we de afspraak verzetten van dinsdag 20 juli naar donderdag 22 juli?`\n- `annuleren`: `Helaas moet ik onze afspraak annuleren.` See what `helaas` does? It steals first position, so `ik` jumps behind `moet`.\n\n### The op/om machine\n|wanneer|voorzetsel|voorbeeld|\n|day or date|`op`|`op dinsdag`, `op 20 juli`|\n|clock time|`om`|`om 10:30`|\n|a window|`tussen...en`|`tussen 9:00 en 12:00 uur`|\n\nThe full formula: `op dinsdag 20 juli om 10:30`. Day gets `op`, clock time gets `om`, no exceptions in a business mail. Yes, this is your favourite trap from the placement test; that is exactly why it lives here.\n\n### Recycle bin\nPerfectum from week 3: `Ik heb de afspraak verzet.` And the spelling classic: `De tijd is veranderd`, participle ending in d. When a client moves the time, confirm the new one straight away: `Graag bevestig ik de nieuwe tijd.`",
+      "drill": [
+        {
+          "q": "Vul in: 'Ik bevestig onze afspraak ___ vrijdag 24 juli ___ 14:00.'",
+          "a": "op ... om (op for the day and date, om for the clock time)"
+        },
+        {
+          "q": "Vertaal: 'Can we move the meeting from Monday to Wednesday?'",
+          "a": "Kunnen we de afspraak verzetten van maandag naar woensdag? (verzetten always with van...naar)"
+        },
+        {
+          "q": "Begin met 'Helaas': 'Ik kan donderdag niet komen.'",
+          "a": "Helaas kan ik donderdag niet komen. (verb second, ik moves behind kan)"
+        },
+        {
+          "q": "Vertaal: 'The time of the appointment has changed.'",
+          "a": "De tijd van de afspraak is veranderd. (participle veranderd ends in d)"
+        },
+        {
+          "q": "Vertaal: 'I am available between 9:00 and 12:00.'",
+          "a": "Ik ben tussen 9:00 en 12:00 uur beschikbaar."
+        },
+        {
+          "q": "Schrijf één bevestigingszin: dinsdag 20 juli, 10:30, in het lab.",
+          "a": "Hierbij bevestig ik onze afspraak op dinsdag 20 juli om 10:30 in het lab."
+        }
+      ]
+    },
+    {
+      "id": "w9l4",
+      "title": "Beste of Geachte? Kies het juiste register",
+      "minutes": 6,
+      "body": "### One question decides everything\nBefore you type the aanhef, ask: do I know this person, and how formal is the relationship? The answer picks your opener and your closer.\n\n|ontvanger|aanhef|afsluiting|\n|de nieuwe klant|`Geachte mevrouw Visser,`|`Met vriendelijke groet,`|\n|de gemeente of de bank|`Geachte heer/mevrouw,`|`Met vriendelijke groet,`|\n|de collega|`Beste Emma,` of `Hoi Emma,`|`Groeten,` of `Groetjes,`|\n\n### Rules of thumb\n- First contact with a client: always `Geachte`. Too formal is a small sin; too informal can cost you the klant.\n- De gemeente, de Belastingdienst, de verzekeraar: `Geachte`, forever. These instanties never become your friends.\n- Colleagues get `Beste` or `Hoi`, plus `je` instead of `u`.\n- `Lieve` is for family and love letters. Never at work, not even on a Friday.\n\n### The mirror trick\nWatch the reply. If mevrouw Visser signs her second mail with `Beste` and her first name, you may follow her. The other person always opens the informal door first; you just walk through it.",
+      "drill": [
+        {
+          "q": "Mail aan de gemeente over je BSN. Schrijf de aanhef.",
+          "a": "Geachte heer/mevrouw, (instanties always get Geachte)"
+        },
+        {
+          "q": "Eerste mail aan een mogelijke klant, mevrouw Visser. Schrijf de aanhef.",
+          "a": "Geachte mevrouw Visser,"
+        },
+        {
+          "q": "Mail aan je collega Emma over de lunch. Schrijf de aanhef en de afsluiting.",
+          "a": "Hoi Emma, ... Groetjes, (or: Beste Emma, ... Groeten,)"
+        },
+        {
+          "q": "Mevrouw Visser tekent haar tweede mail met 'Beste' en haar voornaam. Wat wordt jouw volgende aanhef?",
+          "a": "Beste plus haar voornaam, bijvoorbeeld: Beste Karin, (mirror her register once she opens the informal door)"
+        },
+        {
+          "q": "Vertaal voor een collega: 'Thanks for your quick reply!'",
+          "a": "Bedankt voor je snelle reactie! (je, not uw, with colleagues)"
+        },
+        {
+          "q": "Welke afsluiting past bij een formele mail: Groetjes, / Doei! / Met vriendelijke groet,?",
+          "a": "Met vriendelijke groet,"
+        }
+      ]
+    },
+    {
+      "id": "w9l5",
+      "title": "De reply: bedanken, antwoorden, vervolgstap",
+      "minutes": 8,
+      "body": "### The three-step reply\nEvery good client reply has the same skeleton. Learn it once, reuse it forever:\n- **bedanken**: `Hartelijk dank voor uw vraag over de microbiologische analyse.`\n- **antwoorden**: give the answer in one clear sentence, details after: `De analyse duurt vijf werkdagen.`\n- **vervolgstap**: who does what, and when: `Morgen stuur ik u de offerte toe.` Fronted `morgen`, verb still second. Old friend, new context.\n\n### Speed beats perfection\nReply within one working day, even when the real answer is not ready: `Dank voor uw bericht. Ik kom er morgen bij u op terug.` A fast, honest holding line feels better to de klant than three days of silence.\n\n### Out of office, the calm version\n- `Ik ben afwezig van maandag 3 augustus tot en met vrijdag 14 augustus.`\n- `Ik ben op vakantie en lees mijn mail beperkt.` Spell it with love: v-a-k-a-n-t-i-e.\n- `Voor dringende vragen kunt u contact opnemen met mijn collega.`\n\nFlying to Harare to see family? Same three lines, plus a plate of sadza when you land. The mail can wait; the template cannot be wrong.",
+      "drill": [
+        {
+          "q": "Vertaal: 'Thank you very much for your question about the aflatoxin test.'",
+          "a": "Hartelijk dank voor uw vraag over de aflatoxinetest."
+        },
+        {
+          "q": "Zet in de juiste volgorde: stuur / ik / u / morgen / de resultaten",
+          "a": "Morgen stuur ik u de resultaten. (fronted morgen, verb second)"
+        },
+        {
+          "q": "Vul in: 'Ik ben afwezig ___ 3 augustus ___ en met 14 augustus.'",
+          "a": "van ... tot (van...tot en met marks a closed period)"
+        },
+        {
+          "q": "Vertaal: 'I am on holiday until 17 August.'",
+          "a": "Ik ben tot 17 augustus op vakantie. (spelling: va-kan-tie)"
+        },
+        {
+          "q": "Vertaal: 'For urgent questions you can contact my colleague.'",
+          "a": "Voor dringende vragen kunt u contact opnemen met mijn collega."
+        },
+        {
+          "q": "Schrijf de vervolgstap-zin: beloof de klant de offerte uiterlijk vrijdag.",
+          "a": "U ontvangt de offerte uiterlijk vrijdag. (or: Ik stuur u de offerte uiterlijk vrijdag toe.)"
+        }
+      ]
+    }
+  ]
+}

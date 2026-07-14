@@ -1,0 +1,177 @@
+{
+  "week": 26,
+  "theme": "De B2-drempel",
+  "mission": "Boek deze week één gesprek dat je zes maanden geleden zou hebben vermeden en voer het volledig in het Nederlands: leid een vergadering, bel de Belastingdienst of doe een klantgesprek. Geen Engels als reddingsboei. Vertel Claude daarna hoe het ging: wat lukte, waar je vastliep en welke zin je de volgende keer beter wilt zeggen.",
+  "listening": [
+    {
+      "title": "Kies op NPO een documentaire van 30 tot 45 minuten en kijk zonder ondertiteling; schrijf vijf nieuwe woorden op.",
+      "url": "https://www.npo.nl"
+    },
+    {
+      "title": "Kijk elke dag het NOS-journaal zonder ondertiteling en vat één bericht hardop samen in twee zinnen.",
+      "url": "https://nos.nl"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "w26l1",
+      "title": "De mock-vergadering",
+      "minutes": 8,
+      "body": "### De hele boog, alleen jij\n\nThis is the proof week. Set a timer for ten minutes, stand up, and run a full meeting solo, out loud, as if the ZiQo team were in the room.\n\n|De fase|Jouw zin|\n|Openen|`Welkom allemaal. Vandaag bespreken we drie punten.`|\n|Mening geven|`Volgens mij moeten we eerst de aflatoxine-analyse afronden.`|\n|Oneens zijn|`Daar ben ik het niet mee eens, omdat de klant al heeft betaald.`|\n|Samenvatten|`Kort samengevat: we wachten op de uitslag en daarna bellen we de klant.`|\n|Actiepunten|`Jij stuurt morgen de offerte en ik bel het lab om 14.00 uur.`|\n\nNotice the pattern you have drilled since week 1: front something (`Vandaag`, `Daarna`, `Morgen`) and the verb still comes second.\n\n### De rubric, after recording\n\n- V2 after every fronted word? `Helaas hebben we vertraging`, never `Helaas we hebben`.\n- Every noun with the right article? `De uitslag`, `het monster`, `de offerte`.\n- At least one polite `zou`: `Zou jij dat kunnen oppakken?`\n- Did you summarise before you closed?\n\nRecord yourself on your phone. Listen once, wince, fix two things, run it again. Repetition is your superpower and this is the final rep.",
+      "drill": [
+        {
+          "q": "Open de vergadering: begin met `Vandaag` en noem drie agendapunten.",
+          "a": "Vandaag bespreken we drie punten: de offerte, de uitslag en de planning. (V2: het werkwoord komt direct na `Vandaag`.)"
+        },
+        {
+          "q": "Vertaal: Unfortunately, the results are delayed.",
+          "a": "Helaas is de uitslag vertraagd. (Na `helaas` komt het werkwoord meteen: V2.)"
+        },
+        {
+          "q": "Zeg beleefd dat je het oneens bent en geef een reden met `omdat`.",
+          "a": "Daar ben ik het niet mee eens, omdat de klant al heeft betaald. (In de bijzin met `omdat` gaan de werkwoorden naar het einde.)"
+        },
+        {
+          "q": "Zet in de goede volgorde: morgen / de offerte / ik / stuur",
+          "a": "Morgen stuur ik de offerte."
+        },
+        {
+          "q": "Vertaal met `zou`: Would you be able to summarise the action items?",
+          "a": "Zou jij de actiepunten kunnen samenvatten?"
+        },
+        {
+          "q": "Vat de vergadering samen. Begin met `Kort samengevat` en noem twee besluiten.",
+          "a": "Kort samengevat: we wachten op de uitslag en daarna bellen we de klant."
+        }
+      ]
+    },
+    {
+      "id": "w26l2",
+      "title": "Het mock-klantgesprek",
+      "minutes": 8,
+      "body": "### De reis van één klant\n\nPlay both sides out loud: a new client calls ZiQo about aflatoxine in maize flour. Five stops, one journey, all yours.\n\n- **De intake:** `Goedemiddag, u spreekt met ZiQo Applied. Waarmee kan ik u helpen?` Then get the facts: `Om hoeveel monsters gaat het?`\n- **De offerte:** `Ik stuur u vandaag de offerte. De analyse duurt tien werkdagen.`\n- **De vertraging:** `Helaas is het monster later aangekomen, dus de uitslag verschuift van vrijdag naar dinsdag.` There they are again: `helaas` plus V2, and `van ... naar`.\n- **De uitslag:** `Het gehalte ligt onder de norm. Het certificaat wordt vandaag verstuurd.` The passief from week 13: calm and professional.\n- **De nazorg:** `Zou u volgende maand weer monsters willen insturen?`\n\n### De register-check\n\nUse `u` with a new client, always. Switch to `je` only after they do. Een `vriendelijke toon` (yes, that spelling you kept fumbling) plus exact numbers and dates: that is the whole ZiQo brand in one phone call.\n\nRun the full arc twice: first reading, then from memory. The second round is where B2 lives.",
+      "drill": [
+        {
+          "q": "Begroet een nieuwe klant aan de telefoon, formeel, en vraag waarmee je kunt helpen.",
+          "a": "Goedemiddag, u spreekt met ZiQo Applied. Waarmee kan ik u helpen? (Nieuwe klant: altijd `u`.)"
+        },
+        {
+          "q": "Vertaal: The results will be sent on Monday between 9 and 12.",
+          "a": "De uitslag wordt op maandag tussen 9.00 en 12.00 uur verstuurd. (Passief met `worden`; `op` bij dagen, `tussen ... en` bij tijden.)"
+        },
+        {
+          "q": "Vul in: Helaas ___ het monster later aangekomen, dus de uitslag verschuift ___ vrijdag ___ dinsdag.",
+          "a": "is, van, naar. (`Aankomen` krijgt `zijn` in het perfectum; verschuiven gaat met `van ... naar`.)"
+        },
+        {
+          "q": "Vraag beleefd met `zou` of de klant volgende maand weer monsters wil insturen.",
+          "a": "Zou u volgende maand weer monsters willen insturen?"
+        },
+        {
+          "q": "De of het? ___ monster, ___ uitslag, ___ certificaat, ___ offerte",
+          "a": "het monster, de uitslag, het certificaat, de offerte."
+        },
+        {
+          "q": "Vertaal: The concentration is below the limit, so the flour is safe.",
+          "a": "Het gehalte ligt onder de norm, dus het meel is veilig. (Na het voegwoord `dus` volgt hier gewone hoofdzinvolgorde.)"
+        }
+      ]
+    },
+    {
+      "id": "w26l3",
+      "title": "De bureaucratie-eindbaas",
+      "minutes": 7,
+      "body": "### Het eindbaas-gesprek\n\nThe final boss of Dutch is not grammar. It is a phone menu (`toets 2 voor ondernemers`), ten minutes of hold music, and a fast talker. Your script beats all three.\n\n- **Openen:** `Goedemiddag, ik bel over een brief van de Belastingdienst. Het kenmerk is 2026-0431.`\n- **De situatie:** `Volgens de brief heb ik de btw-aangifte niet ingediend, maar ik heb die op 28 juni verstuurd.`\n- **Vertragen:** `Kunt u dat iets langzamer herhalen? Ik wil het goed noteren.`\n- **Controleren:** `Dus als ik het goed begrijp, hoef ik niets te betalen totdat de nieuwe brief komt?`\n- **Vastleggen:** `Zou u dat per e-mail kunnen bevestigen? En mag ik uw naam noteren?`\n\n### Kalm blijven, precies blijven\n\n- Write het kenmerk, de datum and your KvK number down before you dial. Panic loves empty paper.\n- Not knowing a word costs nothing: `Wat bedoelt u precies met een verzuimboete?`\n- Repeat every date back: `Dus vóór 1 augustus, klopt dat?`\n\nYou have survived bureaucracy in Harare. The Belastingdienst also has hold music; it is just in Dutch.",
+      "drill": [
+        {
+          "q": "Vertaal: According to the letter I did not file the VAT return, but I sent it on 28 June.",
+          "a": "Volgens de brief heb ik de btw-aangifte niet ingediend, maar ik heb die op 28 juni verstuurd. (`niet` staat vóór het voltooid deelwoord; `op` bij datums.)"
+        },
+        {
+          "q": "Vraag de medewerker om iets langzamer te praten.",
+          "a": "Kunt u iets langzamer praten? Ik wil het goed noteren."
+        },
+        {
+          "q": "Controleer of je het goed begrijpt: je hoeft niets te betalen. Begin met `Dus als ik het goed begrijp`.",
+          "a": "Dus als ik het goed begrijp, hoef ik niets te betalen? (Na de bijzin vooraan komt het werkwoord direct: V2.)"
+        },
+        {
+          "q": "Vraag beleefd om een bevestiging per e-mail.",
+          "a": "Zou u dat per e-mail kunnen bevestigen?"
+        },
+        {
+          "q": "Zet in de goede volgorde: helaas / ik / het formulier / ben / kwijt",
+          "a": "Helaas ben ik het formulier kwijt. (Na `helaas` komt het werkwoord meteen: V2.)"
+        },
+        {
+          "q": "Vul in en let op de spelling: De afspraak is ___ (veranderen) van 2 juli naar 9 juli.",
+          "a": "veranderd. (Voltooid deelwoord met een d: de stam eindigt op r en r staat niet in 't kofschip.)"
+        }
+      ]
+    },
+    {
+      "id": "w26l4",
+      "title": "Zelfevaluatie tegen B2 can-do's",
+      "minutes": 7,
+      "body": "### Eerlijk meten\n\nB2 is not a feeling, it is a checklist. Score each can-do: 0 (not yet), 1 (with effort and luck), 2 (comfortably, last week, with a witness).\n\n|De can-do in gewone taal|Jouw score|\n|Ik kan mijn mening geven en verdedigen in een vergadering.|0 / 1 / 2|\n|Ik kan het NOS-journaal volgen zonder ondertiteling.|0 / 1 / 2|\n|Ik kan een brief van de Belastingdienst begrijpen zonder woordenboek.|0 / 1 / 2|\n|Ik kan een duidelijke, vriendelijke e-mail aan een klant schrijven.|0 / 1 / 2|\n|Ik kan spontaan reageren als iemand het oneens met me is.|0 / 1 / 2|\n|Ik kan een misverstand oplossen zonder naar het Engels te schakelen.|0 / 1 / 2|\n\n### De eerlijkheidsregel\n\nScore what you actually did, not what you could theoretically manage on a good day. Evidence only: which sentence did you really say, and to whom? If you cannot name the moment, it is a 1, not a 2.\n\n### De gap-lijst\n\nEverything scoring 0 or 1 goes on de gap-lijst. Bring that list to the next /toets: it decides exactly what the test hammers on. Gaps are not failures, they are next week's agenda.",
+      "drill": [
+        {
+          "q": "Bewijs de spreek-can-do: geef je mening over thuiswerken met één argument. Begin met `Volgens mij`.",
+          "a": "Volgens mij werkt thuiswerken goed, omdat ik dan rustig kan schrijven. (Na `Volgens mij` komt het werkwoord: V2.)"
+        },
+        {
+          "q": "Vertaal: I can solve a misunderstanding without switching to English.",
+          "a": "Ik kan een misverstand oplossen zonder naar het Engels over te schakelen. (`zonder ... te` plus infinitief, net als `om ... te`.)"
+        },
+        {
+          "q": "Schrijf één bewijszin in het perfectum over vorige week. Begin met `Vorige week`.",
+          "a": "Vorige week heb ik met een klant over de uitslag gebeld. (V2 na `Vorige week`; perfectum met `hebben`.)"
+        },
+        {
+          "q": "Maak af met een bijzin: Ik weet dat ik nog met luisteren ___ (moeten oefenen).",
+          "a": "Ik weet dat ik nog met luisteren moet oefenen. (In de bijzin gaan de werkwoorden naar het einde.)"
+        },
+        {
+          "q": "Vertaal met `zou`: If I had more time, I would listen to the news every day.",
+          "a": "Als ik meer tijd had, zou ik elke dag naar het nieuws luisteren."
+        },
+        {
+          "q": "Noem twee punten voor je gap-lijst, in hele Nederlandse zinnen.",
+          "a": "Bijvoorbeeld: Snel luisteren is nog moeilijk. De artikelen `de` en `het` gaan soms nog fout."
+        }
+      ]
+    },
+    {
+      "id": "w26l5",
+      "title": "Hoe je B2 blijft (en C1 wordt)",
+      "minutes": 7,
+      "body": "### Het onderhoudsdieet\n\nB2 is not a trophy, it is a gym membership. Stop paying and the muscle shrinks. The diet:\n\n- **Dagelijks, 15 minuten:** het NOS-journaal zonder ondertiteling, plus one summary said out loud.\n- **Wekelijks:** één documentaire, één taalcafé or borrel, één e-mail written without translation help.\n- **Maandelijks:** één Nederlands boek. Start with jeugdboeken; no shame, they are goed geschreven.\n\n### Stop met vertalen in je hoofd\n\nYou have arrived when `de uitslag` makes you see a lab report, not the English word behind it. Train it: narrate de markt, het lab, your bike ride, directly in Dutch. Missing a word? Describe around it: `het ding waarmee je water kookt`.\n\n### De komende zes maanden\n\n- Maand 1–2: consolidate, work through de gap-lijst from lesson 4.\n- Maand 3–4: C1 input, podcasts at natural speed, opinion pieces in de krant.\n- Maand 5–6: produce, give a presentation at work, consider het Staatsexamen NT2 Programma II.\n\nZes maanden geleden zou je deze les niet hebben kunnen lezen. Nu wel. Ga zo door.",
+      "drill": [
+        {
+          "q": "Vertaal: Six months ago I would not have understood this sentence.",
+          "a": "Zes maanden geleden zou ik deze zin niet hebben begrepen. (`zou` plus `hebben` plus voltooid deelwoord voor het verleden.)"
+        },
+        {
+          "q": "Omschrijf `de waterkoker` zonder het woord te gebruiken.",
+          "a": "Bijvoorbeeld: Het is het ding waarmee je water heet maakt voor de thee."
+        },
+        {
+          "q": "Zet in de goede volgorde: elke ochtend / ik / naar het journaal / kijk",
+          "a": "Elke ochtend kijk ik naar het journaal. (V2 na een vooropgeplaatste tijdsbepaling.)"
+        },
+        {
+          "q": "Maak af met `om ... te`: Ik ga naar het taalcafé ...",
+          "a": "Ik ga naar het taalcafé om mijn Nederlands te oefenen."
+        },
+        {
+          "q": "Vertaal en let op de spelling: My Dutch has really changed since January.",
+          "a": "Mijn Nederlands is sinds januari echt veranderd. (`veranderd` met een d, en `veranderen` krijgt hier `zijn`.)"
+        },
+        {
+          "q": "Schrijf één zin over iets wat je uit Zimbabwe mist. Begin met `Soms`.",
+          "a": "Bijvoorbeeld: Soms mis ik de sadza en de zon van Harare. (Na `Soms` komt het werkwoord meteen: V2.)"
+        }
+      ]
+    }
+  ]
+}
