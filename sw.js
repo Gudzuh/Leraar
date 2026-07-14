@@ -1,6 +1,6 @@
 /* Leraar service worker: stale-while-revalidate for everything same-origin.
  * Bump VERSION whenever content or code changes, so old caches get cleaned up. */
-const VERSION = 'leraar-v5';
+const VERSION = 'leraar-v6';
 
 const SHELL = [
   './',

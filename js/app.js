@@ -608,9 +608,9 @@
       </div>
       <div class="panel">
         <h2>Synchroniseren (telefoon ↔ laptop)</h2>
-        <p class="muted">Automatisch via een privé GitHub-gist. Maak op github.com een <strong>fine-grained token</strong> met alleen <strong>gist</strong>-rechten en plak hem op beide apparaten. Sync gebeurt daarna vanzelf bij openen en na elke sessie.</p>
-        <div class="setting"><span>GitHub-token</span>
-          <input type="password" id="setToken" value="${esc(s.gistToken || '')}" placeholder="github_pat_..." style="max-width:180px"></div>
+        <p class="muted">Automatisch via een privé GitHub-gist. Maak op github.com een <strong>classic token</strong> (Tokens classic) met alleen het vinkje <strong>gist</strong>, en plak hem op beide apparaten. Hij begint met <code>ghp_</code>. Sync gebeurt daarna vanzelf bij openen en na elke sessie.</p>
+        <div style="margin:6px 0">
+          <input type="text" id="setToken" value="${esc(s.gistToken || '')}" placeholder="ghp_..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" data-lpignore="true" data-1p-ignore style="width:100%;font-family:monospace;font-size:.8rem"></div>
         <div class="row" style="margin-top:10px">
           <button class="btn secondary" id="syncBtn" ${s.gistToken ? '' : 'disabled'}>Sync nu</button>
         </div>
@@ -645,7 +645,9 @@
       </div>
       <p class="muted center">Leraar · gemaakt voor jou · <a href="https://github.com/Gudzuh/Leraar" target="_blank" rel="noopener">broncode</a></p>`;
 
-    $('#setToken').addEventListener('change', e => {
+    // save on input (not just blur) so a paste is captured immediately and
+    // the first tap of Sync already has the token
+    $('#setToken').addEventListener('input', e => {
       s.gistToken = e.target.value.trim();
       Store.save();
       $('#syncBtn').disabled = !s.gistToken;

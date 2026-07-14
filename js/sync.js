@@ -7,12 +7,36 @@ const Sync = (() => {
 
   const cfg = () => Store.state.settings;
 
+  // Trim defensively: pasted tokens often carry stray spaces or newlines.
+  const token = () => (cfg().gistToken || '').trim();
+
   function headers() {
     return {
-      'Authorization': 'Bearer ' + cfg().gistToken,
+      // classic tokens accept "token", fine-grained accept "Bearer"; "token"
+      // works for both, so use it for the widest compatibility.
+      'Authorization': 'token ' + token(),
       'Accept': 'application/vnd.github+json',
       'Content-Type': 'application/json'
     };
+  }
+
+  // Build a rich error that includes GitHub's own message (e.g. "Bad credentials").
+  async function ghError(resp, label) {
+    let msg = '';
+    try { const b = await resp.json(); if (b && b.message) msg = ': ' + b.message; } catch (e) { /* no body */ }
+    return new Error(label + ' (' + resp.status + ')' + msg);
+  }
+
+  // Non-secret description of the stored token, for diagnosing auth failures.
+  function diag() {
+    const t = token();
+    if (!t) return 'geen token opgeslagen';
+    const kind = t.startsWith('ghp_') ? 'classic (ghp_)'
+      : t.startsWith('github_pat_') ? 'fine-grained (github_pat_)'
+      : 'onbekend voorvoegsel';
+    const raw = cfg().gistToken || '';
+    const ws = raw !== raw.trim() ? ', had spaties' : '';
+    return kind + ', lengte ' + t.length + ws;
   }
 
   /* Merge two full states. Conservative: never lose review history. */
@@ -57,7 +81,7 @@ const Sync = (() => {
         files: { [FILENAME]: { content } }
       })
     });
-    if (!resp.ok) throw new Error('gist aanmaken mislukt (' + resp.status + ')');
+    if (!resp.ok) throw await ghError(resp, 'gist aanmaken mislukt');
     return (await resp.json()).id;
   }
 
@@ -66,7 +90,7 @@ const Sync = (() => {
    * new one. Returns the gist id, or null if none exists yet. */
   async function findExistingGist() {
     const resp = await fetch(API + '/gists?per_page=100', { headers: headers() });
-    if (!resp.ok) throw new Error('gists ophalen mislukt (' + resp.status + ')');
+    if (!resp.ok) throw await ghError(resp, 'gists ophalen mislukt [' + diag() + ']');
     const gists = await resp.json();
     const match = gists.find(g => g.files && g.files[FILENAME]);
     return match ? match.id : null;
@@ -87,7 +111,7 @@ const Sync = (() => {
     if (s.gistId) {
       const resp = await fetch(`${API}/gists/${s.gistId}`, { headers: headers() });
       if (resp.status === 404) { s.gistId = ''; }
-      else if (!resp.ok) throw new Error('gist ophalen mislukt (' + resp.status + ')');
+      else if (!resp.ok) throw await ghError(resp, 'gist ophalen mislukt [' + diag() + ']');
       else {
         const gist = await resp.json();
         const file = gist.files && gist.files[FILENAME];
@@ -114,7 +138,7 @@ const Sync = (() => {
         headers: headers(),
         body: JSON.stringify({ files: { [FILENAME]: { content } } })
       });
-      if (!resp.ok) throw new Error('gist bijwerken mislukt (' + resp.status + ')');
+      if (!resp.ok) throw await ghError(resp, 'gist bijwerken mislukt');
     }
     s.lastSync = new Date().toISOString();
     Store.save();
@@ -130,5 +154,5 @@ const Sync = (() => {
 
   const enabled = () => !!cfg().gistToken;
 
-  return { sync, auto, enabled };
+  return { sync, auto, enabled, diag };
 })();
